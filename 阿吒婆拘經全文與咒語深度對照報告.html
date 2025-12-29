@@ -370,7 +370,7 @@
                 守護咒與除惡咒 (Protection & Anti-Curse)
             </h2>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+            <div class="grid grid-cols-1 gap-10">
                 <!-- Protection Mantra -->
                 <div>
                     <h3 class="text-2xl font-bold text-blue-700 mb-4 border-b-2 border-blue-500 inline-block pb-1">守護咒 (Protective)</h3>
@@ -378,30 +378,32 @@
                         <table class="min-w-full bg-white divide-y divide-gray-200">
                             <thead class="bg-blue-800 text-white">
                                 <tr>
-                                    <th class="px-4 py-3 text-left">漢字</th>
-                                    <th class="px-4 py-3 text-left">俄譯梵音</th>
+                                    <th class="px-4 py-3 text-left w-1/3">原始經文 (漢字)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (梵音還原)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (ChatGPT IAST)</th>
                                 </tr>
                             </thead>
                             <tbody class="divide-y divide-gray-200 text-lg">
-                                <tr><td class="px-4 py-2">阿車 阿車</td><td class="px-4 py-2 mantra-font">ACCA ACCA</td></tr>
-                                <tr><td class="px-4 py-2">牟尼 牟尼</td><td class="px-4 py-2 mantra-font">MUNI MUNI</td></tr>
-                                <tr><td class="px-4 py-2">尼 休休</td><td class="px-4 py-2 mantra-font">NI SHUSHU</td></tr>
-                                <tr><td class="px-4 py-2">摩訶 耶迦 休休</td><td class="px-4 py-2 mantra-font">MAHAYAKA SHUSHU</td></tr>
-                                <tr><td class="px-4 py-2">鬥伽 那耶 遮阿</td><td class="px-4 py-2 mantra-font">DUGHANAYAJA</td></tr>
-                                <tr><td class="px-4 py-2">呼鬥 伽那 耶遮</td><td class="px-4 py-2 mantra-font">AHUGHANAYAJA</td></tr>
-                                <tr><td class="px-4 py-2">阿多 那耶 遮阿</td><td class="px-4 py-2 mantra-font">ATANAYAJA</td></tr>
-                                <tr><td class="px-4 py-2">阿多 阿多</td><td class="px-4 py-2 mantra-font">ATA ATA</td></tr>
-                                <tr><td class="px-4 py-2">多耶 多耶</td><td class="px-4 py-2 mantra-font">YATA YATA</td></tr>
-                                <tr><td class="px-4 py-2">多豆 留豆 留豆 留</td><td class="px-4 py-2 mantra-font">DURU DURU DURU</td></tr>
-                                <tr><td class="px-4 py-2">休 休豆 留</td><td class="px-4 py-2 mantra-font">SHUSHUDURU</td></tr>
-                                <tr><td class="px-4 py-2">希 尼希 尼希 尼希</td><td class="px-4 py-2 mantra-font">SHIN SHIN SHIN SHIN</td></tr>
-                                <tr><td class="px-4 py-2">尼鬱 珠摩 珠摩</td><td class="px-4 py-2 mantra-font">U CUMA CUMA</td></tr>
-                                <tr><td class="px-4 py-2">珠摩 珠摩</td><td class="px-4 py-2 mantra-font">CUMA CUMA</td></tr>
-                                <tr><td class="px-4 py-2">希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td></tr>
-                                <tr><td class="px-4 py-2">希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td></tr>
-                                <tr><td class="px-4 py-2">尼利 尼利</td><td class="px-4 py-2 mantra-font">NIRI NIRI</td></tr>
-                                <tr><td class="px-4 py-2">摩訶 尼利</td><td class="px-4 py-2 mantra-font">MAHANIRI</td></tr>
-                                <tr><td class="px-4 py-2">娑婆訶</td><td class="px-4 py-2 mantra-font">SVAHA</td></tr>
+                                <tr><td class="px-4 py-2">阿車 阿車</td><td class="px-4 py-2 mantra-font">ACCA ACCA</td><td class="px-4 py-2 mantra-font">accha accha</td></tr>
+                                <tr><td class="px-4 py-2">牟尼 牟尼</td><td class="px-4 py-2 mantra-font">MUNI MUNI</td><td class="px-4 py-2 mantra-font">muni muni</td></tr>
+                                <tr><td class="px-4 py-2">摩訶 牟尼 牟尼</td><td class="px-4 py-2 mantra-font">MAHAMUNI MUNI</td><td class="px-4 py-2 mantra-font">mahā-muni muni</td></tr>
+                                <tr><td class="px-4 py-2">尼 休休</td><td class="px-4 py-2 mantra-font">NI SHUSHU</td><td class="px-4 py-2 mantra-font">ni śuśu</td></tr>
+                                <tr><td class="px-4 py-2">摩訶 耶迦 休休</td><td class="px-4 py-2 mantra-font">MAHAYAKA SHUSHU</td><td class="px-4 py-2 mantra-font">mahā-nāga śuśu</td></tr>
+                                <tr><td class="px-4 py-2">鬥伽 那耶 遮阿</td><td class="px-4 py-2 mantra-font">DUGHANAYAJA</td><td class="px-4 py-2 mantra-font">dughanāya ja</td></tr>
+                                <tr><td class="px-4 py-2">呼鬥 伽那 耶遮</td><td class="px-4 py-2 mantra-font">AHUGHANAYAJA</td><td class="px-4 py-2 mantra-font">ahughanāya ja</td></tr>
+                                <tr><td class="px-4 py-2">阿多 那耶 遮阿</td><td class="px-4 py-2 mantra-font">ATANAYAJA</td><td class="px-4 py-2 mantra-font">atanāya ja</td></tr>
+                                <tr><td class="px-4 py-2">阿多 阿多</td><td class="px-4 py-2 mantra-font">ATA ATA</td><td class="px-4 py-2 mantra-font">aṭa aṭa</td></tr>
+                                <tr><td class="px-4 py-2">多耶 多耶</td><td class="px-4 py-2 mantra-font">YATA YATA</td><td class="px-4 py-2 mantra-font">naṭa naṭa</td></tr>
+                                <tr><td class="px-4 py-2">多豆 留豆 留豆 留</td><td class="px-4 py-2 mantra-font">DURU DURU DURU</td><td class="px-4 py-2 mantra-font">duru duru duru</td></tr>
+                                <tr><td class="px-4 py-2">休 休豆 留</td><td class="px-4 py-2 mantra-font">SHUSHUDURU</td><td class="px-4 py-2 mantra-font">śuśu duru</td></tr>
+                                <tr><td class="px-4 py-2">希 尼希 尼希 尼希</td><td class="px-4 py-2 mantra-font">SHIN SHIN SHIN SHIN</td><td class="px-4 py-2 mantra-font">śini śini śini śini</td></tr>
+                                <tr><td class="px-4 py-2">尼鬱 珠摩 珠摩</td><td class="px-4 py-2 mantra-font">U CUMA CUMA</td><td class="px-4 py-2 mantra-font">u cūma cūma</td></tr>
+                                <tr><td class="px-4 py-2">珠摩 珠摩</td><td class="px-4 py-2 mantra-font">CUMA CUMA</td><td class="px-4 py-2 mantra-font">cūma cūma</td></tr>
+                                <tr><td class="px-4 py-2">希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">尼利 尼利</td><td class="px-4 py-2 mantra-font">NIRI NIRI</td><td class="px-4 py-2 mantra-font">niri niri</td></tr>
+                                <tr><td class="px-4 py-2">摩訶 尼利</td><td class="px-4 py-2 mantra-font">MAHANIRI</td><td class="px-4 py-2 mantra-font">mahā-niri</td></tr>
+                                <tr><td class="px-4 py-2">娑婆訶</td><td class="px-4 py-2 mantra-font">SVAHA</td><td class="px-4 py-2 mantra-font">svāhā</td></tr>
                             </tbody>
                         </table>
                     </div>
@@ -414,26 +416,28 @@
                         <table class="min-w-full bg-white divide-y divide-gray-200">
                             <thead class="bg-red-800 text-white">
                                 <tr>
-                                    <th class="px-4 py-3 text-left">漢字</th>
-                                    <th class="px-4 py-3 text-left">俄譯梵音</th>
+                                    <th class="px-4 py-3 text-left w-1/3">原始經文 (漢字)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (梵音還原)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (ChatGPT IAST)</th>
                                 </tr>
                             </thead>
                             <tbody class="divide-y divide-gray-200 text-lg">
-                                <tr><td class="px-4 py-2">杜留 杜留 杜留 杜留</td><td class="px-4 py-2 mantra-font">DURU DURU DURU DURU</td></tr>
-                                <tr><td class="px-4 py-2">杜摩 杜摩 杜摩 杜摩</td><td class="px-4 py-2 mantra-font">DUMA DUMA DUMA DUMA</td></tr>
-                                <tr><td class="px-4 py-2">希婆 希婆 希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA...</td></tr>
-                                <tr><td class="px-4 py-2">珠那 珠那 珠那 珠那</td><td class="px-4 py-2 mantra-font">CUNA CUNA CUNA...</td></tr>
-                                <tr><td class="px-4 py-2">珠尼 珠尼 珠尼 珠尼</td><td class="px-4 py-2 mantra-font">CUNI CUNI CUNI CUNI</td></tr>
-                                <tr><td class="px-4 py-2">珠豆 珠豆 珠豆 珠豆</td><td class="px-4 py-2 mantra-font">CUDU CUDU CUDU CUDU</td></tr>
-                                <tr><td class="px-4 py-2">蘇留 蘇留 蘇留 蘇留</td><td class="px-4 py-2 mantra-font">SURU SURU SURU SURU</td></tr>
-                                <tr><td class="px-4 py-2">希婆</td><td class="px-4 py-2 mantra-font">SHIBHA</td></tr>
-                                <tr><td class="px-4 py-2">牟休 牟休 牟休 牟休</td><td class="px-4 py-2 mantra-font">MUSHU MUSHU...</td></tr>
-                                <tr><td class="px-4 py-2">牟希 婆希 婆希</td><td class="px-4 py-2 mantra-font">MU SHIBHA SHIBHA</td></tr>
-                                <tr><td class="px-4 py-2">婆修 留修 留修 留修</td><td class="px-4 py-2 mantra-font">SHURU SHURU...</td></tr>
-                                <tr><td class="px-4 py-2">摩修 彌提</td><td class="px-4 py-2 mantra-font">SHUMA SHUMIDI</td></tr>
-                                <tr><td class="px-4 py-2">摩彌 啟摩</td><td class="px-4 py-2 mantra-font">MAMICIMA</td></tr>
-                                <tr><td class="px-4 py-2">阿地 伽羅 彌豆</td><td class="px-4 py-2 mantra-font">ADIKARAMIDU</td></tr>
-                                <tr><td class="px-4 py-2">娑婆訶</td><td class="px-4 py-2 mantra-font">SVAHA</td></tr>
+                                <tr><td class="px-4 py-2">杜留 杜留 杜留 杜留</td><td class="px-4 py-2 mantra-font">DURU DURU DURU DURU</td><td class="px-4 py-2 mantra-font">duru duru duru duru</td></tr>
+                                <tr><td class="px-4 py-2">杜摩 杜摩 杜摩 杜摩</td><td class="px-4 py-2 mantra-font">DUMA DUMA DUMA DUMA</td><td class="px-4 py-2 mantra-font">duma duma duma duma</td></tr>
+                                <tr><td class="px-4 py-2">希婆 希婆 希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA...</td><td class="px-4 py-2 mantra-font">śibha śibha śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">珠那 珠那 珠那 珠那</td><td class="px-4 py-2 mantra-font">CUNA CUNA CUNA...</td><td class="px-4 py-2 mantra-font">cuna cuna cuna cuna</td></tr>
+                                <tr><td class="px-4 py-2">珠尼 珠尼 珠尼 珠尼</td><td class="px-4 py-2 mantra-font">CUNI CUNI CUNI CUNI</td><td class="px-4 py-2 mantra-font">cuni cuni cuni cuni</td></tr>
+                                <tr><td class="px-4 py-2">珠豆 珠豆 珠豆 珠豆</td><td class="px-4 py-2 mantra-font">CUDU CUDU CUDU CUDU</td><td class="px-4 py-2 mantra-font">cudu cudu cudu cudu</td></tr>
+                                <tr><td class="px-4 py-2">蘇留 蘇留 蘇留 蘇留</td><td class="px-4 py-2 mantra-font">SURU SURU SURU SURU</td><td class="px-4 py-2 mantra-font">śuru śuru śuru śuru</td></tr>
+                                <tr><td class="px-4 py-2">希婆</td><td class="px-4 py-2 mantra-font">SHIBHA</td><td class="px-4 py-2 mantra-font">śibha</td></tr>
+                                <tr><td class="px-4 py-2">牟休 牟休 牟休 牟休</td><td class="px-4 py-2 mantra-font">MUSHU MUSHU...</td><td class="px-4 py-2 mantra-font">mūśu mūśu mūśu mūśu</td></tr>
+                                <tr><td class="px-4 py-2">牟希 婆希 婆希</td><td class="px-4 py-2 mantra-font">MU SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">mu śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">婆希 婆希</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">śibha śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">婆修 留修 留修 留修</td><td class="px-4 py-2 mantra-font">SHURU SHURU...</td><td class="px-4 py-2 mantra-font">śuru śuru śuru</td></tr>
+                                <tr><td class="px-4 py-2">摩修 彌提</td><td class="px-4 py-2 mantra-font">SHUMA SHUMIDI</td><td class="px-4 py-2 mantra-font">śumā śumidi</td></tr>
+                                <tr><td class="px-4 py-2">摩彌 啟摩</td><td class="px-4 py-2 mantra-font">MAMICIMA</td><td class="px-4 py-2 mantra-font">mamīcimā</td></tr>
+                                <tr><td class="px-4 py-2">阿地 伽羅 彌豆</td><td class="px-4 py-2 mantra-font">ADIKARAMIDU</td><td class="px-4 py-2 mantra-font">adikārame tu</td></tr>
+                                <tr><td class="px-4 py-2">娑婆訶</td><td class="px-4 py-2 mantra-font">SVAHA</td><td class="px-4 py-2 mantra-font">svāhā</td></tr>
                             </tbody>
                         </table>
                     </div>
