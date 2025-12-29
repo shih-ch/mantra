@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>阿吒婆拘經三大咒語：唐音、梵音與台語發音深度比對 (完整版)</title>
+    <title>阿吒婆拘經咒語發音深度比對 (台語校訂完整版)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Noto+Serif+TC:wght@400;700&family=Charis+SIL:wght@400;700&display=swap" rel="stylesheet">
     <style>
@@ -26,7 +26,7 @@
             overflow: hidden;
         }
         .mantra-table th {
-            background-color: #374151;
+            background-color: #111827; /* Darker header */
             color: #f9fafb;
             padding: 1rem;
             text-align: left;
@@ -38,34 +38,19 @@
             border-bottom: 1px solid #e5e7eb;
             vertical-align: top;
         }
-        .mantra-table tr:last-child td {
-            border-bottom: none;
-        }
         .mantra-table tr:hover {
             background-color: #f3f4f6;
         }
         
-        /* Specific Fonts */
-        .hanzi-font { font-size: 1.15rem; font-weight: 500; color: #111827; }
-        .poj-font { font-family: "Charis SIL", serif; color: #059669; font-weight: 600; font-size: 1.1rem; }
-        .sanskrit-font { font-family: "Charis SIL", serif; color: #2563eb; font-weight: 600; font-size: 1.05rem; text-transform: uppercase; }
+        .hanzi-font { font-size: 1.2rem; font-weight: 500; color: #1f2937; }
+        .poj-font { font-family: "Charis SIL", serif; color: #047857; font-weight: 700; font-size: 1.15rem; }
+        .sanskrit-font { font-family: "Charis SIL", serif; color: #1d4ed8; font-weight: 600; font-size: 1.05rem; text-transform: uppercase; }
         .iast-font { font-family: "Charis SIL", serif; color: #4b5563; font-style: italic; }
         
-        /* Analysis Tags */
-        .tag {
-            display: inline-block;
-            padding: 0.2rem 0.5rem;
-            border-radius: 4px;
-            font-size: 0.85rem;
-            font-weight: bold;
-            margin-bottom: 0.3rem;
-        }
-        .tag-tang { background-color: #dbeafe; color: #1e40af; } /* 唐音/台語優勢 */
-        .tag-diff { background-color: #fee2e2; color: #991b1b; } /* 版本差異 */
-        .tag-note { background-color: #f3f4f6; color: #374151; } /* 一般備註 */
-
-        /* Sticky Header for Tables */
-        .mantra-table th { position: sticky; top: 0; z-index: 10; }
+        .tag { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold; margin-bottom: 0.2rem; }
+        .tag-tang { background-color: #d1fae5; color: #065f46; } /* 台語優勢 */
+        .tag-diff { background-color: #fee2e2; color: #991b1b; } /* 差異 */
+        .tag-note { background-color: #e0f2fe; color: #075985; } /* 備註 */
     </style>
 </head>
 <body class="py-10 px-4 md:px-8">
@@ -74,71 +59,58 @@
         
         <header class="text-center mb-12">
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">阿吒婆拘經咒語發音深度比對</h1>
-            <p class="text-xl text-gray-600 mb-6">T1237 原始經文 (完整無刪減) vs 俄譯梵音還原 vs 台語(河洛話)擬音</p>
-            
-            <div class="bg-blue-50 border-l-4 border-blue-600 p-6 text-left max-w-4xl mx-auto rounded shadow-sm">
-                <h4 class="font-bold text-blue-800 text-xl mb-3">💡 為什麼用台語（閩南語）比對？</h4>
-                <p class="mb-2 text-gray-700">漢傳佛經翻譯多在唐代或更早，當時的漢語語音（中古漢語）與現代國語差異甚大。台語保留了大量唐代語音特徵，對於還原咒語原貌具有關鍵參考價值：</p>
-                <ul class="list-disc list-inside space-y-1 text-gray-700">
-                    <li><strong>入聲保留 (-p, -t, -k)：</strong> 對應梵文的閉音節或特定子音結尾（如「律」Lu̍t 對應 Ṛt/Ṛṣi），這是現代國語完全消失的特徵。</li>
-                    <li><strong>濁音聲母：</strong> 如「仇」在台語讀 Kiû (g/k音)，比國語 Chóu 更接近梵文 Ghora 的 Gh 濁喉音。</li>
-                    <li><strong>元音存古：</strong> 許多在國語中顎化或變音的字，在台語中仍保留古音。</li>
-                </ul>
-            </div>
+            <p class="text-xl text-gray-600 mb-6">T1237 原始經文 (完整版) vs 俄譯梵音 vs 台語發音校訂</p>
         </header>
 
-        <!-- Section 1 -->
+        <!-- Mantra 1 -->
         <section class="mb-16">
-            <h2 class="text-3xl font-bold text-gray-800 mb-6 flex items-center">
-                <span class="bg-gray-800 text-white w-10 h-10 rounded-full flex items-center justify-center mr-3 text-xl">1</span>
-                根本大咒 (The Great Mantra)
-            </h2>
+            <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-gray-200 pb-2">一、根本大咒 (The Great Mantra)</h2>
             <div class="overflow-x-auto rounded-lg shadow">
                 <table class="mantra-table">
                     <thead>
                         <tr>
-                            <th class="w-1/5">T1237 原始經文 (完整)</th>
+                            <th class="w-1/5">T1237 原始經文</th>
                             <th class="w-1/5 bg-emerald-900">台語擬音 (POJ)</th>
                             <th class="w-1/5">俄譯 (梵音還原)</th>
                             <th class="w-1/5">俄譯 (ChatGPT IAST)</th>
-                            <th class="w-1/5">唐音/梵音對應分析</th>
+                            <th class="w-1/5">發音分析備註</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td class="hanzi-font">豆留咩 豆留咩</td><td class="poj-font">Tāu-liû-me Tāu-liû-me</td><td class="sanskrit-font">DURUMI DURUMI</td><td class="iast-font">durume durume</td><td><span class="tag tag-tang">濁音保留</span><br>台語「豆」讀 <strong>Tāu</strong> (濁塞音)，對應梵文 <strong>D</strong> (Du/Dru)。國語 Dòu 雖也對應，但台語韻母更存古。</td></tr>
-                        <tr><td class="hanzi-font">陀咩 陀咩</td><td class="poj-font">Tô-me Tô-me</td><td class="sanskrit-font">TAMI TAMI</td><td class="iast-font">tame tame</td><td><span class="tag tag-note">發音</span> 陀(Tô)對應Ta。</td></tr>
+                        <tr><td class="hanzi-font">豆留咩 豆留咩</td><td class="poj-font">Tāu-liû-me Tāu-liû-me</td><td class="sanskrit-font">DURUMI DURUMI</td><td class="iast-font">durume durume</td><td><span class="tag tag-tang">Me</span> 「咩」台語讀 Me，精準對應 Sanskrit -me 結尾。</td></tr>
+                        <tr><td class="hanzi-font">陀咩 陀咩</td><td class="poj-font">Tô-me Tô-me</td><td class="sanskrit-font">TAMI TAMI</td><td class="iast-font">tame tame</td><td><span class="tag tag-note">Tô</span> 陀(Tô)對應Ta。</td></tr>
                         <tr><td class="hanzi-font">豆留咩 豆留咩</td><td class="poj-font">Tāu-liû-me Tāu-liû-me</td><td class="sanskrit-font">DURUMI DURUMI</td><td class="iast-font">durume durume</td><td></td></tr>
                         <tr><td class="hanzi-font">豆留咩 豆留咩</td><td class="poj-font">Tāu-liû-me Tāu-liû-me</td><td class="sanskrit-font">DURUMI DURUMI</td><td class="iast-font">durume durume</td><td></td></tr>
-                        <tr><td class="hanzi-font">豆留彌隷</td><td class="poj-font">Tāu-liû-bî-lē</td><td class="sanskrit-font">DURUMRILE</td><td class="iast-font">durumire</td><td></td></tr>
+                        <tr><td class="hanzi-font">豆留彌隷</td><td class="poj-font">Tāu-liû-bî-lē</td><td class="sanskrit-font">DURUMRILE</td><td class="iast-font">durumire</td><td><span class="tag tag-note">Bî</span> 此處保留舊譯「彌」(Bî)。</td></tr>
                         <tr><td class="hanzi-font">尼利 尼利 尼利</td><td class="poj-font">Nî-lī Nî-lī Nî-lī</td><td class="sanskrit-font">NIRI NIRI NIRI</td><td class="iast-font">niri niri niri</td><td></td></tr>
                         <tr><td class="hanzi-font">那羅 那羅 那羅</td><td class="poj-font">Nâ-lô Nâ-lô Nâ-lô</td><td class="sanskrit-font">NARA NARA NARA</td><td class="iast-font">nara nara nara</td><td></td></tr>
                         <tr><td class="hanzi-font">尼利 尼利 尼利 尼利</td><td class="poj-font">Nî-lī Nî-lī Nî-lī Nî-lī</td><td class="sanskrit-font">NIRI NIRI NIRI NIRI</td><td class="iast-font">niri niri niri niri</td><td></td></tr>
-                        <tr><td class="hanzi-font">那羅 㝹富 尼利</td><td class="poj-font">Nâ-lô Niu-pù Nî-lī</td><td class="sanskrit-font">NARA-NIPU-NIRI</td><td class="iast-font">nara nupu niri</td><td><span class="tag tag-note">生僻字</span> 「㝹」(Niu) 對應 Ni/Nu。</td></tr>
-                        <tr><td class="hanzi-font">豆留茶濘 豆留茶濘</td><td class="poj-font">Tāu-liû-tê-lêng Tāu-liû-tê-lêng</td><td class="sanskrit-font">DURUCANE DURUCANE</td><td class="iast-font">durucane durucane</td><td></td></tr>
+                        <tr><td class="hanzi-font">那羅 㝹富 尼利</td><td class="poj-font">Nâ-lô Liû-pù Nî-lī</td><td class="sanskrit-font">NARA-NIPU-NIRI</td><td class="iast-font">nara nupu niri</td><td><span class="tag tag-note">Liû</span> 「㝹」字冷僻，依形聲暫擬 Liû/Jiû，對應 Nu。</td></tr>
+                        <tr><td class="hanzi-font">豆留茶濘 豆留茶濘</td><td class="poj-font">Tāu-liû-tê-lêng (x2)</td><td class="sanskrit-font">DURUCANE DURUCANE</td><td class="iast-font">durucane durucane</td><td><span class="tag tag-note">Lêng</span> 「濘」讀 Lêng，對應 -ne。</td></tr>
                         <tr><td class="hanzi-font">摩訶 豆留茶濘</td><td class="poj-font">Mô-ho Tāu-liû-tê-lêng</td><td class="sanskrit-font">MAHADURUCANE</td><td class="iast-font">mahā-durucane</td><td></td></tr>
                         <tr><td class="hanzi-font">豆留茶濘</td><td class="poj-font">Tāu-liû-tê-lêng</td><td class="sanskrit-font">DURUCANE</td><td class="iast-font">durucane</td><td></td></tr>
-                        <tr><td class="hanzi-font">究吒濘 究吒濘</td><td class="poj-font">Kiù-thok-lêng Kiù-thok-lêng</td><td class="sanskrit-font">JITANE JITANE</td><td class="iast-font">jītane jītane</td><td><span class="tag tag-diff">差異</span> T1237「究」Kiù vs 俄譯 Ji。台語「吒」讀 <strong>Thok</strong> (入聲)，顯示此字為閉音節。</td></tr>
-                        <tr><td class="hanzi-font">摩訶 究吒濘</td><td class="poj-font">Mô-ho Kiù-thok-lêng</td><td class="sanskrit-font">MAHAJITANE</td><td class="iast-font">mahā-jītane</td><td></td></tr>
-                        <tr><td class="hanzi-font">多吒濘 多吒濘</td><td class="poj-font">To-thok-lêng To-thok-lêng</td><td class="sanskrit-font">TATANE TATANE</td><td class="iast-font">tatane tatane</td><td><span class="tag tag-tang">入聲對應</span> 吒(Thok) 對應 Ta (可能原為 Tat?)。</td></tr>
-                        <tr><td class="hanzi-font">摩訶 多吒濘</td><td class="poj-font">Mô-ho To-thok-lêng</td><td class="sanskrit-font">MAHATATANE</td><td class="iast-font">mahā-tatane</td><td></td></tr>
-                        <tr><td class="hanzi-font">多吒濘</td><td class="poj-font">To-thok-lêng</td><td class="sanskrit-font">TATANE</td><td class="iast-font">tatane</td><td></td></tr>
-                        <tr><td class="hanzi-font">吒吒 吒吒 吒吒 吒吒</td><td class="poj-font">Thok-thok x4</td><td class="sanskrit-font">TATA TATA TATA TATA</td><td class="iast-font">tata tata tata tata</td><td></td></tr>
-                        <tr><td class="hanzi-font">摩訶 吒吒</td><td class="poj-font">Mô-ho Thok-thok</td><td class="sanskrit-font">MAHATATA</td><td class="iast-font">mahā-tata</td><td></td></tr>
-                        <tr><td class="hanzi-font">吒吒</td><td class="poj-font">Thok-thok</td><td class="sanskrit-font">TATA</td><td class="iast-font">tata</td><td></td></tr>
-                        <tr><td class="hanzi-font">阿毘 阿毘</td><td class="poj-font">A-pî A-pî</td><td class="sanskrit-font">AVI AVI</td><td class="iast-font">abhi abhi</td><td><span class="tag tag-tang">濁音</span> 台語「毘」Pî (古音Bî) 保留濁音感，對應 Vi/Bhi。</td></tr>
+                        <tr><td class="hanzi-font">究吒濘 究吒濘</td><td class="poj-font">Kiù-tshia-lêng Kiù-tshia-lêng</td><td class="sanskrit-font">JITANE JITANE</td><td class="iast-font">jītane jītane</td><td><span class="tag tag-tang">Tshia</span> 「吒」台語讀 <strong>Tshia</strong> (如哪吒)，對應梵文 <em>ṭa</em>。</td></tr>
+                        <tr><td class="hanzi-font">摩訶 究吒濘</td><td class="poj-font">Mô-ho Kiù-tshia-lêng</td><td class="sanskrit-font">MAHAJITANE</td><td class="iast-font">mahā-jītane</td><td></td></tr>
+                        <tr><td class="hanzi-font">多吒濘 多吒濘</td><td class="poj-font">To-tshia-lêng To-tshia-lêng</td><td class="sanskrit-font">TATANE TATANE</td><td class="iast-font">tatane tatane</td><td><span class="tag tag-tang">Tshia</span></td></tr>
+                        <tr><td class="hanzi-font">摩訶 多吒濘</td><td class="poj-font">Mô-ho To-tshia-lêng</td><td class="sanskrit-font">MAHATATANE</td><td class="iast-font">mahā-tatane</td><td></td></tr>
+                        <tr><td class="hanzi-font">多吒濘</td><td class="poj-font">To-tshia-lêng</td><td class="sanskrit-font">TATANE</td><td class="iast-font">tatane</td><td></td></tr>
+                        <tr><td class="hanzi-font">吒吒 吒吒 吒吒 吒吒</td><td class="poj-font">Tshia-tshia (x4)</td><td class="sanskrit-font">TATA TATA TATA TATA</td><td class="iast-font">tata tata tata tata</td><td></td></tr>
+                        <tr><td class="hanzi-font">摩訶 吒吒</td><td class="poj-font">Mô-ho Tshia-tshia</td><td class="sanskrit-font">MAHATATA</td><td class="iast-font">mahā-tata</td><td></td></tr>
+                        <tr><td class="hanzi-font">吒吒</td><td class="poj-font">Tshia-tshia</td><td class="sanskrit-font">TATA</td><td class="iast-font">tata</td><td></td></tr>
+                        <tr><td class="hanzi-font">阿毘 阿毘</td><td class="poj-font">A-pî A-pî</td><td class="sanskrit-font">AVI AVI</td><td class="iast-font">abhi abhi</td><td><span class="tag tag-tang">濁音</span> 台語「毘」Pî (古音為 Bî) 保留濁音感，對應 Vi/Bhi。</td></tr>
                         <tr><td class="hanzi-font">摩訶 阿毘</td><td class="poj-font">Mô-ho A-pî</td><td class="sanskrit-font">MAHA-AVI</td><td class="iast-font">mahā-abhi</td><td></td></tr>
                         <tr><td class="hanzi-font">阿毘 阿毘利</td><td class="poj-font">A-pî A-pî-lī</td><td class="sanskrit-font">AVI AVIRI</td><td class="iast-font">abhi abhiri</td><td></td></tr>
                         <tr><td class="hanzi-font">阿毘利</td><td class="poj-font">A-pî-lī</td><td class="sanskrit-font">AVIRI</td><td class="iast-font">abhiri</td><td></td></tr>
-                        <tr><td class="hanzi-font">摩訶 阿毘利</td><td class="poj-font">Mô-ho A-pî-lī</td><td class="sanskrit-font">MAHA-AVIRI</td><td class="iast-font">mahā-abhiri</td><td></td></tr>
+                        <tr><td class="hanzi-font">摩訶 阿毘利 阿毘利</td><td class="poj-font">Mô-ho A-pî-lī A-pî-lī</td><td class="sanskrit-font">MAHA-AVIRI AVIRI</td><td class="iast-font">mahā-abhiri abhiri</td><td></td></tr>
                         <tr><td class="hanzi-font">阿毘利</td><td class="poj-font">A-pî-lī</td><td class="sanskrit-font">AVIRI</td><td class="iast-font">abhiri</td><td></td></tr>
-                        <tr><td class="hanzi-font">阿婆阿毘 阿婆阿毘</td><td class="poj-font">A-pô-a-pî A-pô-a-pî</td><td class="sanskrit-font">ABHAVI ABHAVI</td><td class="iast-font">abhābhi abhābhi</td><td></td></tr>
-                        <tr><td class="hanzi-font">阿婆阿毘 阿婆阿毘</td><td class="poj-font">A-pô-a-pî A-pô-a-pî</td><td class="sanskrit-font">ABHAVI ABHAVI</td><td class="iast-font">abhābhi abhābhi</td><td></td></tr>
+                        <tr><td class="hanzi-font">阿婆阿毘 阿婆阿毘</td><td class="poj-font">A-pô-a-pî (x2)</td><td class="sanskrit-font">ABHAVI ABHAVI</td><td class="iast-font">abhābhi abhābhi</td><td></td></tr>
+                        <tr><td class="hanzi-font">阿婆阿毘 阿婆阿毘</td><td class="poj-font">A-pô-a-pî (x2)</td><td class="sanskrit-font">ABHAVI ABHAVI</td><td class="iast-font">abhābhi abhābhi</td><td></td></tr>
                         <tr class="bg-yellow-50 border-l-4 border-yellow-400">
                             <td class="hanzi-font">律師 律師</td>
                             <td class="poj-font">Lu̍t-su Lu̍t-su</td>
                             <td class="sanskrit-font">RISHI RISHI</td>
                             <td class="iast-font">ṛṣi ṛṣi</td>
-                            <td><span class="tag tag-tang">關鍵還原</span> 極具價值。「律」台語讀 <strong>Lu̍t</strong> (-t 入聲)，保留了古代翻譯 <strong>Ṛ</strong> (Ri/Li) 音的習慣。國語 Lǜ 已失入聲。</td>
+                            <td><span class="tag tag-tang">關鍵還原</span> 台語「律」讀 <strong>Lu̍t</strong> (入聲 t 結尾)，精準對應梵文 <strong>Ṛt</strong>/Ṛṣi。</td>
                         </tr>
                         <tr><td class="hanzi-font">摩訶 律師</td><td class="poj-font">Mô-ho Lu̍t-su</td><td class="sanskrit-font">MAHARISHI</td><td class="iast-font">mahā-ṛṣi</td><td></td></tr>
                         <tr><td class="hanzi-font">律師</td><td class="poj-font">Lu̍t-su</td><td class="sanskrit-font">RISHI</td><td class="iast-font">ṛṣi</td><td></td></tr>
@@ -149,7 +121,7 @@
                         <tr><td class="hanzi-font">首婁</td><td class="poj-font">Siú-lô͘</td><td class="sanskrit-font">SURO</td><td class="iast-font">suro</td><td></td></tr>
                         <tr class="bg-yellow-50 border-l-4 border-yellow-400">
                             <td class="hanzi-font">仇婁 仇婁</td><td class="poj-font">Kiû-lô͘ Kiû-lô͘</td><td class="sanskrit-font">GHORO GHORO</td><td class="iast-font">ghoro ghoro</td>
-                            <td><span class="tag tag-tang">聲母對應</span> 台語「仇」讀 <strong>Kiû</strong> (群母 g/k 濁音)，完美對應梵文 <strong>Gho</strong> 的濁喉音。國語 Chóu (舌尖音) 已嚴重顎化。</td>
+                            <td><span class="tag tag-tang">濁聲母</span> 台語「仇」讀 <strong>Kiû</strong> (群母 g/k 濁音)，完美對應梵文 <strong>Gho</strong>ra。</td>
                         </tr>
                         <tr><td class="hanzi-font">摩訶 仇婁</td><td class="poj-font">Mô-ho Kiû-lô͘</td><td class="sanskrit-font">MAHAGHORO</td><td class="iast-font">mahā-ghoro</td><td></td></tr>
                         <tr><td class="hanzi-font">仇婁</td><td class="poj-font">Kiû-lô͘</td><td class="sanskrit-font">GHORO</td><td class="iast-font">ghoro</td><td></td></tr>
@@ -168,7 +140,7 @@
                         <tr><td class="hanzi-font">比持 比持</td><td class="poj-font">Pí-tî Pí-tî</td><td class="sanskrit-font">PYIM PYIM</td><td class="iast-font">pīṃ pīṃ</td><td></td></tr>
                         <tr><td class="hanzi-font">呵羅 呵羅</td><td class="poj-font">Ho-lô Ho-lô</td><td class="sanskrit-font">HARA HARA</td><td class="iast-font">hara hara</td><td></td></tr>
                         <tr><td class="hanzi-font">呵羅 呵羅</td><td class="poj-font">Ho-lô Ho-lô</td><td class="sanskrit-font">HARA HARA</td><td class="iast-font">hara hara</td><td></td></tr>
-                        <tr><td class="hanzi-font">唏泥 唏泥</td><td class="poj-font">Hi-nî Hi-nî</td><td class="sanskrit-font">SHIDE SHIDE</td><td class="iast-font">śide śide</td><td><span class="tag tag-diff">音譯差異</span> 唏(Hi)對應 Shi，泥(Nî)對應 De? 顯示古本「泥」可能有不同讀法。</td></tr>
+                        <tr><td class="hanzi-font">唏泥 唏泥</td><td class="poj-font">Hi-nî Hi-nî</td><td class="sanskrit-font">SHIDE SHIDE</td><td class="iast-font">śide śide</td><td><span class="tag tag-diff">De/Nî</span> 俄譯De對應台語Nî，音差較大。</td></tr>
                         <tr><td class="hanzi-font">唏泥 唏泥</td><td class="poj-font">Hi-nî Hi-nî</td><td class="sanskrit-font">SHIDE SHIDE</td><td class="iast-font">śide śide</td><td></td></tr>
                         <tr><td class="hanzi-font">休泥 休泥</td><td class="poj-font">Hiu-nî Hiu-nî</td><td class="sanskrit-font">SHUDE SHUDE</td><td class="iast-font">śude śude</td><td></td></tr>
                         <tr><td class="hanzi-font">休泥</td><td class="poj-font">Hiu-nî</td><td class="sanskrit-font">SHUDE</td><td class="iast-font">śude</td><td></td></tr>
@@ -180,7 +152,7 @@
                         <tr><td class="hanzi-font">摩訶 牟尼 牟尼</td><td class="poj-font">Mô-ho Mâu-nî Mâu-nî</td><td class="sanskrit-font">MAHAMUNI MUNI</td><td class="iast-font">mahā-muni muni</td><td></td></tr>
                         <tr><td class="hanzi-font">娑羅 娑羅</td><td class="poj-font">So-lô So-lô</td><td class="sanskrit-font">BHARA BHARA</td><td class="iast-font">bhara bhara</td><td><span class="tag tag-diff">差異</span> T1237作娑羅(Sara)，俄譯作Bhara。</td></tr>
                         <tr><td class="hanzi-font">娑羅 娑羅</td><td class="poj-font">So-lô So-lô</td><td class="sanskrit-font">BHARA BHARA</td><td class="iast-font">bhara bhara</td><td></td></tr>
-                        <tr><td class="hanzi-font">尸利睱</td><td class="poj-font">Si-lī-hê</td><td class="sanskrit-font">SHRIJARU</td><td class="iast-font">śiri jaru</td><td><span class="tag tag-diff">差異</span> 俄譯 Jaru 對應 T1237 睱(Hê/Ha?)。</td></tr>
+                        <tr><td class="hanzi-font">尸利睱</td><td class="poj-font">Si-lī-hê</td><td class="sanskrit-font">SHRIJARU</td><td class="iast-font">śiri jaru</td><td><span class="tag tag-diff">差異</span> 睱(Hê) vs Jaru。</td></tr>
                         <tr class="bg-red-50 border-l-4 border-red-400">
                             <td class="hanzi-font">路迦遮利蛇</td><td class="poj-font">Lō͘-ka-chia-lī-iâ</td><td class="sanskrit-font">AKARSHAYA</td><td class="iast-font">lokacariṣa</td>
                             <td><span class="tag tag-diff">極大差異</span> T1237 台語讀音明確指向 <strong>Loka-cariya</strong> (世間行)。俄譯還原為 Akarshaya (召請)。二者咒義完全不同。</td>
@@ -188,11 +160,11 @@
                         <tr><td class="hanzi-font">時那 時那</td><td class="poj-font">Sî-ná Sî-ná</td><td class="sanskrit-font">JAYA JAYA</td><td class="iast-font">jaya jaya</td><td><span class="tag tag-note">義譯?</span> 時那 (Jina) = 勝者 = Jaya。</td></tr>
                         <tr><td class="hanzi-font">時那 時那</td><td class="poj-font">Sî-ná Sî-ná</td><td class="sanskrit-font">JAYA JAYA</td><td class="iast-font">jaya jaya</td><td></td></tr>
                         <tr><td class="hanzi-font">無沙婆那 暮蛇</td><td class="poj-font">Bû-sa-pô-ná Bō͘-iâ</td><td class="sanskrit-font">MOSABHAIYA-MYIYA</td><td class="iast-font">mośabhanamuṣa</td><td></td></tr>
-                        <tr><td class="hanzi-font">修迦都多 牟尼</td><td class="poj-font">Siu-ka-to-to Mâu-nî</td><td class="sanskrit-font">SHVAKATOT MUNI</td><td class="iast-font">sugatota muni</td><td><span class="tag tag-tang">音韻</span> 台語「修」Siu 對應 Su/Shva。ChatGPT 還原為 Sugata (善逝)。</td></tr>
+                        <tr><td class="hanzi-font">修迦都多 牟尼</td><td class="poj-font">Siu-kê-to-to Mâu-nî</td><td class="sanskrit-font">SHVAKATOT MUNI</td><td class="iast-font">sugatota muni</td><td><span class="tag tag-tang">音韻</span> 台語「修」Siu 對應 Su/Shva。ChatGPT 還原為 Sugata (善逝)。</td></tr>
                         <tr><td class="hanzi-font">迦羅摩 迦羅摩</td><td class="poj-font">Ka-lô-mô Ka-lô-mô</td><td class="sanskrit-font">AKARAMA AKARAMA</td><td class="iast-font">kārama kārama</td><td></td></tr>
                         <tr><td class="hanzi-font">迦羅摩</td><td class="poj-font">Ka-lô-mô</td><td class="sanskrit-font">AKARAMA</td><td class="iast-font">kārama</td><td></td></tr>
                         <tr><td class="hanzi-font">闍竭提多蛇</td><td class="poj-font">Siā-kia̍t-thê-to-iâ</td><td class="sanskrit-font">JAKHADITYA</td><td class="iast-font">jakhadityaṣa</td><td><span class="tag tag-tang">入聲</span> 台語「竭」讀 <strong>Kia̍t</strong> (入聲)，精準對應梵文的結合輔音。</td></tr>
-                        <tr><td class="hanzi-font">奢摩陀摩</td><td class="poj-font">Chhia-mô-tô-mô</td><td class="sanskrit-font">SHAMADHAMA</td><td class="iast-font">śamadhama</td><td>T1237多一句。</td></tr>
+                        <tr><td class="hanzi-font">奢摩陀摩</td><td class="poj-font">Chhia-mô-tô-mô</td><td class="sanskrit-font">AMADHAMA</td><td class="iast-font">-</td><td>T1237多一句。</td></tr>
                         <tr><td class="hanzi-font">奢摩陀摩</td><td class="poj-font">Chhia-mô-tô-mô</td><td class="sanskrit-font">SHAMADHAMA</td><td class="iast-font">śamadhama</td><td></td></tr>
                         <tr><td class="hanzi-font">奢摩陀摩</td><td class="poj-font">Chhia-mô-tô-mô</td><td class="sanskrit-font">SHAMADHAMA</td><td class="iast-font">śamadhama</td><td></td></tr>
                         <tr><td class="hanzi-font">閻摩陀摩</td><td class="poj-font">Giam-mô-tô-mô</td><td class="sanskrit-font">YAMADHAMA</td><td class="iast-font">yamadhama</td><td></td></tr>
@@ -200,7 +172,7 @@
                         <tr><td class="hanzi-font">奢摩 目多 彌提</td><td class="poj-font">Chhia-mô Bo̍k-to Bî-tê</td><td class="sanskrit-font">SHAMA MUKTA MIDHE</td><td class="iast-font">śama-mukta-midhi</td><td></td></tr>
                         <tr><td class="hanzi-font">那婆羅 闍那咩</td><td class="poj-font">Ná-pô-lô Siā-ná-me</td><td class="sanskrit-font">YABHA RAJAYAMI</td><td class="iast-font">nabhara-rājana me</td><td><span class="tag tag-diff">差異</span> T1237為Nabha。</td></tr>
                         <tr><td class="hanzi-font">富留沙多摩 牟尼</td><td class="poj-font">Hù-liû-sa-to-mô Mâu-nî</td><td class="sanskrit-font">PURUSHA-ATMA-MUNI</td><td class="iast-font">puruṣa-ātma-muni</td><td><span class="tag tag-note">含義</span> Purusha (丈夫/人)。</td></tr>
-                        <tr><td class="hanzi-font">那毘闍那彌</td><td class="poj-font">Ná-pî-siā-ná-bî</td><td class="sanskrit-font">YAVIJAYAMI</td><td class="iast-font">yāvijayāmi</td><td><span class="tag tag-diff">差異</span> 俄譯Ya-Vi / T1237 Na-Vi</td></tr>
+                        <tr><td class="hanzi-font">那毘闍那彌</td><td class="poj-font">Ná-pî-siā-ná-bî</td><td class="sanskrit-font">YAVIJAYAMI</td><td class="iast-font">yāvijayāmi</td><td></td></tr>
                         <tr><td class="hanzi-font">修伽都多 牟尼</td><td class="poj-font">Siu-kê-to-to Mâu-nî</td><td class="sanskrit-font">SHVAKATOT MUNI</td><td class="iast-font">sugatota muni</td><td></td></tr>
                         <tr><td class="hanzi-font">那毘闍那咩</td><td class="poj-font">Ná-pî-siā-ná-me</td><td class="sanskrit-font">YAVIJAYAMI</td><td class="iast-font">yāvijayāmi</td><td></td></tr>
                         <tr><td class="hanzi-font">莎呵</td><td class="poj-font">So-ho</td><td class="sanskrit-font">SVAHA</td><td class="iast-font">svāhā</td><td>台語 So-ho 接近 Svaha 的呼氣音。</td></tr>
@@ -223,14 +195,14 @@
                             <th class="w-1/5 bg-emerald-900">台語擬音 (POJ)</th>
                             <th class="w-1/5">俄譯 (梵音還原)</th>
                             <th class="w-1/5">俄譯 (ChatGPT IAST)</th>
-                            <th class="w-1/5">音韻與差異分析</th>
+                            <th class="w-1/5">發音分析備註</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td class="hanzi-font">阿車 阿車</td><td class="poj-font">A-chhia A-chhia</td><td class="sanskrit-font">ACCA ACCA</td><td class="iast-font">accha accha</td><td><span class="tag tag-tang">送氣音</span> 台語「車」文讀 <strong>Chhia</strong> (送氣)，對應梵文 <strong>ccha</strong>。</td></tr>
+                        <tr><td class="hanzi-font">阿車 阿車</td><td class="poj-font">A-chhia A-chhia</td><td class="sanskrit-font">ACCA ACCA</td><td class="iast-font">accha accha</td><td><span class="tag tag-tang">送氣</span> 台語「車」文讀 <strong>Chhia</strong> (送氣)，對應梵文 <strong>ccha</strong>。</td></tr>
                         <tr><td class="hanzi-font">牟尼 牟尼</td><td class="poj-font">Mâu-nî Mâu-nî</td><td class="sanskrit-font">MUNI MUNI</td><td class="iast-font">muni muni</td><td></td></tr>
                         <tr><td class="hanzi-font">摩訶 牟尼 牟尼</td><td class="poj-font">Mô-ho Mâu-nî Mâu-nî</td><td class="sanskrit-font">MAHAMUNI MUNI</td><td class="iast-font">mahā-muni muni</td><td></td></tr>
-                        <tr><td class="hanzi-font">䉛 (T1237獨有)</td><td class="poj-font">Iok / Hiok</td><td class="sanskrit-font">-</td><td class="iast-font">-</td><td><span class="tag tag-diff">衍文?</span> 俄譯本無此字。音類似入聲字。</td></tr>
+                        <tr><td class="hanzi-font">䉛 (T1237獨有)</td><td class="poj-font">Iok / Hiok</td><td class="sanskrit-font">-</td><td class="iast-font">-</td><td><span class="tag tag-diff">衍文?</span> 俄譯無。字形似竹部入聲字。</td></tr>
                         <tr><td class="hanzi-font">尼 休休</td><td class="poj-font">Nî Hiu-hiu</td><td class="sanskrit-font">NI SHUSHU</td><td class="iast-font">ni śuśu</td><td></td></tr>
                         <tr class="bg-red-50 border-l-4 border-red-400">
                             <td class="hanzi-font">摩訶 那迦 休休</td><td class="poj-font">Mô-ho Nâ-ka Hiu-hiu</td><td class="sanskrit-font">MAHAYAKA SHUSHU</td><td class="iast-font">mahā-nāga śuśu</td>
@@ -239,8 +211,8 @@
                         <tr><td class="hanzi-font">鬥伽 那知</td><td class="poj-font">Tò͘-kê Nâ-ti</td><td class="sanskrit-font">DUGHANAYAJA</td><td class="iast-font">dughanāya ja</td><td><span class="tag tag-tang">濁音</span> 台語「鬥」讀 <strong>Tò͘</strong>，保留了對應梵文 <strong>Du</strong> 的濁音特徵。</td></tr>
                         <tr><td class="hanzi-font">阿呼 阿伽 那知</td><td class="poj-font">A-ho͘ A-kê Nâ-ti</td><td class="sanskrit-font">AHUGHANAYAJA</td><td class="iast-font">ahughanāya ja</td><td></td></tr>
                         <tr><td class="hanzi-font">阿多 那知</td><td class="poj-font">A-to Nâ-ti</td><td class="sanskrit-font">ATANAYAJA</td><td class="iast-font">atanāya ja</td><td></td></tr>
-                        <tr><td class="hanzi-font">阿吒 阿吒</td><td class="poj-font">A-thok A-thok</td><td class="sanskrit-font">ATA ATA</td><td class="iast-font">aṭa aṭa</td><td><span class="tag tag-tang">入聲</span> 「吒」台語常讀 <strong>Thok</strong> (入聲)，對應梵文卷舌音 ṭa。</td></tr>
-                        <tr><td class="hanzi-font">那吒 那吒</td><td class="poj-font">Nâ-thok Nâ-thok</td><td class="sanskrit-font">YATA YATA</td><td class="iast-font">naṭa naṭa</td><td></td></tr>
+                        <tr><td class="hanzi-font">阿吒 阿吒</td><td class="poj-font">A-tshia A-tshia</td><td class="sanskrit-font">ATA ATA</td><td class="iast-font">aṭa aṭa</td><td><span class="tag tag-tang">Tshia</span> 「吒」台語讀 <strong>Tshia</strong> (如哪吒 Lô-tshia)，對應 <em>ṭa</em>。</td></tr>
+                        <tr><td class="hanzi-font">那吒 那吒</td><td class="poj-font">Nâ-tshia Nâ-tshia</td><td class="sanskrit-font">YATA YATA</td><td class="iast-font">naṭa naṭa</td><td></td></tr>
                         <tr><td class="hanzi-font">留豆 留豆 留豆</td><td class="poj-font">Liû-tāu Liû-tāu Liû-tāu</td><td class="sanskrit-font">DURU DURU DURU</td><td class="iast-font">duru duru duru</td><td><span class="tag tag-note">音轉</span> 留(Ru/Du) 豆(Du/Ru)。</td></tr>
                         <tr><td class="hanzi-font">休休 豆留</td><td class="poj-font">Hiu-hiu Tāu-liû</td><td class="sanskrit-font">SHUSHUDURU</td><td class="iast-font">śuśu duru</td><td></td></tr>
                         <tr><td class="hanzi-font">唏泥 唏泥 唏泥 唏泥</td><td class="poj-font">Hi-nî Hi-nî Hi-nî Hi-nî</td><td class="sanskrit-font">SHIN SHIN SHIN SHIN</td><td class="iast-font">śini śini śini śini</td><td></td></tr>
@@ -270,40 +242,27 @@
                             <th class="w-1/5 bg-emerald-900">台語擬音 (POJ)</th>
                             <th class="w-1/5">俄譯 (梵音還原)</th>
                             <th class="w-1/5">俄譯 (ChatGPT IAST)</th>
-                            <th class="w-1/5">音韻與差異分析</th>
+                            <th class="w-1/5">發音分析備註</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td class="hanzi-font">留牟 留牟 留牟 留牟</td><td class="poj-font">Liû-bô͘ x4</td><td class="sanskrit-font">DURU DURU DURU DURU</td><td class="iast-font">duru duru duru duru</td><td><span class="tag tag-note">音轉</span> Liû 對應 Ru/Duru。</td></tr>
-                        <tr><td class="hanzi-font">留摩留摩 留摩留摩</td><td class="poj-font">Liû-mô x4</td><td class="sanskrit-font">DUMA DUMA DUMA DUMA</td><td class="iast-font">duma duma duma duma</td><td></td></tr>
-                        <tr><td class="hanzi-font">唏梨唏梨 唏梨唏梨 唏梨唏梨</td><td class="poj-font">Hi-lê x6</td><td class="sanskrit-font">SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA</td><td class="iast-font">śibha śibha śibha śibha śibha śibha</td><td></td></tr>
-                        <tr><td class="hanzi-font">仇那仇那 仇那 仇那 仇那</td><td class="poj-font">Kiû-nâ x5</td><td class="sanskrit-font">CUNA CUNA CUNA CUNA CUNA</td><td class="iast-font">cuna cuna cuna cuna cuna</td><td><span class="tag tag-tang">聲母</span> 台語 Kiû 對應 Cu。</td></tr>
-                        <tr><td class="hanzi-font">仇㝹仇㝹 仇㝹 仇㝹</td><td class="poj-font">Kiû-niu x4</td><td class="sanskrit-font">CUNI CUNI CUNI CUNI</td><td class="iast-font">cuni cuni cuni cuni</td><td></td></tr>
-                        <tr><td class="hanzi-font">仇留仇留 仇留 仇留</td><td class="poj-font">Kiû-liû x4</td><td class="sanskrit-font">CUDU CUDU CUDU CUDU</td><td class="iast-font">cudu cudu cudu cudu</td><td></td></tr>
-                        <tr><td class="hanzi-font">休婁 休婁 休婁 休婁</td><td class="poj-font">Hiu-lô͘ x4</td><td class="sanskrit-font">SURU SURU SURU SURU</td><td class="iast-font">śuru śuru śuru śuru</td><td></td></tr>
+                        <tr><td class="hanzi-font">留牟 留牟 留牟 留牟</td><td class="poj-font">Liû-bô͘ (x4)</td><td class="sanskrit-font">DURU DURU DURU DURU</td><td class="iast-font">duru duru duru duru</td><td><span class="tag tag-note">音轉</span> Liû 對應 Ru/Duru。</td></tr>
+                        <tr><td class="hanzi-font">留摩留摩 留摩留摩</td><td class="poj-font">Liû-mô (x4)</td><td class="sanskrit-font">DUMA DUMA DUMA DUMA</td><td class="iast-font">duma duma duma duma</td><td></td></tr>
+                        <tr><td class="hanzi-font">唏梨唏梨 唏梨唏梨 唏梨唏梨</td><td class="poj-font">Hi-lê (x6)</td><td class="sanskrit-font">SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA</td><td class="iast-font">śibha śibha śibha śibha śibha śibha</td><td></td></tr>
+                        <tr><td class="hanzi-font">仇那仇那 仇那 仇那 仇那</td><td class="poj-font">Kiû-nâ (x5)</td><td class="sanskrit-font">CUNA CUNA CUNA CUNA CUNA</td><td class="iast-font">cuna cuna cuna cuna cuna</td><td><span class="tag tag-tang">Kiû</span> 台語 Kiû (濁音) 對應 Cu/Gu。</td></tr>
+                        <tr><td class="hanzi-font">仇㝹仇㝹 仇㝹 仇㝹</td><td class="poj-font">Kiû-liû (x4)</td><td class="sanskrit-font">CUNI CUNI CUNI CUNI</td><td class="iast-font">cuni cuni cuni cuni</td><td></td></tr>
+                        <tr><td class="hanzi-font">仇留仇留 仇留 仇留</td><td class="poj-font">Kiû-liû (x4)</td><td class="sanskrit-font">CUDU CUDU CUDU CUDU</td><td class="iast-font">cudu cudu cudu cudu</td><td></td></tr>
+                        <tr><td class="hanzi-font">休婁 休婁 休婁 休婁</td><td class="poj-font">Hiu-lô͘ (x4)</td><td class="sanskrit-font">SURU SURU SURU SURU</td><td class="iast-font">śuru śuru śuru śuru</td><td></td></tr>
                         <tr><td class="hanzi-font">唏梨</td><td class="poj-font">Hi-lê</td><td class="sanskrit-font">SHIBHA</td><td class="iast-font">śibha</td><td></td></tr>
-                        <tr><td class="hanzi-font">暮休 暮休 暮休暮休</td><td class="poj-font">Bō͘-hiu x4</td><td class="sanskrit-font">MUSHU MUSHU MUSHU MUSHU</td><td class="iast-font">mūśu mūśu mūśu mūśu</td><td><span class="tag tag-tang">鼻音</span> 台語「暮」讀 <strong>Bō͘</strong> (帶鼻音感) 對應 <strong>Mu</strong>。</td></tr>
-                        <tr><td class="hanzi-font">暮唏梨暮唏梨 暮唏梨暮唏梨</td><td class="poj-font">Bō͘-hi-lê x4</td><td class="sanskrit-font">MU SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA</td><td class="iast-font">mu śibha śibha śibha śibha śibha</td><td></td></tr>
-                        <tr><td class="hanzi-font">休牟 休牟 休牟</td><td class="poj-font">Hiu-bô͘ x3</td><td class="sanskrit-font">SHURU SHURU SHURU</td><td class="iast-font">śuru śuru śuru</td><td></td></tr>
+                        <tr><td class="hanzi-font">暮休 暮休 暮休暮休</td><td class="poj-font">Bō͘-hiu (x4)</td><td class="sanskrit-font">MUSHU MUSHU MUSHU MUSHU</td><td class="iast-font">mūśu mūśu mūśu mūśu</td><td><span class="tag tag-tang">Bō͘</span> 台語「暮」讀 <strong>Bō͘</strong> (帶鼻音感) 對應 <strong>Mu</strong>。</td></tr>
+                        <tr><td class="hanzi-font">暮唏梨暮唏梨 暮唏梨暮唏梨</td><td class="poj-font">Bō͘-hi-lê (x4)</td><td class="sanskrit-font">MU SHIBHA (x4)</td><td class="iast-font">mu śibha (x4)</td><td></td></tr>
+                        <tr><td class="hanzi-font">休牟 休牟 休牟</td><td class="poj-font">Hiu-bô͘ (x3)</td><td class="sanskrit-font">SHURU SHURU SHURU</td><td class="iast-font">śuru śuru śuru</td><td></td></tr>
                         <tr><td class="hanzi-font">休摩 休咩提</td><td class="poj-font">Hiu-mô Hiu-me-tê</td><td class="sanskrit-font">SHUMA SHUMIDI</td><td class="iast-font">śumā śumidi</td><td></td></tr>
                         <tr><td class="hanzi-font">摩咩 思摩</td><td class="poj-font">Mô-me Su-mô</td><td class="sanskrit-font">MAMICIMA</td><td class="iast-font">mamīcimā</td><td>T1237 思(Su) vs 俄譯Ci?</td></tr>
-                        <tr><td class="hanzi-font">阿提 迦羅 咩兜</td><td class="poj-font">A-tê Ka-lô Me-tau</td><td class="sanskrit-font">ADIKARAMIDU</td><td class="iast-font">adikārame tu</td><td><span class="tag tag-tang">入聲?</span> 「兜」讀 Tau/Tou，對應 Tu/Du。</td></tr>
+                        <tr><td class="hanzi-font">阿提 迦羅 咩兜</td><td class="poj-font">A-tê Ka-lô Me-tau</td><td class="sanskrit-font">ADIKARAMIDU</td><td class="iast-font">adikārame tu</td><td><span class="tag tag-tang">Tau</span> 「兜」台語讀 Tau (入聲感)，對應 Tu/Du。</td></tr>
                         <tr><td class="hanzi-font">莎訶</td><td class="poj-font">So-ho</td><td class="sanskrit-font">SVAHA</td><td class="iast-font">svāhā</td><td></td></tr>
                     </tbody>
                 </table>
-            </div>
-        </section>
-
-        <section class="bg-gray-100 p-6 rounded-lg">
-            <h3 class="text-xl font-bold text-gray-800 mb-2">總結分析：為什麼台語發音更準確？</h3>
-            <div class="text-gray-700 space-y-2">
-                <p>透過上述比對，我們可以發現<strong>台語（閩南語文讀音）在還原唐代漢譯咒語時具有顯著優勢</strong>：</p>
-                <ol class="list-decimal list-inside ml-2">
-                    <li><strong>濁音的保留</strong>：如「仇 (Kiû)」、「豆 (Tāu)」，台語保留了對應梵文 <em>gh-</em>, <em>d-</em> 等濁子音的發音特徵，而現代國語多已清化（變為 ch, d 等）。</li>
-                    <li><strong>入聲韻尾 (-p, -t, -k)</strong>：如「律 (Lu̍t)」、「郁 (Ut)」，這些短促的結尾音精準對應了梵文的音節結構或短母音，這是現代國語完全消失的特徵。</li>
-                    <li><strong>聲母對應</strong>：台語的聲母系統（如 g/k/h 的分化）往往能更細緻地對應梵文的發音部位。</li>
-                </ol>
-                <p class="mt-4 font-bold text-blue-800">結論：若您希望以漢傳經典進行修持，使用台語（或客語、粵語等保留古音的方言）持誦 T1237 經文，其音聲頻率將比使用現代國語更接近阿吒婆拘鬼神大將當年在佛前宣說的原音。</p>
             </div>
         </section>
 
