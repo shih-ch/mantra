@@ -82,30 +82,47 @@
             background-color: #fff7ed;
             border-left: 5px solid #ea580c;
             padding: 1.5rem;
-            margin-top: 1rem;
+            margin-top: 2rem;
             border-radius: 0.5rem;
         }
-        .analysis-item {
+        .analysis-intro {
             margin-bottom: 1.5rem;
+            font-style: italic;
+            color: #7c2d12;
+        }
+        .analysis-item {
+            margin-bottom: 2rem;
             border-bottom: 1px solid #fed7aa;
-            padding-bottom: 1rem;
+            padding-bottom: 1.5rem;
         }
         .analysis-item:last-child {
             border-bottom: none;
             margin-bottom: 0;
             padding-bottom: 0;
         }
-        .analysis-title {
+        .analysis-subtitle {
             font-weight: 700;
             color: #9a3412;
-            font-size: 1.2rem;
-            margin-bottom: 0.5rem;
+            font-size: 1.25rem;
+            margin-bottom: 0.75rem;
             display: flex;
             align-items: center;
         }
-        .analysis-text {
+        .analysis-content p {
+            margin-bottom: 0.5rem;
             color: #374151;
-            font-size: 1.05rem;
+        }
+        .highlight-term {
+            font-weight: bold;
+            color: #000;
+            background-color: #feis;
+        }
+        .conclusion-card {
+            background-color: #f0fdf4;
+            border: 2px solid #16a34a;
+            border-radius: 0.75rem;
+            padding: 2rem;
+            margin-bottom: 3rem;
         }
     </style>
 </head>
@@ -115,14 +132,24 @@
         
         <header class="text-center mb-16">
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">《阿吒婆拘經》<br>三大咒語發音與深度考究專卷</h1>
-            <p class="text-xl text-gray-600 max-w-4xl mx-auto">
+            <p class="text-xl text-gray-600 max-w-4xl mx-auto mb-8">
                 本卷匯集《大正藏》T1237 完整經文、台語擬音、俄譯梵音還原，並提供詳盡的梵文構詞學分析。
             </p>
+            
+            <!-- Methodology -->
+            <div class="bg-gray-100 p-6 rounded-lg text-left max-w-3xl mx-auto text-sm border border-gray-300">
+                <h3 class="font-bold text-gray-800 mb-2">本報告考究方法：</h3>
+                <ul class="list-disc list-inside space-y-1 text-gray-700">
+                    <li><strong>聲韻學：</strong>以台語（閩南語文讀音）還原唐代音譯，對應梵文音節。</li>
+                    <li><strong>構詞學：</strong>分析梵文詞根（Root）、格位（Case）與祈使語氣（Imperative）。</li>
+                    <li><strong>比較學：</strong>參考俄譯本（Alexander Stetsenko）的還原成果與標準佛教梵文（BHS）。</li>
+                </ul>
+            </div>
         </header>
 
         <!-- Legend -->
         <div class="bg-white p-6 rounded-lg shadow-sm mb-12 border border-gray-200">
-            <h3 class="text-lg font-bold text-gray-800 mb-3">使用說明與代號：</h3>
+            <h3 class="text-lg font-bold text-gray-800 mb-3">表格代號說明：</h3>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <div class="flex items-center"><span class="w-3 h-3 bg-gray-800 rounded-full mr-2"></span><strong>原始經文</strong>：依據 T1237 完整文本。</div>
                 <div class="flex items-center"><span class="w-3 h-3 bg-green-600 rounded-full mr-2"></span><strong>台語擬音</strong>：使用 POJ 標示，還原唐代入聲與濁音。</div>
@@ -137,7 +164,8 @@
                 <h2>根本大咒 (The Great Mantra)</h2>
             </div>
             <div class="section-content">
-                <div class="overflow-x-auto">
+                <!-- Mantra Table -->
+                <div class="overflow-x-auto mb-8">
                     <table class="mantra-table">
                         <thead>
                             <tr>
@@ -257,35 +285,92 @@
                     </table>
                 </div>
 
+                <!-- Analysis Box -->
                 <div class="analysis-box">
-                    <div class="analysis-title">根本大咒深度考究 (The Great Mantra Analysis)</div>
+                    <div class="analysis-title">根本大咒深度考究</div>
+                    
                     <div class="analysis-item">
-                        <p class="font-bold">1. 起首句：召請與宣誓 (Druma)</p>
-                        <p class="analysis-text">阿吒婆拘原意為「曠野/森林居住者」。<strong>Druma</strong> 是「樹」的意思，也是藥叉與緊那羅王的常見名號。<em>Durume</em> 可能是 <em>Druma</em> 的呼格，意在呼喚「樹神/藥叉王啊！」。台語「咩」(Me) 精準對應了梵文詞尾。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">1</span>
+                            起首句：召請與宣誓 (Druma)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>豆留咩 (Tāu-liû-me) ... 豆留彌隷</p>
+                            <p><strong>台語對應：</strong>台語「豆」讀 <strong>Tāu</strong>，保留了濁塞音 (voiced stop)，對應梵文 <strong>D</strong> (Du)。「咩」讀 <strong>Me</strong>，精準對應 Sanskrit 詞尾 <em>-me</em>。</p>
+                            <p><strong>梵文義理：</strong>阿吒婆拘 (Āṭavaka) 原意為「曠野/森林居住者」。<span class="sanskrit-term">Druma</span> 是「樹」的意思，也是藥叉與緊那羅王的常見名號。<em>Durume</em> 可能是 <em>Druma</em> 的呼格或變體，意在呼喚「樹神/藥叉王啊！」。</p>
+                            <p><strong>另一種可能：</strong><em>Dur-</em> (困難) + <em>Me</em> (我)，但在咒語開頭呼喚本尊名號更為常見。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">2. 否定與人類 (Niri & Nara)</p>
-                        <p class="analysis-text"><strong>Niri</strong> 對應梵文 <em>Nir-</em> (無/離)。<strong>Nara</strong> 明確對應 <em>Nara</em> (人/丈夫)。整句可能意指「人、王、離去吧」。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">2</span>
+                            否定與人類 (Niri & Nara)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>尼利 ... 那羅</p>
+                            <p><strong>梵文義理：</strong><span class="sanskrit-term">Niri</span> 對應梵文 <em>Nir-</em> (無/離) 或 <em>Nīri</em> (水)。<span class="sanskrit-term">Nara</span> 明確對應 <em>Nara</em> (人/丈夫)。</p>
+                            <p><strong>整句推測：</strong>「那羅 㝹富 尼利」(Nara-Nipu-Niri)，俄譯還原為 <em>Nara-Nipu-Niri</em>。其中 <em>Nipu</em> 可能是 <strong>Nṛpa</strong> (國王) 的音變。整句可能意指「人、王、離去吧」。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">3. 動作與勝利 (Jitane & Tatane)</p>
-                        <p class="analysis-text"><strong>Jitane</strong> 源自詞根 <em>Ji</em> (戰勝)。<strong>Tatane</strong> 源自詞根 <em>Tan</em> (伸展/擴大)。台語「吒」讀 <strong>Tshia</strong> (入聲)，完美保留了 <em>Ṭa</em> 的爆發音。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">3</span>
+                            動作與勝利 (Jitane & Tatane)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>究吒濘 ... 多吒濘</p>
+                            <p><strong>台語對應：</strong>台語「吒」讀 <strong>Tshia</strong> (入聲，如哪吒 Lô-tshia)，完美保留了梵文 <strong>Ṭa</strong> 的捲舌爆發音特徵。</p>
+                            <p><strong>梵文義理：</strong><span class="sanskrit-term">Jitane</span> 源自詞根 <em>Ji</em> (戰勝)，意為「為了勝利」或「勝利者」。<span class="sanskrit-term">Tatane</span> 源自詞根 <em>Tan</em> (伸展/擴大)，意為「廣大的」。</p>
+                            <p><strong>吒吒 (Tshia-tshia)：</strong>梵文 <strong>Ṭa-ṭa</strong>。這是標準的擬聲詞，模擬武器撞擊聲、雷聲或鬼神行進的震動聲，常見於憤怒尊咒語。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">4. 聖者與無畏 (Rishi & Abhi)</p>
-                        <p class="analysis-text">這是台語保留唐音最精彩的例子。<strong>Ṛṣi</strong> (仙人) 的梵文發音包含捲舌音。台語「律」讀 <strong>Lu̍t</strong> (-t 入聲)，保留了古代翻譯 <em>Ṛt</em> 或 <em>Ṛṣ</em> 的短促音節特徵，而國語 Lǜ 已完全丟失此特徵。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">4</span>
+                            聖者與無畏 (Rishi & Abhi)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>阿毘 ... 律師 (Lu̍t-su)</p>
+                            <p><strong>台語對應：</strong>這是台語保留唐音最精彩的例子。<span class="sanskrit-term">Ṛṣi</span> (仙人) 的梵文發音包含捲舌音。台語「律」讀 <strong>Lu̍t</strong> (-t 入聲)，保留了古代翻譯 <em>Ṛt</em> 或 <em>Ṛṣ</em> 的短促音節特徵，而國語 Lǜ 已完全丟失此特徵。</p>
+                            <p><strong>梵文義理：</strong><span class="sanskrit-term">Abhi</span> 是梵文前綴，意為「向...、對...、殊勝」，也可能是 <strong>Abhī</strong> (無畏)。在此咒中代表召請具有大威德的聖者加持。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">5. 恐怖與力量 (Ghora)</p>
-                        <p class="analysis-text">台語「仇」讀 <strong>Kiû</strong> (群母 g/k 濁音)，完美對應梵文 <strong>Ghora</strong> (恐怖的/猛烈的) 中的 <em>Gh</em> 濁喉音。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">5</span>
+                            恐怖與力量 (Ghora)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>仇婁 (Kiû-lô)</p>
+                            <p><strong>台語對應：</strong>台語「仇」讀 <strong>Kiû</strong> (群母 g/k 濁音)，完美對應梵文 <span class="sanskrit-term">Ghora</span> (恐怖的/猛烈的) 中的 <em>Gh</em> 濁喉音。國語 Chóu (舌尖音) 已經顎化，失去了原音的厚重感。</p>
+                        </div>
                     </div>
-                    <div class="analysis-item">
-                        <p class="font-bold text-red-700">6. 關鍵爭議：世間行者 vs 召請</p>
-                        <p class="analysis-text">經文「路迦遮利蛇」(Lō͘-ka-chia-lī-iâ) 台語發音清晰指向 <strong>Loka-cariya</strong> (世間行/遊行世間者)。然而俄譯本作 <em>Akarshaya</em> (召請)。依據漢譯發音，應還原為 <strong>Lokacariya</strong>，證明阿吒婆拘具有「世間導師」的正面屬性。</p>
+
+                    <div class="analysis-item bg-red-50 border-l-4 border-red-500 p-4 rounded">
+                        <div class="analysis-subtitle text-red-800">
+                            <span class="bg-red-600 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">6</span>
+                            關鍵爭議：世間行者 vs 召請
+                        </div>
+                        <div class="analysis-content text-red-900">
+                            <p><strong>經文：</strong>路迦遮利蛇 (Lō͘-ka-chia-lī-iâ)</p>
+                            <p><strong>考究：</strong>台語發音清晰指向 <span class="sanskrit-term">Loka-cariya</span> (世間行/遊行世間者)。然而俄譯本作 <em>Akarshaya</em> (召請/鉤召)。</p>
+                            <p><strong>結論：</strong>依據漢譯發音，應還原為 <strong>Lokacariya</strong>。這證明了阿吒婆拘具有「世間導師」或「遊行世間」的正面屬性，而非僅是召請 (Akarshaya) 的功能。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">7. 結尾：善逝 (Sugata)</p>
-                        <p class="analysis-text">「修迦都多」(Siu-ka-to-to) 對應 <strong>Sugata</strong> (善逝)，佛陀十號之一。台語 <em>Siu</em> 對應 <em>Su</em> (善)，<em>Ka-to</em> 對應 <em>Gata</em> (逝)。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">7</span>
+                            結尾：善逝 (Sugata)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>修迦都多 (Siu-ka-to-to)</p>
+                            <p><strong>考究：</strong>對應 <span class="sanskrit-term">Sugata</span> (善逝)，佛陀十號之一。台語 <em>Siu</em> 對應 <em>Su</em> (善)，<em>Ka-to</em> 對應 <em>Gata</em> (逝)。</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -298,7 +383,7 @@
                 <h2>守護咒 (Protective Mantra)</h2>
             </div>
             <div class="section-content">
-                <div class="overflow-x-auto">
+                <div class="overflow-x-auto mb-8">
                     <table class="mantra-table">
                         <thead>
                             <tr>
@@ -343,12 +428,32 @@
                 <div class="analysis-box">
                     <div class="analysis-title">守護咒深度考究</div>
                     <div class="analysis-item">
-                        <p class="font-bold">1. 龍與藥叉 (Maha Naga)</p>
-                        <p class="analysis-text">T1237 明確寫作「那迦」(<strong>Nāga</strong>, 龍)。俄譯本還原為 <em>Yaka</em> (Yaksha, 藥叉)。考量到「休休」(Śuśu, 嘶嘶聲) 的擬聲詞，<strong>Nāga (龍/蛇)</strong> 的可能性極高，因為蛇發出的聲音即是 hiss。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">1</span>
+                            龍與藥叉的身份確認 (Maha Naga)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>摩訶 那迦 休休 (Mô-ho Nâ-ka Hiu-hiu)</p>
+                            <p><strong>考究：</strong>T1237 明確寫作「那迦」(<span class="sanskrit-term">Nāga</span>, 龍)。俄譯本還原為 <em>Yaka</em> (Yaksha, 藥叉)。</p>
+                            <p><strong>分析：</strong>阿吒婆拘統領八部鬼神，包含龍與藥叉。考量到「休休」(Śuśu, 呼吸聲/嘶嘶聲) 的擬聲詞，<strong>Nāga (龍/蛇)</strong> 的可能性極高，因為蛇發出的聲音即是 hiss。</p>
+                            <p><strong>結論：</strong>漢譯「那迦」更符合語境。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">2. 阿吒與那吒 (Ata & Nata)</p>
-                        <p class="analysis-text"><strong>Aṭa</strong> 意為「漫遊、遊蕩」。<strong>Naṭa</strong> 意為「舞者、戲劇」。這兩個詞常成對出現在描寫鬼神慶典或動態的咒語中，形容鬼神眾的遊行與狂舞。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">2</span>
+                            阿吒與那吒 (Ata & Nata)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>阿吒 ... 那吒</p>
+                            <p><strong>考究：</strong></p>
+                            <ul class="list-disc list-inside ml-4 text-gray-700">
+                                <li><strong>Aṭa</strong>：漫遊、遊蕩 (Aṭ)。</li>
+                                <li><strong>Naṭa</strong>：舞者、戲劇 (Naṭ)。</li>
+                            </ul>
+                            <p>這兩個詞常成對出現在描寫鬼神慶典或動態的咒語中，形容鬼神眾的遊行與狂舞。</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -361,7 +466,7 @@
                 <h2>除惡咒 (Anti-Curse Mantra)</h2>
             </div>
             <div class="section-content">
-                <div class="overflow-x-auto">
+                <div class="overflow-x-auto mb-8">
                     <table class="mantra-table">
                         <thead>
                             <tr>
@@ -396,19 +501,50 @@
                 <div class="analysis-box">
                     <div class="analysis-title">除惡咒深度考究</div>
                     <div class="analysis-item">
-                        <p class="font-bold">1. 粉碎與煙滅 (Duma & Cuna)</p>
-                        <p class="analysis-text">留摩 (Liû-mô) 對應 <strong>Dhūma</strong> (煙)，意指讓惡念如煙般消散。仇那 (Kiû-nâ) 對應 <strong>Cūrṇa</strong> (粉末/粉碎)，台語 Kiû 對應 C 音，意指將障礙粉碎。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">1</span>
+                            粉碎與煙滅 (Duma & Cuna)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>留摩 ... 仇那</p>
+                            <p><strong>考究：</strong>留摩 (Liû-mô) 對應 <span class="sanskrit-term">Dhūma</span> (煙)，意指讓惡念如煙般消散。仇那 (Kiû-nâ) 對應 <span class="sanskrit-term">Cūrṇa</span> (粉末/粉碎)，台語 Kiû 對應 C 音，意指將障礙粉碎。</p>
+                        </div>
                     </div>
+
                     <div class="analysis-item">
-                        <p class="font-bold">2. 權力與職責 (Adhikara)</p>
-                        <p class="analysis-text">「阿提迦羅」(A-tê Ka-lô) 還原為 <strong>Adhikāra</strong>，意為「權力、職權」。整句宣告「這是我的職權管轄範圍」，以此命令鬼神退散。</p>
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">2</span>
+                            偷竊與消除 (Musu & Suru)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>暮休 ... 休牟</p>
+                            <p><strong>考究：</strong><span class="sanskrit-term">Muṣu</span> (暮休) 源自詞根 <em>Muṣ</em> (偷竊/奪取)。意指奪取惡鬼的力量。<span class="sanskrit-term">Śuru</span> (休牟) 可能是 <em>Śūla</em> (長矛) 或 <em>Suru</em> (流動/消失)。</p>
+                        </div>
+                    </div>
+
+                    <div class="analysis-item">
+                        <div class="analysis-subtitle">
+                            <span class="bg-orange-500 text-white w-6 h-6 rounded-full flex items-center justify-center text-sm mr-2">3</span>
+                            權力與職責 (Adhikara)
+                        </div>
+                        <div class="analysis-content">
+                            <p><strong>經文：</strong>阿提 迦羅 咩兜</p>
+                            <p><strong>台語對應：</strong>A-tê Ka-lô Me-tau</p>
+                            <p><strong>梵文還原：</strong><span class="sanskrit-term">Adhikāra Metu</span> (或 Adhikaram Itu)。</p>
+                            <p><strong>考究：</strong><em>Adhikāra</em> 意為「權力、職權、管理」。<em>Metu</em> 為「我的」+「願」。整句含義為宣告「這是我的職權/管轄範圍」，以此命令鬼神退散。</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
+        <div class="conclusion-card text-center">
+            <h3 class="text-xl font-bold text-green-800 mb-2">綜合結論</h3>
+            <p class="text-green-900">透過台語（及中古漢語）的發音對照，我們發現 T1237 的音譯品質極高，許多看似無意義的漢字，其實精準對應了梵文的詞根。若欲持誦此咒，使用**台語/閩南語**誦讀漢字，最能貼近原咒的波動與力量。</p>
+        </div>
+
         <footer class="text-center text-gray-500 py-10 border-t border-gray-200 mt-10">
-            <p>《阿吒婆拘經》發音與義理研究報告 | 2025</p>
+            <p>阿吒婆拘經發音與義理研究報告 | 2025</p>
         </footer>
 
     </div>
