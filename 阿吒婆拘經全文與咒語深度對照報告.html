@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>阿吒婆拘經全文與咒語深度對照報告</title>
+    <title>阿吒婆拘經全文與咒語深度對照報告 (完整版)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Noto+Serif+TC:wght@400;700&display=swap" rel="stylesheet">
     <style>
@@ -26,6 +26,7 @@
         }
         td {
             vertical-align: top;
+            padding: 1.5rem; /* 增加內距以利閱讀長文 */
         }
         /* Mantra Font */
         .mantra-font {
@@ -54,6 +55,12 @@
             color: #2c5282;
             text-decoration: underline;
         }
+        /* Highlight specific terms */
+        .highlight {
+            background-color: #fffaf0;
+            border-bottom: 2px solid #ed8936;
+            padding: 0 2px;
+        }
     </style>
 </head>
 <body class="py-10 px-4 lg:px-12">
@@ -65,9 +72,9 @@
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
                 《佛說阿吒婆拘鬼神大將<br>上佛陀羅尼經》
             </h1>
-            <h2 class="text-2xl md:text-3xl text-gray-600 font-medium">版本深度對照報告（含梵音還原分析）</h2>
+            <h2 class="text-2xl md:text-3xl text-gray-600 font-medium">版本深度對照報告（完整經文版）</h2>
             <div class="mt-8 text-lg text-gray-700 max-w-4xl mx-auto text-left md:text-center">
-                <p>本報告對照分析《阿吒婆拘經》的三個不同版本，檢視翻譯差異、歷史誤讀以及咒語還原的準確性。特別收錄「梵音還原分析」，解析俄譯本在咒語發音上的獨特價值。</p>
+                <p>本報告對照分析《阿吒婆拘經》的三個不同版本，檢視翻譯差異、歷史誤讀以及咒語還原的準確性。內文已完整補齊，無任何刪減。</p>
             </div>
         </header>
 
@@ -88,16 +95,16 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文 (大正藏)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文 (大正藏)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5"><strong>佛說阿吒婆拘鬼神大將上佛陀羅尼經</strong><br><br>失譯人名今附梁錄</td>
-                            <td class="px-6 py-5"><strong>阿吒婆拘鬼神大將上佛陀羅尼經</strong><br><br>翻譯：智福良 (Zhi Fu Liang)<br>俄譯：亞歷山大·斯捷岑科</td>
-                            <td class="px-6 py-5"><strong>《大鬼神將阿吒婆迦神聖陀羅尼真言經》</strong><br><br>譯者：智福良</td>
+                            <td><strong>佛說阿吒婆拘鬼神大將上佛陀羅尼經</strong><br><br>失譯人名今附梁錄</td>
+                            <td><strong>阿吒婆拘鬼神大將上佛陀羅尼經</strong><br><br>翻譯：智福良 (Zhi Fu Liang)<br>俄譯：亞歷山大·斯捷岑科</td>
+                            <td><strong>《大鬼神將阿吒婆迦神聖陀羅尼真言經》</strong><br><br>譯者：智福良</td>
                         </tr>
                     </tbody>
                 </table>
@@ -114,16 +121,16 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5">如是我聞。一時佛在王舍城迦蘭鐸竹林。<br><br>爾時王舍城有一比丘，為賊所劫，為蛇所螫，為鬼所嬈，受大苦惱。</td>
-                            <td class="px-6 py-5">如是我聞。一時，佛在王舍城，在竹林迦蘭鐸。<br><br>當時在王舍城有一比丘，被強盜襲擊並被蛇咬，鬼神騷擾他，他遭受巨大的痛苦。</td>
-                            <td class="px-6 py-5">如是我聞：一時，佛在王舍城迦蘭陀竹園。<br><br>彼時，王舍城中有一比丘，為盜賊所侵，又為毒蛇所咬，復為諸鬼神所惱，受大苦惱。</td>
+                            <td>如是我聞。一時佛在王舍城迦蘭鐸竹林。<br><br>爾時王舍城有一比丘，為賊所劫，為蛇所螫，為鬼所嬈，受大苦惱。</td>
+                            <td>如是我聞。一時，佛在王舍城，在竹林迦蘭鐸。<br><br>當時在王舍城有一比丘，被強盜襲擊並被蛇咬，鬼神騷擾他，他遭受巨大的痛苦。</td>
+                            <td>如是我聞：一時，佛在王舍城迦蘭陀竹園。<br><br>彼時，王舍城中有一比丘，為盜賊所侵，又為毒蛇所咬，復為諸鬼神所惱，受大苦惱。</td>
                         </tr>
                     </tbody>
                 </table>
@@ -137,16 +144,16 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5">爾時鬼神大將阿吒婆拘，見是比丘受如是苦，<strong class="text-red-700 bg-red-50 px-1">心生悲愍</strong>，即往佛所...<br><br>「世尊！我更有至極<strong class="text-red-700 bg-red-50 px-1">惡神咒</strong>，今為愍念一切眾生故，為降伏一切惡鬼惡人惡毒故...<br><br>若有說是咒者，此人威德乃至力能降伏梵天，何況餘惡。」</td>
-                            <td class="px-6 py-5">這時，鬼神大將阿吒婆拘... 心中生起<strong class="text-red-700 bg-red-50 px-1">悔意與悲憫</strong>。他隨即前往佛所...<br><br>「世尊... [我願宣說]極其<strong class="text-red-700 bg-red-50 px-1">猛厲/殘酷的咒語</strong>，以平伏一切鬼神。<br><br>若有人持誦這些咒語，此人以此功德力甚至<strong class="text-red-700 bg-red-50 px-1">[肉身]之力</strong>便能降伏梵天...」</td>
-                            <td class="px-6 py-5">時有大鬼神將軍阿吒婆迦... <strong class="text-red-700 bg-red-50 px-1">心生憐愍</strong>。即往詣佛所...<br><br>「世尊... 願於無上世尊前，說<strong class="text-red-700 bg-red-50 px-1">極猛利之真言</strong>，能令一切鬼神悉皆調伏。<br><br>若有人受持誦此真言者，彼人以功德力，乃至以<strong class="text-red-700 bg-red-50 px-1">身力</strong>，尚能制伏梵天之界，何況諸惡！」</td>
+                            <td>爾時鬼神大將阿吒婆拘，見是比丘受如是苦，<strong class="highlight">心生悲愍</strong>，即往佛所，頭面禮足，在一面立，白佛言：<br><br>「世尊！我更有至極<strong class="highlight">惡神咒</strong>，今為愍念一切眾生故，為降伏一切惡鬼惡人惡毒故，上佛世尊極嚴惡咒，以降伏諸鬼。<br><br>若有說是咒者，此人威德乃至力能降伏梵天，何況餘惡。」</td>
+                            <td>這時，鬼神大將阿吒婆拘看見這位比丘承受如此痛苦，心中生起<strong class="highlight">悔意與悲憫</strong>。他隨即前往佛所，頭面頂禮佛足，站立在佛面前，說道：<br><br>「世尊，我統領所有至高惡鬼神。因此，現在為了悲愍一切眾生，為了降伏一切惡鬼、一切惡人以及所有惡毒故，無上佛、世尊，[我願宣說]極其<strong class="highlight">猛厲/殘酷的咒語</strong>，以平伏一切鬼神。<br><br>若有人持誦這些咒語，此人以此功德力甚至<strong class="highlight">[肉身]之力</strong>便能降伏梵天，更何況是惡類。」</td>
+                            <td>時有大鬼神將軍阿吒婆迦，見彼比丘如是受苦，<strong class="highlight">心生憐愍</strong>。即往詣佛所，頂禮佛足，住立白佛言：<br><br>「世尊！我統領一切上首惡鬼神眾。今為哀愍一切眾生、為降伏一切惡鬼神、一切惡人及一切毒害之故，願於無上世尊前，說<strong class="highlight">極猛利之真言</strong>，能令一切鬼神悉皆調伏。<br><br>若有人受持誦此真言者，彼人以功德力，乃至以<strong class="highlight">身力</strong>，尚能制伏梵天之界，何況諸惡！」</td>
                         </tr>
                     </tbody>
                 </table>
@@ -160,16 +167,16 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5">佛告阿吒婆拘鬼神大將：「我不須此極嚴惡咒，恐傷一切眾生。」<br><br>阿吒婆拘重白佛言：「世尊！後惡世中，多有惡鬼惡人... 世尊慈愍，願聽受之。如來世尊！願垂納受。」</td>
-                            <td class="px-6 py-5">當時，佛告訴鬼神大將阿吒婆拘：「我不需要擁有這種極其猛厲的咒語，這很容易傷害所有眾生。」<br><br>阿吒婆拘便鄭重地對佛說：「世尊... [此咒]能常作救護與守衛... 世尊，出於慈悲，請允許[他們]獲得此法。如來、世尊，請准許。」</td>
-                            <td class="px-6 py-5">爾時，佛告大鬼神將阿吒婆迦言：「我無須此等極猛利、易令一切眾生受損害之真言。」<br><br>爾時，阿吒婆迦重白佛言：「世尊！... 願世尊以大悲故，令彼等常得救護遮止... 惟願如來、世尊慈許！」</td>
+                            <td>佛告阿吒婆拘鬼神大將：「我不須此極嚴惡咒，恐傷一切眾生。」<br><br>阿吒婆拘重白佛言：「世尊！後惡世中，多有惡鬼惡人，惡毒蟲獸，苦惱眾生。或有大難，國王、卻賊、水火、刀兵，恐畏大惡鬼等，多起難處。<br><br>若佛弟子出家在家，若在曠野乞食，聚落之中，四衢道側，若在塚間，若在山林道中，若在城郭村邑巷陌，當作救護，不令遇惡。<br><br>世尊慈愍，願聽受之。如來世尊！願垂納受。」</td>
+                            <td>當時，佛告訴鬼神大將阿吒婆拘：「我不需要擁有這種極其猛厲的咒語，這很容易傷害所有眾生。」<br><br>阿吒婆拘便鄭重地對佛說：「世尊，在未來的惡世中，將有許多惡鬼與惡人，危險的毒蟲與野獸將傷害眾生。還將有來自統治者、強盜、水、火與戰爭的種種災難，以及來自恐怖惡鬼的災難。<br><br>若佛弟子出家或在家；若在遠離村落處、在塚間乞食的比丘；若行於荒野山林之道；若身處城鎮、鄉村與聚落的街道，[此咒]能常作救護與守衛，令其不遇惡事。<br><br>世尊，出於慈悲，請允許[他們]獲得此法。如來、世尊，請准許。」</td>
+                            <td>爾時，佛告大鬼神將阿吒婆迦言：「我無須此等極猛利、易令一切眾生受損害之真言。」<br><br>爾時，阿吒婆迦重白佛言：「世尊！於未來惡世，惡鬼神、惡人甚多，復有毒蟲猛獸，惱害眾生；又有王難、賊難、水難、火難、兵難，及諸可怖兇惡鬼神之難。<br><br>若佛弟子或出家、或在家；若遠離聚落之乞食比丘，行於四方多塚墓處；若行於深山曠野林中；若住城邑村落巷陌之間——願世尊以大悲故，令彼等常得救護遮止，不與諸惡相遇。<br><br>惟願如來、世尊慈許！」</td>
                         </tr>
                     </tbody>
                 </table>
@@ -190,106 +197,107 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead class="bg-gray-800 text-white">
                         <tr>
-                            <th class="px-6 py-4 text-left">原始經文 (漢字音譯)</th>
-                            <th class="px-6 py-4 text-left">俄譯 (梵音還原)</th>
-                            <th class="px-6 py-4 text-left">俄譯 (ChatGPT IAST)</th>
-                            <th class="px-6 py-4 text-left w-1/5">備註分析</th>
+                            <th class="text-left p-4">原始經文 (漢字音譯)</th>
+                            <th class="text-left p-4">俄譯 (梵音還原)</th>
+                            <th class="text-left p-4">俄譯 (ChatGPT IAST)</th>
+                            <th class="text-left p-4 w-1/5">備註分析</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留彌 豆留彌</td><td class="px-6 py-3 mantra-font">DURUMI DURUMI</td><td class="px-6 py-3 mantra-font">durume durume</td><td class="px-6 py-3 text-sm text-gray-500">豆留彌=Durumi</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">多彌 多彌</td><td class="px-6 py-3 mantra-font">TAMI TAMI</td><td class="px-6 py-3 mantra-font">tame tame</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留彌 豆留彌</td><td class="px-6 py-3 mantra-font">DURUMI DURUMI</td><td class="px-6 py-3 mantra-font">durume durume</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留彌 豆留彌</td><td class="px-6 py-3 mantra-font">DURUMI DURUMI</td><td class="px-6 py-3 mantra-font">durume durume</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留彌隸</td><td class="px-6 py-3 mantra-font">DURUMRILE</td><td class="px-6 py-3 mantra-font">durumire</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">尼利 尼利 尼利</td><td class="px-6 py-3 mantra-font">NIRI NIRI NIRI</td><td class="px-6 py-3 mantra-font">niri niri niri</td><td class="px-6 py-3 text-sm text-gray-500">尼利=Niri</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">那羅 那羅 那羅</td><td class="px-6 py-3 mantra-font">NARA NARA NARA</td><td class="px-6 py-3 mantra-font">nara nara nara</td><td class="px-6 py-3 text-sm text-gray-500">那羅=Nara (人)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">尼利 尼利 尼利 尼利</td><td class="px-6 py-3 mantra-font">NIRI NIRI NIRI NIRI</td><td class="px-6 py-3 mantra-font">niri niri niri niri</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">那羅 尼布 尼利</td><td class="px-6 py-3 mantra-font">NARA-NIPU-NIRI</td><td class="px-6 py-3 mantra-font">nara nupu niri</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留茶尼 豆留茶尼</td><td class="px-6 py-3 mantra-font">DURUCANE DURUCANE</td><td class="px-6 py-3 mantra-font">durucane durucane</td><td class="px-6 py-3 text-sm text-gray-500">茶尼=Cane</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 豆留茶尼</td><td class="px-6 py-3 mantra-font">MAHADURUCANE</td><td class="px-6 py-3 mantra-font">mahā-durucane</td><td class="px-6 py-3 text-sm text-gray-500">摩訶=Maha (大)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">豆留茶尼</td><td class="px-6 py-3 mantra-font">DURUCANE</td><td class="px-6 py-3 mantra-font">durucane</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">只多尼 只多尼</td><td class="px-6 py-3 mantra-font">JITANE JITANE</td><td class="px-6 py-3 mantra-font">jītane jītane</td><td class="px-6 py-3 text-sm text-gray-500">只多=Jita (勝)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 只多尼</td><td class="px-6 py-3 mantra-font">MAHAJITANE</td><td class="px-6 py-3 mantra-font">mahā-jītane</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">多多尼 多多尼</td><td class="px-6 py-3 mantra-font">TATANE TATANE</td><td class="px-6 py-3 mantra-font">tatane tatane</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 多多尼</td><td class="px-6 py-3 mantra-font">MAHATATANE</td><td class="px-6 py-3 mantra-font">mahā-tatane</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">多多尼</td><td class="px-6 py-3 mantra-font">TATANE</td><td class="px-6 py-3 mantra-font">tatane</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">多他 多他 多他 多他</td><td class="px-6 py-3 mantra-font">TATA TATA TATA TATA</td><td class="px-6 py-3 mantra-font">tata tata tata tata</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 多他 多他</td><td class="px-6 py-3 mantra-font">MAHATATA TATA</td><td class="px-6 py-3 mantra-font">mahā-tata tata</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿毗 阿毗</td><td class="px-6 py-3 mantra-font">AVI AVI</td><td class="px-6 py-3 mantra-font">abhi abhi</td><td class="px-6 py-3 text-sm text-gray-500">阿毗=Abhi/Avi</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 阿毗 阿毗</td><td class="px-6 py-3 mantra-font">MAHA-AVI AVI</td><td class="px-6 py-3 mantra-font">mahā-abhi abhi</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿毗利 阿毗利</td><td class="px-6 py-3 mantra-font">AVIRI AVIRI</td><td class="px-6 py-3 mantra-font">abhiri abhiri</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 阿毗利 阿毗利</td><td class="px-6 py-3 mantra-font">MAHA-AVIRI AVIRI</td><td class="px-6 py-3 mantra-font">mahā-abhiri abhiri</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿婆毗 阿婆毗</td><td class="px-6 py-3 mantra-font">ABHAVI ABHAVI</td><td class="px-6 py-3 mantra-font">abhābhi abhābhi</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿婆毗 阿婆毗</td><td class="px-6 py-3 mantra-font">ABHAVI ABHAVI</td><td class="px-6 py-3 mantra-font">abhābhi abhābhi</td><td class="px-6 py-3"></td></tr>
+                        <!-- Rows -->
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留彌 豆留彌</td><td class="p-4 mantra-font">DURUMI DURUMI</td><td class="p-4 mantra-font">durume durume</td><td class="p-4 text-sm text-gray-500">豆留彌=Durumi</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">多彌 多彌</td><td class="p-4 mantra-font">TAMI TAMI</td><td class="p-4 mantra-font">tame tame</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留彌 豆留彌</td><td class="p-4 mantra-font">DURUMI DURUMI</td><td class="p-4 mantra-font">durume durume</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留彌 豆留彌</td><td class="p-4 mantra-font">DURUMI DURUMI</td><td class="p-4 mantra-font">durume durume</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留彌隸</td><td class="p-4 mantra-font">DURUMRILE</td><td class="p-4 mantra-font">durumire</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">尼利 尼利 尼利</td><td class="p-4 mantra-font">NIRI NIRI NIRI</td><td class="p-4 mantra-font">niri niri niri</td><td class="p-4 text-sm text-gray-500">尼利=Niri</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">那羅 那羅 那羅</td><td class="p-4 mantra-font">NARA NARA NARA</td><td class="p-4 mantra-font">nara nara nara</td><td class="p-4 text-sm text-gray-500">那羅=Nara (人)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">尼利 尼利 尼利 尼利</td><td class="p-4 mantra-font">NIRI NIRI NIRI NIRI</td><td class="p-4 mantra-font">niri niri niri niri</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">那羅 尼布 尼利</td><td class="p-4 mantra-font">NARA-NIPU-NIRI</td><td class="p-4 mantra-font">nara nupu niri</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留茶尼 豆留茶尼</td><td class="p-4 mantra-font">DURUCANE DURUCANE</td><td class="p-4 mantra-font">durucane durucane</td><td class="p-4 text-sm text-gray-500">茶尼=Cane</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 豆留茶尼</td><td class="p-4 mantra-font">MAHADURUCANE</td><td class="p-4 mantra-font">mahā-durucane</td><td class="p-4 text-sm text-gray-500">摩訶=Maha (大)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">豆留茶尼</td><td class="p-4 mantra-font">DURUCANE</td><td class="p-4 mantra-font">durucane</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">只多尼 只多尼</td><td class="p-4 mantra-font">JITANE JITANE</td><td class="p-4 mantra-font">jītane jītane</td><td class="p-4 text-sm text-gray-500">只多=Jita (勝)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 只多尼</td><td class="p-4 mantra-font">MAHAJITANE</td><td class="p-4 mantra-font">mahā-jītane</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">多多尼 多多尼</td><td class="p-4 mantra-font">TATANE TATANE</td><td class="p-4 mantra-font">tatane tatane</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 多多尼</td><td class="p-4 mantra-font">MAHATATANE</td><td class="p-4 mantra-font">mahā-tatane</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">多多尼</td><td class="p-4 mantra-font">TATANE</td><td class="p-4 mantra-font">tatane</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">多他 多他 多他 多他</td><td class="p-4 mantra-font">TATA TATA TATA TATA</td><td class="p-4 mantra-font">tata tata tata tata</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 多他 多他</td><td class="p-4 mantra-font">MAHATATA TATA</td><td class="p-4 mantra-font">mahā-tata tata</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿毗 阿毗</td><td class="p-4 mantra-font">AVI AVI</td><td class="p-4 mantra-font">abhi abhi</td><td class="p-4 text-sm text-gray-500">阿毗=Abhi/Avi</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 阿毗 阿毗</td><td class="p-4 mantra-font">MAHA-AVI AVI</td><td class="p-4 mantra-font">mahā-abhi abhi</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿毗利 阿毗利</td><td class="p-4 mantra-font">AVIRI AVIRI</td><td class="p-4 mantra-font">abhiri abhiri</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 阿毗利 阿毗利</td><td class="p-4 mantra-font">MAHA-AVIRI AVIRI</td><td class="p-4 mantra-font">mahā-abhiri abhiri</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿婆毗 阿婆毗</td><td class="p-4 mantra-font">ABHAVI ABHAVI</td><td class="p-4 mantra-font">abhābhi abhābhi</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿婆毗 阿婆毗</td><td class="p-4 mantra-font">ABHAVI ABHAVI</td><td class="p-4 mantra-font">abhābhi abhābhi</td><td class="p-4"></td></tr>
                         
                         <!-- 重要還原 Highlight -->
                         <tr class="bg-yellow-50 hover:bg-yellow-100 border-l-8 border-yellow-400">
-                            <td class="px-6 py-3 font-bold text-gray-900">律師 律師</td>
-                            <td class="px-6 py-3 mantra-font text-blue-700 font-bold">RISHI RISHI</td>
-                            <td class="px-6 py-3 mantra-font">ṛṣi ṛṣi</td>
-                            <td class="px-6 py-3 font-bold text-blue-800 text-sm">★ 精彩還原：<br>律師(Li-shi) = Rishi (仙人)</td>
+                            <td class="p-4 font-bold text-gray-900">律師 律師</td>
+                            <td class="p-4 mantra-font text-blue-700 font-bold">RISHI RISHI</td>
+                            <td class="p-4 mantra-font">ṛṣi ṛṣi</td>
+                            <td class="p-4 font-bold text-blue-800 text-sm">★ 精彩還原：<br>律師(Li-shi) = Rishi (仙人)</td>
                         </tr>
 
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 律師 律師</td><td class="px-6 py-3 mantra-font">MAHARISHI RISHI</td><td class="px-6 py-3 mantra-font">mahā-ṛṣi ṛṣi</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">梨尼 梨尼</td><td class="px-6 py-3 mantra-font">RINE RINE</td><td class="px-6 py-3 mantra-font">riṇe riṇe</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 梨尼 梨尼</td><td class="px-6 py-3 mantra-font">MAHARINE RINE</td><td class="px-6 py-3 mantra-font">mahā-riṇe riṇe</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">首羅 首羅</td><td class="px-6 py-3 mantra-font">SURO SURO</td><td class="px-6 py-3 mantra-font">suro suro</td><td class="px-6 py-3 text-sm text-gray-500">首羅=Suro (天/勇者)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 首羅 首羅</td><td class="px-6 py-3 mantra-font">MAHASURO SURO</td><td class="px-6 py-3 mantra-font">mahā-suro suro</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">仇羅 仇羅</td><td class="px-6 py-3 mantra-font">GHORO GHORO</td><td class="px-6 py-3 mantra-font">ghoro ghoro</td><td class="px-6 py-3 text-sm text-gray-500">仇羅=Ghoro (恐怖)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 仇羅 仇羅</td><td class="px-6 py-3 mantra-font">MAHAGHORO GHORO</td><td class="px-6 py-3 mantra-font">mahā-ghoro ghoro</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">留仇牟 留仇牟</td><td class="px-6 py-3 mantra-font">RUGHOMU RUGHOMU</td><td class="px-6 py-3 mantra-font">rughomu rughomu</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">留仇牟 留仇牟</td><td class="px-6 py-3 mantra-font">RUGHOMU RUGHOMU</td><td class="px-6 py-3 mantra-font">rughomu rughomu</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">仇摩 仇摩</td><td class="px-6 py-3 mantra-font">GHOMA GHOMA</td><td class="px-6 py-3 mantra-font">ghoma ghoma</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">仇摩 仇摩</td><td class="px-6 py-3 mantra-font">GHOMA GHOMA</td><td class="px-6 py-3 mantra-font">ghoma ghoma</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希利 希利</td><td class="px-6 py-3 mantra-font">SHIRI SHIRI</td><td class="px-6 py-3 mantra-font">śiri śiri</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希利 希利</td><td class="px-6 py-3 mantra-font">SHIRI SHIRI</td><td class="px-6 py-3 mantra-font">śiri śiri</td><td class="px-6 py-3"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 律師 律師</td><td class="p-4 mantra-font">MAHARISHI RISHI</td><td class="p-4 mantra-font">mahā-ṛṣi ṛṣi</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">梨尼 梨尼</td><td class="p-4 mantra-font">RINE RINE</td><td class="p-4 mantra-font">riṇe riṇe</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 梨尼 梨尼</td><td class="p-4 mantra-font">MAHARINE RINE</td><td class="p-4 mantra-font">mahā-riṇe riṇe</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">首羅 首羅</td><td class="p-4 mantra-font">SURO SURO</td><td class="p-4 mantra-font">suro suro</td><td class="p-4 text-sm text-gray-500">首羅=Suro (天/勇者)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 首羅 首羅</td><td class="p-4 mantra-font">MAHASURO SURO</td><td class="p-4 mantra-font">mahā-suro suro</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">仇羅 仇羅</td><td class="p-4 mantra-font">GHORO GHORO</td><td class="p-4 mantra-font">ghoro ghoro</td><td class="p-4 text-sm text-gray-500">仇羅=Ghoro (恐怖)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 仇羅 仇羅</td><td class="p-4 mantra-font">MAHAGHORO GHORO</td><td class="p-4 mantra-font">mahā-ghoro ghoro</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">留仇牟 留仇牟</td><td class="p-4 mantra-font">RUGHOMU RUGHOMU</td><td class="p-4 mantra-font">rughomu rughomu</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">留仇牟 留仇牟</td><td class="p-4 mantra-font">RUGHOMU RUGHOMU</td><td class="p-4 mantra-font">rughomu rughomu</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">仇摩 仇摩</td><td class="p-4 mantra-font">GHOMA GHOMA</td><td class="p-4 mantra-font">ghoma ghoma</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">仇摩 仇摩</td><td class="p-4 mantra-font">GHOMA GHOMA</td><td class="p-4 mantra-font">ghoma ghoma</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希利 希利</td><td class="p-4 mantra-font">SHIRI SHIRI</td><td class="p-4 mantra-font">śiri śiri</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希利 希利</td><td class="p-4 mantra-font">SHIRI SHIRI</td><td class="p-4 mantra-font">śiri śiri</td><td class="p-4"></td></tr>
 
                         <!-- 重要還原 Highlight -->
                         <tr class="bg-yellow-50 hover:bg-yellow-100 border-l-8 border-yellow-400">
-                            <td class="px-6 py-3 font-bold text-gray-900">伊伊 伊伊</td>
-                            <td class="px-6 py-3 mantra-font text-blue-700 font-bold">AIM AIM</td>
-                            <td class="px-6 py-3 mantra-font">aiṃ aiṃ</td>
-                            <td class="px-6 py-3 font-bold text-blue-800 text-sm">★ 精彩還原：<br>伊(Yi) = Aim (種子字)</td>
+                            <td class="p-4 font-bold text-gray-900">伊伊 伊伊</td>
+                            <td class="p-4 mantra-font text-blue-700 font-bold">AIM AIM</td>
+                            <td class="p-4 mantra-font">aiṃ aiṃ</td>
+                            <td class="p-4 font-bold text-blue-800 text-sm">★ 精彩還原：<br>伊(Yi) = Aim (種子字)</td>
                         </tr>
 
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">伊伊 伊伊</td><td class="px-6 py-3 mantra-font">AIM AIM</td><td class="px-6 py-3 mantra-font">aiṃ aiṃ</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">比伊 比伊</td><td class="px-6 py-3 mantra-font">PYIM PYIM</td><td class="px-6 py-3 mantra-font">pīṃ pīṃ</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">比伊 比伊</td><td class="px-6 py-3 mantra-font">PYIM PYIM</td><td class="px-6 py-3 mantra-font">pīṃ pīṃ</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">訶羅 訶羅</td><td class="px-6 py-3 mantra-font">HARA HARA</td><td class="px-6 py-3 mantra-font">hara hara</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">訶羅 訶羅</td><td class="px-6 py-3 mantra-font">HARA HARA</td><td class="px-6 py-3 mantra-font">hara hara</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希帝 希帝</td><td class="px-6 py-3 mantra-font">SHIDE SHIDE</td><td class="px-6 py-3 mantra-font">śide śide</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希帝 希帝</td><td class="px-6 py-3 mantra-font">SHIDE SHIDE</td><td class="px-6 py-3 mantra-font">śide śide</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">修帝 修帝</td><td class="px-6 py-3 mantra-font">SHUDE SHUDE</td><td class="px-6 py-3 mantra-font">śude śude</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">修帝 修帝</td><td class="px-6 py-3 mantra-font">SHUDE SHUDE</td><td class="px-6 py-3 mantra-font">śude śude</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希帝 希帝</td><td class="px-6 py-3 mantra-font">HIDE HIDE</td><td class="px-6 py-3 mantra-font">hīde hīde</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希耶 希耶</td><td class="px-6 py-3 mantra-font">HAIYA HAIYA</td><td class="px-6 py-3 mantra-font">hana hana</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">希耶 希耶</td><td class="px-6 py-3 mantra-font">HAIYA HAIYA</td><td class="px-6 py-3 mantra-font">hana hana</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">牟尼 牟尼</td><td class="px-6 py-3 mantra-font">MUNI MUNI</td><td class="px-6 py-3 mantra-font">muni muni</td><td class="px-6 py-3 text-sm text-gray-500">牟尼=Muni</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">牟尼 牟尼</td><td class="px-6 py-3 mantra-font">MUNI MUNI</td><td class="px-6 py-3 mantra-font">muni muni</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩訶 牟尼 牟尼</td><td class="px-6 py-3 mantra-font">MAHAMUNI MUNI</td><td class="px-6 py-3 mantra-font">mahā-muni muni</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">婆羅 婆羅</td><td class="px-6 py-3 mantra-font">BHARA BHARA</td><td class="px-6 py-3 mantra-font">bhara bhara</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">婆羅 婆羅</td><td class="px-6 py-3 mantra-font">BHARA BHARA</td><td class="px-6 py-3 mantra-font">bhara bhara</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">首利 遮留</td><td class="px-6 py-3 mantra-font">SHRIJARU</td><td class="px-6 py-3 mantra-font">śiri jaru</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿迦 舍耶</td><td class="px-6 py-3 mantra-font">AKARSHAYA</td><td class="px-6 py-3 mantra-font">lokacariṣa</td><td class="px-6 py-3 text-sm text-gray-500">兩版本還原差異大</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">遮耶 遮耶</td><td class="px-6 py-3 mantra-font">JAYA JAYA</td><td class="px-6 py-3 mantra-font">jaya jaya</td><td class="px-6 py-3 text-sm text-gray-500">遮耶=Jaya (勝)</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">遮耶 遮耶</td><td class="px-6 py-3 mantra-font">JAYA JAYA</td><td class="px-6 py-3 mantra-font">jaya jaya</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩娑 婆耶 彌耶</td><td class="px-6 py-3 mantra-font">MOSABHAIYA-MYIYA</td><td class="px-6 py-3 mantra-font">mośabhanamuṣa</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">輸婆 迦度 牟尼</td><td class="px-6 py-3 mantra-font">SHVAKATOT MUNI</td><td class="px-6 py-3 mantra-font">sugatota muni</td><td class="px-6 py-3 text-sm text-gray-500">輸婆迦度=Sugatota</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿迦羅 摩阿 迦羅摩</td><td class="px-6 py-3 mantra-font">AKARAMA AKARAMA AKARAMA</td><td class="px-6 py-3 mantra-font">kārama kārama kārama</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">阿迦羅 摩若 卻提 多阿</td><td class="px-6 py-3 mantra-font">JAKHADITYA</td><td class="px-6 py-3 mantra-font">jakhadityaṣa</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">摩陀摩</td><td class="px-6 py-3 mantra-font">AMADHAMA</td><td class="px-6 py-3 mantra-font">-</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">舍摩 陀摩</td><td class="px-6 py-3 mantra-font">SHAMADHAMA</td><td class="px-6 py-3 mantra-font">śamadhama</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">舍摩 陀摩</td><td class="px-6 py-3 mantra-font">SHAMADHAMA</td><td class="px-6 py-3 mantra-font">śamadhama</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">耶摩 陀摩</td><td class="px-6 py-3 mantra-font">YAMADHAMA</td><td class="px-6 py-3 mantra-font">yamadhama</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">耶摩 陀摩</td><td class="px-6 py-3 mantra-font">YAMADHAMA</td><td class="px-6 py-3 mantra-font">yamadhama</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">舍摩 目多 彌提</td><td class="px-6 py-3 mantra-font">SHAMA MUKTA MIDHE</td><td class="px-6 py-3 mantra-font">śama-mukta-midhi</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">耶婆 羅遮 耶彌</td><td class="px-6 py-3 mantra-font">YABHA RAJAYAMI</td><td class="px-6 py-3 mantra-font">nabhara-rājana me</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">波留 沙阿 摩牟 尼耶</td><td class="px-6 py-3 mantra-font">PURUSHA-ATMA-MUNI</td><td class="px-6 py-3 mantra-font">puruṣa-ātma-muni</td><td class="px-6 py-3 text-sm text-gray-500">波留沙=Purusha</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">毗遮 耶彌</td><td class="px-6 py-3 mantra-font">YAVIJAYAMI</td><td class="px-6 py-3 mantra-font">yāvijayāmi</td><td class="px-6 py-3 text-sm text-gray-500">毗遮耶=Vijaya</td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">輸婆 迦度 牟尼</td><td class="px-6 py-3 mantra-font">SHVAKATOT MUNI</td><td class="px-6 py-3 mantra-font">sugatota muni</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">耶毗 遮耶 彌</td><td class="px-6 py-3 mantra-font">YAVIJAYAMI</td><td class="px-6 py-3 mantra-font">yāvijayāmi</td><td class="px-6 py-3"></td></tr>
-                        <tr class="hover:bg-gray-50"><td class="px-6 py-3">娑婆訶</td><td class="px-6 py-3 mantra-font">SVAHA</td><td class="px-6 py-3 mantra-font">svāhā</td><td class="px-6 py-3 text-sm text-gray-500">娑婆訶=Svaha</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">伊伊 伊伊</td><td class="p-4 mantra-font">AIM AIM</td><td class="p-4 mantra-font">aiṃ aiṃ</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">比伊 比伊</td><td class="p-4 mantra-font">PYIM PYIM</td><td class="p-4 mantra-font">pīṃ pīṃ</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">比伊 比伊</td><td class="p-4 mantra-font">PYIM PYIM</td><td class="p-4 mantra-font">pīṃ pīṃ</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">訶羅 訶羅</td><td class="p-4 mantra-font">HARA HARA</td><td class="p-4 mantra-font">hara hara</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">訶羅 訶羅</td><td class="p-4 mantra-font">HARA HARA</td><td class="p-4 mantra-font">hara hara</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希帝 希帝</td><td class="p-4 mantra-font">SHIDE SHIDE</td><td class="p-4 mantra-font">śide śide</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希帝 希帝</td><td class="p-4 mantra-font">SHIDE SHIDE</td><td class="p-4 mantra-font">śide śide</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">修帝 修帝</td><td class="p-4 mantra-font">SHUDE SHUDE</td><td class="p-4 mantra-font">śude śude</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">修帝 修帝</td><td class="p-4 mantra-font">SHUDE SHUDE</td><td class="p-4 mantra-font">śude śude</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希帝 希帝</td><td class="p-4 mantra-font">HIDE HIDE</td><td class="p-4 mantra-font">hīde hīde</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希耶 希耶</td><td class="p-4 mantra-font">HAIYA HAIYA</td><td class="p-4 mantra-font">hana hana</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">希耶 希耶</td><td class="p-4 mantra-font">HAIYA HAIYA</td><td class="p-4 mantra-font">hana hana</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">牟尼 牟尼</td><td class="p-4 mantra-font">MUNI MUNI</td><td class="p-4 mantra-font">muni muni</td><td class="p-4 text-sm text-gray-500">牟尼=Muni</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">牟尼 牟尼</td><td class="p-4 mantra-font">MUNI MUNI</td><td class="p-4 mantra-font">muni muni</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩訶 牟尼 牟尼</td><td class="p-4 mantra-font">MAHAMUNI MUNI</td><td class="p-4 mantra-font">mahā-muni muni</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">婆羅 婆羅</td><td class="p-4 mantra-font">BHARA BHARA</td><td class="p-4 mantra-font">bhara bhara</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">婆羅 婆羅</td><td class="p-4 mantra-font">BHARA BHARA</td><td class="p-4 mantra-font">bhara bhara</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">首利 遮留</td><td class="p-4 mantra-font">SHRIJARU</td><td class="p-4 mantra-font">śiri jaru</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿迦 舍耶</td><td class="p-4 mantra-font">AKARSHAYA</td><td class="p-4 mantra-font">lokacariṣa</td><td class="p-4 text-sm text-gray-500">兩版本還原差異大</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">遮耶 遮耶</td><td class="p-4 mantra-font">JAYA JAYA</td><td class="p-4 mantra-font">jaya jaya</td><td class="p-4 text-sm text-gray-500">遮耶=Jaya (勝)</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">遮耶 遮耶</td><td class="p-4 mantra-font">JAYA JAYA</td><td class="p-4 mantra-font">jaya jaya</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩娑 婆耶 彌耶</td><td class="p-4 mantra-font">MOSABHAIYA-MYIYA</td><td class="p-4 mantra-font">mośabhanamuṣa</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">輸婆 迦度 牟尼</td><td class="p-4 mantra-font">SHVAKATOT MUNI</td><td class="p-4 mantra-font">sugatota muni</td><td class="p-4 text-sm text-gray-500">輸婆迦度=Sugatota</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿迦羅 摩阿 迦羅摩</td><td class="p-4 mantra-font">AKARAMA AKARAMA AKARAMA</td><td class="p-4 mantra-font">kārama kārama kārama</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">阿迦羅 摩若 卻提 多阿</td><td class="p-4 mantra-font">JAKHADITYA</td><td class="p-4 mantra-font">jakhadityaṣa</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">摩陀摩</td><td class="p-4 mantra-font">AMADHAMA</td><td class="p-4 mantra-font">-</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">舍摩 陀摩</td><td class="p-4 mantra-font">SHAMADHAMA</td><td class="p-4 mantra-font">śamadhama</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">舍摩 陀摩</td><td class="p-4 mantra-font">SHAMADHAMA</td><td class="p-4 mantra-font">śamadhama</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">耶摩 陀摩</td><td class="p-4 mantra-font">YAMADHAMA</td><td class="p-4 mantra-font">yamadhama</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">耶摩 陀摩</td><td class="p-4 mantra-font">YAMADHAMA</td><td class="p-4 mantra-font">yamadhama</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">舍摩 目多 彌提</td><td class="p-4 mantra-font">SHAMA MUKTA MIDHE</td><td class="p-4 mantra-font">śama-mukta-midhi</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">耶婆 羅遮 耶彌</td><td class="p-4 mantra-font">YABHA RAJAYAMI</td><td class="p-4 mantra-font">nabhara-rājana me</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">波留 沙阿 摩牟 尼耶</td><td class="p-4 mantra-font">PURUSHA-ATMA-MUNI</td><td class="p-4 mantra-font">puruṣa-ātma-muni</td><td class="p-4 text-sm text-gray-500">波留沙=Purusha</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">毗遮 耶彌</td><td class="p-4 mantra-font">YAVIJAYAMI</td><td class="p-4 mantra-font">yāvijayāmi</td><td class="p-4 text-sm text-gray-500">毗遮耶=Vijaya</td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">輸婆 迦度 牟尼</td><td class="p-4 mantra-font">SHVAKATOT MUNI</td><td class="p-4 mantra-font">sugatota muni</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">耶毗 遮耶 彌</td><td class="p-4 mantra-font">YAVIJAYAMI</td><td class="p-4 mantra-font">yāvijayāmi</td><td class="p-4"></td></tr>
+                        <tr class="hover:bg-gray-50"><td class="p-4">娑婆訶</td><td class="p-4 mantra-font">SVAHA</td><td class="p-4 mantra-font">svāhā</td><td class="p-4 text-sm text-gray-500">娑婆訶=Svaha</td></tr>
                     </tbody>
                 </table>
             </div>
@@ -347,30 +355,52 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5">世尊！是陀羅尼，為一切眾生作擁護...<br><br>若天、龍、鬼、神、羅剎、藥叉... 若起惡心，即自消滅。<br><br>又世間一切毒... 及諸執神... 令其疫病熱病... 及身內外一切諸病，若七日、若十六日，皆當消滅，不能為害。</td>
-                            <td class="px-6 py-5">世尊，此即是陀羅尼，一切眾生藉此將獲得保護與救度...<br><br>若天、龍、部多、羅剎... 加害者將隨即消散。<br><br>此外，世間所有毒物... 以及眾多尋食之執星鬼... 散播傳染病... 若非七日即十六日內，皆將完全消失，不再造成傷害。</td>
-                            <td class="px-6 py-5">世尊！此陀羅尼能令一切眾生得護得救...<br><br>若諸天、龍、部多、羅剎... 作害之者即當退散。<br><br>復次，世間一切諸毒... 及諸多伽羅求食之鬼... 令人生傳染病... 或於七日、或於十六日內悉皆消滅，終不為害。</td>
+                            <td>世尊！是陀羅尼，為一切眾生作擁護，作救濟，作依怙，作舍宅，作寂靜，作安隱，作無羸劣，作無恚害，作無毒，作除一切苦，王難、卻賊、怨憎。<br><br>若天、龍、鬼、神、羅剎、藥叉、鳩盤荼、布單那、阿跋摩羅、迦樓羅等，若起惡心，即自消滅。<br><br>又世間一切毒，香藥、毒根、毒花、毒果，世間飲食、衣被，毒蟲、鳥獸，諸有毒者，有意欲害人，皆當消滅，不能為惡。<br><br>又虛空、日月、星辰、風神、隨風神、起風神，欲害人者；及諸執神，求食人精氣，食人血肉，令人疫病熱病，若一日、二日、三日、四日乃至七日，若冷病、風病、濕病、寒冷等病，及身內外一切諸病，若七日、若十六日，皆當消滅，不能為害。</td>
+                            <td>世尊，此即是陀羅尼，一切眾生藉此將獲得保護與救度。它將保護並支持所有的人，無一例外；賜予他們安寧與寂靜；消除虛弱與憤怒；摧毀一切有害之毒；消除來自統治者、強盜及[遭遇]仇恨的一切苦難。<br><br>若天、龍、部多、羅剎、藥叉、鳩盤荼、布單那、阿帕斯瑪拉、金翅鳥等遭遇憤怒時，加害者將隨即消散。<br><br>此外，世間所有毒物，香草、根、花及樹果；世間存在的衣物、飲食；昆蟲、鳥類、野獸，凡帶有毒性並蓄意傷害人類者，皆將完全驅散，無法作惡。<br><br>再者，關於虛空、太陽、月亮、星辰、摩路多（風神）、藉風以此興起的暴風神靈，若欲傷害人類；以及眾多尋食之執星鬼（Grahas）——吸取人精氣、生命力、食人血肉者，或向人散播傳染病及發熱，持續一日、二日、三日、四日乃至七日者，或[散播]季節性寒病、風病、濕病、極寒之病；以及[散播]身體內部或外部的一切疾病者——[所有這些疾病]若非七日即十六日內，皆將完全消失，不再造成傷害。</td>
+                            <td>世尊！此陀羅尼能令一切眾生得護得救：普護一切眾人，令得安隱寂靜；除其羸弱與瞋恚；滅一切毒害；除王難、賊難及怨憎逼迫之苦。<br><br>若諸天、龍、部多、羅剎、夜叉、鳩槃荼、富單那、阿波斯摩羅迦、迦樓羅等，因瞋恚而欲作害者，作害之者即當退散。<br><br>復次，世間一切諸毒，及諸香草、根、花、樹果；世間衣服、飲食等；乃至諸蟲、諸鳥、諸獸一切含毒之類，若有故欲害人者，皆悉散滅，不能作惡。<br><br>復次，虛空、日、月、星宿、摩樓多（風神）、暴風之神，若起惡念欲害於人；及諸多伽羅（graha）求食之鬼，吸人精氣、奪人命力、噉人肉血，令人生傳染病、發熱病——或一日、二日、三日、四日乃至七日；或時令寒病、風病、濕病、重寒病；或內病、外病——如是諸病，或於七日、或於十六日內悉皆消滅，終不為害。</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
         </section>
 
-        <!-- Section 8: Protection & Anti-Curse Mantras (Crucial Section) -->
+        <!-- Section 8: Protection & Anti-Curse Mantras -->
         <section class="mb-20">
             <h2 class="text-3xl font-bold text-gray-800 mb-6 pb-2 border-b border-gray-200 flex items-center">
                 <span class="bg-gray-800 text-white rounded-full w-10 h-10 flex items-center justify-center text-xl mr-3">8</span>
                 守護咒與除惡咒 (Protection & Anti-Curse)
             </h2>
             
-            <div class="grid grid-cols-1 gap-10">
+            <div class="mb-10">
+                <h4 class="text-xl font-bold text-gray-700 mb-4">守護咒緣起：</h4>
+                <div class="overflow-x-auto shadow-md rounded-lg mb-8">
+                    <table class="min-w-full bg-white divide-y divide-gray-200">
+                        <thead>
+                            <tr>
+                                <th class="text-left w-1/3 p-4">原始經文</th>
+                                <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                                <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-gray-200">
+                            <tr>
+                                <td>又多有諸鬼，若以手，若以口，若以足，若以舌，若以心，欲惱人者；及以惡人，欲為人作殺害者。先當誦此咒，力能噤持，令彼惡人惡鬼，噤碎其心，令不為惡。<br>世尊！我今更說神咒，為作擁護：</td>
+                                <td>亦有眾多鬼神，或用手，或用口，或用腳，或用舌，或利用人心中的貪欲或憤怒，或利用惡人，企圖傷害人類。[必須]先持誦此陀羅尼咒，其力量能使其緘默，迫使這些惡人與惡鬼保持沈默並擾亂其心智，使其無法作惡。<br>世尊，我今將傳授此神聖陀羅尼咒以作如是保護：</td>
+                                <td>復次，亦有諸多鬼神，或以手、或以口、或以足、或以舌，或乘人心中貪欲瞋恚，或假惡人之力而欲害人者，應先誦此陀羅尼真言；其力能令彼惡人惡鬼默然止息，亂其惡念，使不得作惡。<br>世尊！今我更為如是守護，宣說神聖陀羅尼真言曰：</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
                 <!-- Protection Mantra -->
                 <div>
                     <h3 class="text-2xl font-bold text-blue-700 mb-4 border-b-2 border-blue-500 inline-block pb-1">守護咒 (Protective)</h3>
@@ -378,9 +408,9 @@
                         <table class="min-w-full bg-white divide-y divide-gray-200">
                             <thead class="bg-blue-800 text-white">
                                 <tr>
-                                    <th class="px-4 py-3 text-left w-1/3">原始經文 (漢字)</th>
-                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (梵音還原)</th>
-                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (ChatGPT IAST)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">原始經文</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯梵音</th>
+                                    <th class="px-4 py-3 text-left w-1/3">ChatGPT IAST</th>
                                 </tr>
                             </thead>
                             <tbody class="divide-y divide-gray-200 text-lg">
@@ -412,28 +442,36 @@
                 <!-- Anti-Curse Mantra -->
                 <div>
                     <h3 class="text-2xl font-bold text-red-700 mb-4 border-b-2 border-red-500 inline-block pb-1">除惡咒 (Anti-Curse)</h3>
+                    
+                    <div class="mb-4">
+                        <h4 class="font-bold text-gray-700 mb-2">除惡咒緣起：</h4>
+                        <div class="text-sm bg-gray-50 p-2 rounded border text-gray-600">
+                            <strong>原始：</strong>若國土，若城邑，若村落，若家族，應作無量廣大擁護。今更說大力神咒，以辟一切惡咒...<br>
+                            <strong>俄譯：</strong>此外，國家、個人及家庭將獲得無量巨大的保護與支持。現在將宣說強力的陀羅尼咒...
+                        </div>
+                    </div>
+
                     <div class="overflow-x-auto shadow-md rounded-lg">
                         <table class="min-w-full bg-white divide-y divide-gray-200">
                             <thead class="bg-red-800 text-white">
                                 <tr>
-                                    <th class="px-4 py-3 text-left w-1/3">原始經文 (漢字)</th>
-                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (梵音還原)</th>
-                                    <th class="px-4 py-3 text-left w-1/3">俄譯 (ChatGPT IAST)</th>
+                                    <th class="px-4 py-3 text-left w-1/3">原始經文</th>
+                                    <th class="px-4 py-3 text-left w-1/3">俄譯梵音</th>
+                                    <th class="px-4 py-3 text-left w-1/3">ChatGPT IAST</th>
                                 </tr>
                             </thead>
                             <tbody class="divide-y divide-gray-200 text-lg">
                                 <tr><td class="px-4 py-2">杜留 杜留 杜留 杜留</td><td class="px-4 py-2 mantra-font">DURU DURU DURU DURU</td><td class="px-4 py-2 mantra-font">duru duru duru duru</td></tr>
                                 <tr><td class="px-4 py-2">杜摩 杜摩 杜摩 杜摩</td><td class="px-4 py-2 mantra-font">DUMA DUMA DUMA DUMA</td><td class="px-4 py-2 mantra-font">duma duma duma duma</td></tr>
-                                <tr><td class="px-4 py-2">希婆 希婆 希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA...</td><td class="px-4 py-2 mantra-font">śibha śibha śibha śibha</td></tr>
-                                <tr><td class="px-4 py-2">珠那 珠那 珠那 珠那</td><td class="px-4 py-2 mantra-font">CUNA CUNA CUNA...</td><td class="px-4 py-2 mantra-font">cuna cuna cuna cuna</td></tr>
+                                <tr><td class="px-4 py-2">希婆 希婆 希婆 希婆 希婆 希婆</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">śibha śibha śibha śibha śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">珠那 珠那 珠那 珠那 珠那</td><td class="px-4 py-2 mantra-font">CUNA CUNA CUNA CUNA CUNA</td><td class="px-4 py-2 mantra-font">cuna cuna cuna cuna cuna</td></tr>
                                 <tr><td class="px-4 py-2">珠尼 珠尼 珠尼 珠尼</td><td class="px-4 py-2 mantra-font">CUNI CUNI CUNI CUNI</td><td class="px-4 py-2 mantra-font">cuni cuni cuni cuni</td></tr>
                                 <tr><td class="px-4 py-2">珠豆 珠豆 珠豆 珠豆</td><td class="px-4 py-2 mantra-font">CUDU CUDU CUDU CUDU</td><td class="px-4 py-2 mantra-font">cudu cudu cudu cudu</td></tr>
                                 <tr><td class="px-4 py-2">蘇留 蘇留 蘇留 蘇留</td><td class="px-4 py-2 mantra-font">SURU SURU SURU SURU</td><td class="px-4 py-2 mantra-font">śuru śuru śuru śuru</td></tr>
                                 <tr><td class="px-4 py-2">希婆</td><td class="px-4 py-2 mantra-font">SHIBHA</td><td class="px-4 py-2 mantra-font">śibha</td></tr>
-                                <tr><td class="px-4 py-2">牟休 牟休 牟休 牟休</td><td class="px-4 py-2 mantra-font">MUSHU MUSHU...</td><td class="px-4 py-2 mantra-font">mūśu mūśu mūśu mūśu</td></tr>
-                                <tr><td class="px-4 py-2">牟希 婆希 婆希</td><td class="px-4 py-2 mantra-font">MU SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">mu śibha śibha</td></tr>
-                                <tr><td class="px-4 py-2">婆希 婆希</td><td class="px-4 py-2 mantra-font">SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">śibha śibha śibha</td></tr>
-                                <tr><td class="px-4 py-2">婆修 留修 留修 留修</td><td class="px-4 py-2 mantra-font">SHURU SHURU...</td><td class="px-4 py-2 mantra-font">śuru śuru śuru</td></tr>
+                                <tr><td class="px-4 py-2">牟休 牟休 牟休 牟休</td><td class="px-4 py-2 mantra-font">MUSHU MUSHU MUSHU MUSHU</td><td class="px-4 py-2 mantra-font">mūśu mūśu mūśu mūśu</td></tr>
+                                <tr><td class="px-4 py-2">牟希 婆希 婆希 婆希 婆希</td><td class="px-4 py-2 mantra-font">MU SHIBHA SHIBHA SHIBHA SHIBHA SHIBHA</td><td class="px-4 py-2 mantra-font">mu śibha śibha śibha śibha śibha</td></tr>
+                                <tr><td class="px-4 py-2">婆修 留修 留修 留修</td><td class="px-4 py-2 mantra-font">SHURU SHURU SHURU</td><td class="px-4 py-2 mantra-font">śuru śuru śuru</td></tr>
                                 <tr><td class="px-4 py-2">摩修 彌提</td><td class="px-4 py-2 mantra-font">SHUMA SHUMIDI</td><td class="px-4 py-2 mantra-font">śumā śumidi</td></tr>
                                 <tr><td class="px-4 py-2">摩彌 啟摩</td><td class="px-4 py-2 mantra-font">MAMICIMA</td><td class="px-4 py-2 mantra-font">mamīcimā</td></tr>
                                 <tr><td class="px-4 py-2">阿地 伽羅 彌豆</td><td class="px-4 py-2 mantra-font">ADIKARAMIDU</td><td class="px-4 py-2 mantra-font">adikārame tu</td></tr>
@@ -452,19 +490,58 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5"><strong>【結界供養法】</strong><br>欲結界者，端坐寅時，澡浴清淨，著淨衣，取七器水，<strong class="text-red-700 bg-red-100 px-1 rounded">二器盛小血</strong>，二器盛種種飲，然八燈，燒眾名香，至心供養。<br><br>我當將帥諸鬼，來到其所，施其所願。其人誦此咒，結赤縷，即得消除一切諸難。</td>
-                            <td class="px-6 py-5"><strong>【結界供養法】</strong><br>若欲[行此法儀，須]選定地點與時間... 取七個器皿盛裝飲品，兩個器皿盛滿飲料<strong class="text-red-700 bg-red-100 px-1 rounded">「小血」</strong>，兩個器皿盛滿各種飲品，點燃八盞燈...<br><br>我，統領一切鬼神者，將來到該處，賜予其所願。讓持誦此陀羅尼咒之人繫上紅線並進行修持，隨即能消除一切眾多困難。</td>
-                            <td class="px-6 py-5"><strong>【結界供養法】</strong><br>若欲修作其法... 取七器飲水，復取二器盛名<strong class="text-red-700 bg-red-100 px-1 rounded">「少血」</strong>之飲... 燃八盞燈，焚香一心作供養。<br><br>我，諸鬼神之將，當來至彼方，施與所願。令誦此陀羅尼者繫赤線修持，即得除滅一切種種艱難。</td>
+                            <td>
+                                爾時鬼神大將白佛言：「世尊！此咒有如是神力。<br><br>
+                                若持是咒者，王難、卻賊、火難、水難、風難、毒難、刀兵難，若日月星辰難、鬼神難、幽靈難，若有惡知識、心生恚害、意欲侵凌，欲起惡心，當先誦此咒，結其地界。<br><br>
+                                諸惡鬼神、惡人，以惡心侵入者，令其迷亂，即便頭痛，若當直入，不能為害，亦不能亂。<br><br>
+                                世尊！若有善男子、善女人，誦此咒者，一切天、龍、阿修羅、諸惡鬼神、人非人等，皆擁護此人，令不見惡。<br><br>
+                                世尊！我阿吒婆拘鬼神大將，以此神力，能降伏一切諸鬼。若有誦是咒者，我當將帥諸鬼，晝夜不離其側，擁護其人，令不見惡，不令惡鬼惡人得其便也，令得安隱。<br><br>
+                                若有侵損，心生忿怒，我當以千輻輪，碎其頭破，令諸鬼神，不能為害。」<br><br>
+                                「世尊！此咒極有神力，極有威德，能廣饒益。世尊！若有誦此咒者，其人德力，唯佛知之。此大神咒，應心有德。若不能誦者，書寫好紙，以香熏之，盛以繒囊，著於身中，常當持行。若有憂怖、恐難，常當念此咒，無不消滅。」<br><br>
+                                「世尊！若遇大難，怨家、惡鬼、惡夢，欲消滅者，先當結界，其惡人、惡鬼、卻賊，自當退散，身體枯竭，心意狂亂。」<br><br>
+                                <strong>【結界供養法】</strong><br>
+                                欲結界者，端坐寅時，澡浴清淨，著淨衣，取七器水，<strong class="text-red-700 bg-red-100 px-1 rounded">二器盛小血</strong>，二器盛種種飲，然八燈，燒眾名香，至心供養。<br><br>
+                                我當將帥諸鬼，來到其所，施其所願。其人誦此咒，結赤縷，即得消除一切諸難。
+                            </td>
+                            <td>
+                                隨後，鬼神大將對佛說：「世尊，此無上陀羅尼咒擁有如上所述之神力。<br><br>
+                                對於受持此陀羅尼咒者，無論是畏懼統治者、畏懼強盜、畏懼火、畏懼水、畏懼風、毒、持武器之人；或畏懼日、月、星辰、鬼怪與幽靈；或是心中充滿惡知識、心生憤怒、念生惡意、欲懷忿襲擊者，皆無能加害。應先持誦此陀羅尼咒並結界。<br><br>
+                                那些因仇恨侵入人心的惡鬼、惡人，將因愚痴而喪失判斷力，身體開始顫抖，當直接遭遇（修持此陀羅尼者）時，無法破壞其安寧，亦無機會干擾持誦此陀羅尼咒之人。<br><br>
+                                世尊，若有善男子或善女人持誦此陀羅尼咒，一切天、龍、阿修羅及一切惡鬼、人與非人，將共同保護持誦者，使其不遇邪惡。<br><br>
+                                世尊，我是鬼神大將，以我之力能降伏一切惡鬼。若有持誦此陀羅尼咒者，我，統領一切鬼神者，將日夜不離其側，護持該行者，令其不見惡事，不遇惡鬼與惡人，[從而]獲得安寧。<br><br>
+                                若行者受到傷害[且心中生起]惱怒，我將以千輻輪以此碎裂[那鬼神]之頭，令一切鬼神無力加害。<br><br>
+                                世尊，此最勝陀羅尼咒擁有最上神力與功德力，旨在廣施安樂。世尊，持誦此陀羅尼咒者所具之功德與力量，唯佛世尊能知。此大神力陀羅尼咒之運作，是響應智者與善人的心念與德行。若不能持誦，可書寫於精美紙張上，連同各種香料以絲巾包裹，常佩於身。若有憂慮、恐懼、困難，常憶念此陀羅尼咒，無不消散。<br><br>
+                                世尊，若遇困難、憂慮、恐懼、惡鬼及惡夢，欲將其消除，須先令該地無法行惡，[如此]惡意之人、惡鬼、強盜將自招災禍——身體乾枯，心智狂亂。<br><br>
+                                <strong>【結界供養法】</strong><br>
+                                若欲[行此法儀，須]選定地點與時間，沐浴，穿著潔淨衣物並清潔地面，取七個器皿盛裝飲品，兩個器皿盛滿飲料<strong class="text-red-700 bg-red-100 px-1 rounded">「小血」</strong>，兩個器皿盛滿各種飲品，點燃八盞燈，焚香，心念專一進行供養。<br><br>
+                                我，統領一切鬼神者，將來到該處，賜予其所願。讓持誦此陀羅尼咒之人繫上紅線並進行修持，隨即能消除一切眾多困難。
+                            </td>
+                            <td>
+                                爾時，大鬼神將復白佛言：「世尊！此無上陀羅尼真言，具如上說種種神力。<br><br>
+                                受持此陀羅尼者，無有能為害者——若畏王、畏賊、畏火、畏水、畏風、畏毒、畏刀兵；畏日月星宿、畏鬼魅精靈；或心懷惡智，瞋恚熾盛，起諸害念，欲以瞋怒來侵——皆應先誦此陀羅尼真言，擇其處所。<br><br>
+                                彼諸惡鬼惡人，由怨憎入人心者，皆以愚癡失其分別，身心戰掉；若直遇受持此陀羅尼之行者，不能勝其寂靜，亦不得障礙誦持者。<br><br>
+                                世尊！若有善男子善女人誦此陀羅尼真言，一切諸天、龍、阿修羅，及諸惡鬼神、諸人非人，皆共守護誦持之人，令不逢惡。<br><br>
+                                世尊！我為大鬼神將，以威力能制伏一切惡鬼神。若有人誦此陀羅尼真言，我作一切鬼神之將，晝夜不離，常加擁護，使彼行者不見諸惡，不遭惡鬼惡人，得大安隱。<br><br>
+                                若有鬼神欲作損害、令行者起惱害瞋怒者，我當以千輻輪破其頭，使諸鬼神皆不能為害。<br><br>
+                                世尊！此最上陀羅尼真言，具最上神力與功德力，其旨廣令眾生得安樂。世尊！誦此陀羅尼者之功德威力，惟佛世尊乃能知之。此大神聖陀羅尼真言，隨智者善人之心與功德而應現。若不能口誦，當書寫於淨好之紙，以綾羅裹之，和諸香熏，常佩持身。若有憂惱怖畏艱難，但常憶念此陀羅尼，無不消滅。<br><br>
+                                世尊！若遇艱難憂怖，惡鬼與不善夢等，欲除滅者，先當令其境界不得行惡；則惡人惡鬼及劫賊，自招其殃：其身枯槁，其心狂亂。<br><br>
+                                <strong>【結界供養法】</strong><br>
+                                若欲修作其法，當定其處所及時日，澡浴著淨衣，淨治其地；取七器飲水，復取二器盛名<strong class="text-red-700 bg-red-100 px-1 rounded">「少血」</strong>之飲，復取二器盛種種飲食之漿；燃八盞燈，焚香一心作供養。<br><br>
+                                我，諸鬼神之將，當來至彼方，施與所願。令誦此陀羅尼者繫赤線修持，即得除滅一切種種艱難。
+                            </td>
                         </tr>
                     </tbody>
                 </table>
+            </div>
+            <div class="mt-4 bg-yellow-50 border-l-4 border-yellow-400 p-4 text-yellow-900 text-lg">
+                <strong>📝 校勘註解：</strong> 「小血」(Small Blood) 是一個非常特殊的密教供養術語，三個版本皆一致保留，顯示俄譯本在關鍵儀軌細節上未做刪改。
             </div>
         </section>
 
@@ -475,16 +552,16 @@
                 <table class="min-w-full bg-white divide-y divide-gray-200">
                     <thead>
                         <tr>
-                            <th class="px-6 py-4 text-left w-1/3">原始經文</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (人工直譯)</th>
-                            <th class="px-6 py-4 text-left w-1/3">俄譯 (ChatGPT)</th>
+                            <th class="text-left w-1/3 p-4">原始經文</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (人工直譯)</th>
+                            <th class="text-left w-1/3 p-4">俄譯 (ChatGPT)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
                         <tr>
-                            <td class="px-6 py-5">爾時佛告阿吒婆拘：「此咒有大威力... 若遇惡賊，應誦此咒，若繫高幢上，賊見此幢，即便退散，降伏歸順。阿吒婆拘！此咒極有神力，最上威德。囑累四輩，受持誦讀。」<br><br>爾時大眾，聞佛所說，歡喜奉行。</td>
-                            <td class="px-6 py-5">此時，佛告訴阿吒婆拘：「此無上陀羅尼咒擁有大沈力... 若強盜遇見持誦此陀羅尼咒者，或見其將咒語書寫於旗幟頂端，強盜見此旗幟，便會想要退卻並歸順... 我將守護並持誦此咒之重任託付於四眾。」<br><br>隨後，一切大眾聞佛所說，皆生歡喜，信受奉行。</td>
-                            <td class="px-6 py-5">爾時，佛告阿吒婆迦言：「此最上陀羅尼真言，具大威神力... 若盜賊遇誦持此陀羅尼者，或其人書此陀羅尼於幢幡之上，彼賊見其幢幡，便生退心，欲來歸伏... 我付囑四眾，當持誦之。」<br><br>爾時，大眾聞佛所說，皆大歡喜，信受奉行。</td>
+                            <td>爾時佛告阿吒婆拘：「此咒有大威力，能滅一切諸難，及除此時惡，擁護眾生，多所利益。汝當受持，廣令流布。<br><br>若有城邑、村落，誦此咒者，莫不利益。若有國王、大臣，誦此咒者，其國境內，無有卻賊、恐怖、災難、疫病、水旱、風霜。<br><br>若遇惡賊，應誦此咒，若繫高幢上，賊見此幢，即便退散，降伏歸順。阿吒婆拘！此咒極有神力，最上威德。囑累四輩，受持誦讀。」<br><br>爾時大眾，聞佛所說，歡喜奉行。</td>
+                            <td>此時，佛告訴阿吒婆拘：「此無上陀羅尼咒擁有大沈力，能消除一切困難及[當]時之惡，護持眾生並帶來利益。你應當受持、守護並廣為流布。<br><br>若有城鎮、村落有持誦此陀羅尼咒者，無人不獲利益。若有一國之王或大眾臣持誦此陀羅尼咒，則該國境內將無犯罪之惡、恐懼、困難，以及瘟疫、水災、旱災、風災與霜凍之災。<br><br>若強盜遇見持誦此陀羅尼咒者，或見其將咒語書寫於旗幟頂端，強盜見此旗幟，便會想要退卻並歸順。阿吒婆拘，此陀羅尼咒有如是神力，最上大德。我將守護並持誦此咒之重任託付於四眾。」<br><br>隨後，一切大眾聞佛所說，皆生歡喜，信受奉行。</td>
+                            <td>爾時，佛告阿吒婆迦言：「此最上陀羅尼真言，具大威神力，能除一切艱難，亦能除彼時之諸惡，護持眾生，令得利益。汝應受持，廣為流布。<br><br>若城邑聚落中有誦持此陀羅尼者，無不蒙益。若國王大臣誦此陀羅尼者，其境界之內，無有罪惡恐怖，無有艱難，亦無疫病、洪水、旱魃、颶風、嚴霜等災。<br><br>若盜賊遇誦持此陀羅尼者，或其人書此陀羅尼於幢幡之上，彼賊見其幢幡，便生退心，欲來歸伏。阿吒婆迦！此陀羅尼真言具如是威神力，最上大功德。我付囑四眾，當持誦之。」<br><br>爾時，大眾聞佛所說，皆大歡喜，信受奉行。</td>
                         </tr>
                     </tbody>
                 </table>
