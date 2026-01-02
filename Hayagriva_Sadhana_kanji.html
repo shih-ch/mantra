@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>哈雅格利瓦密修成就法：最勝駿馬戲現之意飾</title>
+    <style>
+        :root {
+            --primary-color: #8B0000; /* 暗紅色 - 佛教常用 */
+            --bg-color: #FDFBF7; /* 米白色背景 */
+            --box-bg: #fff;
+            --text-main: #333;
+            --text-secondary: #555;
+            --border-color: #e0e0e0;
+            --mantra-bg: #FFF8E1; /* 咒語區背景淡黃 */
+            --rus-color: #2c5282; /* 俄譯標題色 */
+            --tib-trans-color: #276749; /* 藏譯標題色 */
+            --translit-color: #666; /* 拼音顏色 */
+            --phonetic-color: #8B4513; /* 中文音譯顏色 - 赭色 */
+        }
+
+        body {
+            font-family: "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.8;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--box-bg);
+            padding: 40px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border-radius: 8px;
+        }
+
+        /* 藏文字體優化 */
+        .tibetan-text {
+            font-family: "Microsoft Himalaya", "Tibetan Machine Uni", "Jomolhari", serif;
+            font-size: 1.6em;
+            line-height: 1.5;
+            color: #000;
+            margin-bottom: 5px;
+            margin-top: 15px;
+        }
+
+        /* 藏文單行樣式 (詩偈用) */
+        .tib-line {
+            font-family: "Microsoft Himalaya", "Tibetan Machine Uni", "Jomolhari", serif;
+            font-size: 1.8em;
+            line-height: 1.4;
+            color: #000;
+            margin-top: 15px;
+        }
+
+        /* 拼音樣式 */
+        .wylie-line, .transliteration-text {
+            font-family: "Times New Roman", serif;
+            color: var(--translit-color);
+            font-style: italic;
+            font-size: 1em;
+            margin-bottom: 2px;
+            padding-left: 2px;
+        }
+
+        /* 中文音譯樣式 */
+        .phonetic-line {
+            font-family: "Noto Sans TC", sans-serif;
+            color: var(--phonetic-color);
+            font-size: 0.95em;
+            font-weight: 500;
+            margin-bottom: 8px;
+            padding-left: 2px;
+        }
+
+        /* 段落間距 */
+        .verse-group {
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 1px dotted #eee;
+        }
+        
+        .verse-group:last-child {
+            border-bottom: none;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 10px;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 20px;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            border-left: 5px solid var(--primary-color);
+            padding-left: 15px;
+            margin-top: 40px;
+            font-size: 1.5em;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        h3 {
+            color: #4a4a4a;
+            font-size: 1.2em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        h4 {
+            color: #666;
+            font-size: 1.1em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        /* 對照區塊樣式 */
+        .section-block {
+            margin-bottom: 30px;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 20px;
+        }
+
+        .translation-box {
+            margin: 15px 0;
+            padding: 10px 15px;
+            border-radius: 4px;
+            font-size: 0.95em;
+        }
+
+        .label {
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 5px;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 0.85em;
+            color: white;
+        }
+
+        .label-rus { background-color: var(--rus-color); }
+        .label-tib { background-color: var(--tib-trans-color); }
+        .label-orig { background-color: var(--primary-color); }
+
+        .rus-text {
+            border-left: 3px solid var(--rus-color);
+            background-color: #ebf8ff;
+            color: #2a4365;
+        }
+
+        .trans-text {
+            border-left: 3px solid var(--tib-trans-color);
+            background-color: #f0fff4;
+            color: #22543d;
+        }
+
+        /* 咒語樣式 */
+        .mantra-box {
+            background-color: var(--mantra-bg);
+            border: 1px solid #ffe082;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .mantra-tibetan {
+            font-family: "Microsoft Himalaya", serif;
+            font-size: 2em;
+            color: var(--primary-color);
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .mantra-iast {
+            font-family: "Times New Roman", serif;
+            font-size: 1.2em;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .mantra-chinese {
+            font-weight: bold;
+            color: #333;
+            display: block;
+        }
+
+        .note {
+            font-size: 0.9em;
+            color: #666;
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        /* 圖片樣式 */
+        .thangka-img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            border: 1px solid #ddd;
+        }
+        
+        /* 咒語前圖片樣式 */
+        .mantra-img {
+            max-width: 80%;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 4px;
+        }
+
+        /* 來源連結樣式 */
+        .source-link {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            font-size: 0.9em;
+            color: #777;
+        }
+        
+        .source-link a {
+            color: var(--rus-color);
+            text-decoration: none;
+        }
+        
+        .source-link a:hover {
+            text-decoration: underline;
+        }
+
+        /* 手機適配 */
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+            }
+            .tib-line {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>哈雅格利瓦（馬頭明王）密修成就法<br><small style="font-size: 0.6em; color: #555;">《最勝駿馬戲現之意飾》</small></h1>
+
+    <div class="section-block">
+        <span class="label label-rus">前言與題解</span>
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            迎接即將到來的馬年——對我們密乘行者而言，這就是哈雅格利瓦（馬頭明王，<em>Hayagrīva</em>）的一年（笑）。<br>
+            哈雅格利瓦「密修（<em>Guhyasādhana</em>）」成就法：《最勝駿馬嬉遊示現之意飾》（意嚴）。<br>
+            #KönchokJigmeWangpo（貢卻吉美旺波）
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">༄༅ །།རྟ་མགྲིན་གསང་སྒྲུབ་ཀྱི་སྒྲུབ་ཐབས་རྟ་མཆོག་རོལ་པའི་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།</div>
+            <div class="wylie-line">rta mgrin gsang sgrub kyi sgrub thabs rta mchog rol pa'i dgongs rgyan zhes bya ba bzhugs so</div>
+            <div class="phonetic-line">達 珍 桑 珠 基 珠 塔 達 確 羅 巴 恭 見 協 下 哇 秀 索</div>
+        </div>
+
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            《馬頭（Hayagriva）密修之成就法——名為〈最勝駿馬嬉遊之意嚴〉》在此。
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            作者：貢卻・吉美旺波・耶謝尊都・札巴爹（Könchok Jigme Wangpo Yeshe Tsöndru Drakpa De）。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>關於作者與圖像</h3>
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            <p><strong>圖中所示：</strong><br>
+            中央主尊——哈雅格利瓦密修成就法（<em>rta mgrin gsang sgrub</em>）。<br>
+            下方由左至右：貝策（Begtse / <em>beg tse</em>）、佩哈爾・嘉津（Pehar Gyajin / <em>pe har brgya byin</em>）、金剛善護・噶爾瓦黑（Dorje Legpa Garwa Nagpo / <em>rdo rje legs pa mgar ba nag po</em>）。</p>
+        </div>
+        
+        <!-- 插入圖片 -->
+        <img src="606363779_25783326344637091_8628755755522699725_n.jpg" alt="哈雅格利瓦唐卡" class="thangka-img">
+    </div>
+
+    <div class="section-block">
+        <h3>傳承背景與來源</h3>
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            <p>這部《哈雅格利瓦密修成就法——〈最勝駿馬嬉遊示現之意飾〉》，由「遍知蔣揚謝巴」的第二世轉世者——貢卻・吉美旺波・耶謝尊都・札巴爹（1728–1791）所撰。此法收錄於他在札什吉爾（Tashi Khyil）寺刊行的十二函全集之第九卷，所屬文本為《本尊修法集——「一切所需之源」》（藏：<em>yi dam sgrub skor dgos ‘dod kun ‘byung</em>）。</p>
+            <p>在《密修哈雅格利瓦後續許可（隨許）授與儀軌》中，第二世達賴喇嘛寫道：一切完全覺悟的佛陀所宣說之教法，皆含攝於九乘之中。其中，本法屬於大瑜伽（<em>Mahayoga</em>）生起次第的教法傳承。於大瑜伽八大修持分支中，本法屬於「蓮花語」之教法支系。此支系中包含多種教法，例如：《最勝駿馬的嬉遊示現》（<em>rta mchog rol pa</em>）、《大蓮花自在主》（<em>pad ma dbang chen</em>）、《如來聚集》（<em>bde gshegs ‘dus pa</em>）、《秘密聚集》（<em>gsang ba ‘dus pa</em>）、《甘露乘》（<em>bdud rtsi theg pa</em>）以及許多其他教法。</p>
+            <p>其中，本法屬於「最勝駿馬嬉遊示現」之系統。在「外成就（<em>phyi sgrub</em>）、內成就（<em>nang sgrub</em>）、密成就（<em>gsang sgrub</em>）」三類中，本法為具大加持、深奧的密成就。此教法之源頭，承自大成就者翁敦・揭爾剛巴・確吉僧格（<em>dbon ston skyer sgang chos kyi seng ge</em>），他是香巴噶舉傳承中被稱為「七珍寶」的七位傳承持有者之第五位。</p>
+            <p>2005年8月，蒙古佛教領袖第九世哲布尊丹巴呼圖克圖（Bogdo-Gegen Jebtsundamba Khutughtu IX）依達賴喇嘛之指示，在卡爾梅克（Kalmykia）賜予哈雅格利瓦密修灌頂。此譯文獻給所有曾參與該灌頂者，以及一切希求修持此深法之人。</p>
+        </div>
+    </div>
+
+    <h2>【正行：頂禮與皈依發心】</h2>
+
+    <div class="section-block">
+        <div class="verse-group">
+            <div class="tib-line">༄༅༅། །ན་མོ་གུ་རུ། །</div>
+            <div class="wylie-line">na mo gu ru</div>
+            <div class="phonetic-line">南無 咕嚕</div>
+        </div>
+        <div class="translation-box trans-text"><span class="label label-tib">藏轉繁中</span> 頂禮上師（NAMO GURU）。</div>
+    </div>
+
+    <div class="section-block">
+        <h3>頂禮偈</h3>
+        <div class="verse-group">
+            <div class="tib-line">མཐུ་སྟོབས་རྩེ་བརྒྱ་གདེངས་ཙམ་གྱིས། །</div>
+            <div class="wylie-line">mthu stobs rtse brgya gdengs tsam gyis /</div>
+            <div class="phonetic-line">吐 多 則 嘉 等 參 基</div>
+            
+            <div class="tib-line">གནོད་བྱེད་ལྷ་མིན་ལུས་ཕྲའི་མངལ། །</div>
+            <div class="wylie-line">gnod byed lha min lus phra'i mngal /</div>
+            <div class="phonetic-line">諾 傑 拉 民 呂 查 額</div>
+            
+            <div class="tib-line">འཇོམས་མཛད་ཧ་ཡ་གྲཱི་ཝ་ལ། །</div>
+            <div class="wylie-line">'joms mdzad ha ya grI wa la /</div>
+            <div class="phonetic-line">炯 則 哈 雅 格 利 哇 拉</div>
+            
+            <div class="tib-line">གུས་བཏུད་སྒྲུབ་ཐབས་མདོ་ཙམ་སྤེལ། །</div>
+            <div class="wylie-line">gus btud sgrub thabs mdo tsam spel /</div>
+            <div class="phonetic-line">古 杜 珠 塔 多 參 培</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            向哈雅格利瓦（<em>Hayagrīva</em>）頂禮：祂僅以力與威德之金剛杵（具百尖端）一揮，便摧毀作害阿修羅等「細身美女」之胎藏（喻作害之根源）；我將撰寫（此尊的）簡略成就法。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            僅以百尖金剛之力一震，便能摧伏一切作害阿修羅（lha min）等之微細根源；我向能摧滅一切的哈雅格利瓦（Hayagrīva, 馬頭明王）恭敬頂禮，並於此宣說其簡略成就法。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>修法動機</h3>
+        <div class="verse-group">
+            <div class="tib-line">གྲུབ་ཆེན་སྐྱེར་སྒང་པའི་ལུགས་ཀྱི་རྟ་མགྲིན་གསང་སྒྲུབ་སྒོམ་པར་འདོད་པས། སྐྱབས་སེམས་སྔོན་དུ་བཏང་ནས།</div>
+            <div class="wylie-line">grub chen skyer sgang pa'i lugs kyi rta mgrin gsang sgrub sgom par 'dod pas/ skyabs sems sngon du btang nas/</div>
+            <div class="phonetic-line">珠 陳 給 剛 巴 盧 基 達 珍 桑 珠 貢 巴 堆 貝 / 嘉 森 溫 杜 當 內</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            因你欲修持大成就者揭爾剛巴（<em>Kyer-gang-pa</em>）傳統之哈雅格利瓦密修禪修，首先應皈依並發起菩提心。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            若欲依大成就者揭爾剛巴（<em>skyer sgang pa</em>）之傳承修持「馬頭密修（rta mgrin gsang sgrub）成就法」之禪修，當先行皈依並發菩提心。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>皈依文</h3>
+        <div class="verse-group">
+            <div class="tib-line">བདག་དང་འགྲོ་བ་ཁམས་གསུམ་ནམ་མཁའི་མཐའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་དུས་འདི་ནས་བཟུང་སྟེ་</div>
+            <div class="wylie-line">bdag dang 'gro ba khams gsum nam mkha'i mtha' dang mnyam pa'i sems can thams cad dus 'di nas bzung ste</div>
+            <div class="phonetic-line">達 當 卓 哇 康 孫 南 凱 他 當 念 貝 森 間 湯 傑 杜 迪 內 鬆 迭</div>
+            
+            <div class="tib-line">ཇི་སྲིད་བྱང་ཆུབ་སྙིང་པོ་ལ་མཆིས་ཀྱི་བར་དུ་</div>
+            <div class="wylie-line">ji srid byang chub snying po la mchis kyi bar du</div>
+            <div class="phonetic-line">季 是 江 秋 寧 波 拉 奇 基 巴 杜</div>
+            
+            <div class="tib-line">ཕྱོགས་བཅུ་དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་གསུང་ཐུགས་ཡོན་ཏན་ཕྲིན་ལས་ཐམས་ཅད་ཀྱི་ངོ་བོ།</div>
+            <div class="wylie-line">phyogs bcu dus gsum gyi de bzhin gshegs pa thams cad kyi sku gsung thugs yon tan phrin las thams cad kyi ngo bo</div>
+            <div class="phonetic-line">秋 究 杜 孫 基 迭 欣 雪 巴 湯 傑 基 古 鬆 吐 雲 丹 欽 列 湯 傑 基 喔 沃</div>
+            
+            <div class="tib-line">ཆོས་ཀྱི་ཕུང་པོ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞིའི་འབྱུང་གནས།</div>
+            <div class="wylie-line">chos kyi phung po stong phrag brgyad cu rtsa bzhi'i 'byung gnas</div>
+            <div class="phonetic-line">確 基 彭 波 東 查 嘉 久 匝 喜 炯 內</div>
+            
+            <div class="tib-line">འཕགས་པའི་དགེ་འདུན་ཐམས་ཅད་ཀྱི་མངའ་བདག</div>
+            <div class="wylie-line">'phags pa'i dge 'dun thams cad kyi mnga' bdag</div>
+            <div class="phonetic-line">帕 貝 給 敦 湯 傑 基 雅 達</div>
+            
+            <div class="tib-line">དྲིན་ཅན་རྩ་བ་དང་བརྒྱུད་པར་བཅས་པའི་དཔལ་ལྡན་བླ་མ་དམ་པ་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</div>
+            <div class="wylie-line">drin can rtsa ba dang brgyud par bcas pa'i dpal ldan bla ma dam pa rnams la skyabs su mchi'o</div>
+            <div class="phonetic-line">珍 間 匝 哇 當 居 巴 傑 貝 巴 丹 拉 瑪 丹 巴 南 拉 嘉 蘇 奇 喔</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            我與一切眾生，其數量等同三界虛空之邊際，從此刻起直到證得菩提精髓之前：
+            皈依十方三世一切如來之身、語、意、功德與事業的一切本質；
+            皈依八萬四千法門之源；
+            皈依一切聖者僧團之主；
+            皈依具恩之根本上師與傳承中一切具德聖師！
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            我與一切眾生（其數等同三界虛空邊際），從此刻起直至證得菩提心髓（<em>byang chub snying po</em>，究竟覺醒）之前；皈依十方三世一切如來之身、語、意、功德與事業的一切本質；皈依八萬四千法藏之源（正法）；皈依一切聖眾僧伽之主；皈依具恩之根本上師，以及一切殊勝傳承上師。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>三寶皈依</h3>
+        <div class="verse-group">
+            <div class="tib-line">རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</div>
+            <div class="wylie-line">rdzogs pa'i sangs rgyas bcom ldan 'das rnams la skyabs su mchi'o /</div>
+            <div class="phonetic-line">左 貝 桑 傑 炯 丹 迭 南 拉 嘉 蘇 奇 喔</div>
+            
+            <div class="tib-line">དམ་པའི་ཆོས་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</div>
+            <div class="wylie-line">dam pa'i chos rnams la skyabs su mchi'o /</div>
+            <div class="phonetic-line">丹 貝 確 南 拉 嘉 蘇 奇 喔</div>
+            
+            <div class="tib-line">འཕགས་པའི་དགེ་འདུན་རྣམས་ལ་སྐྱབས་སུ་མཆིའོ། །</div>
+            <div class="wylie-line">'phags pa'i dge 'dun rnams la skyabs su mchi'o /</div>
+            <div class="phonetic-line">帕 貝 給 敦 南 拉 嘉 蘇 奇 喔</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            我皈依圓滿正覺之佛世尊；我皈依一切殊勝正法；我皈依聖者僧伽！（三遍）
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            皈依圓滿正覺世尊佛；皈依殊勝正法；皈依聖眾僧伽。（三遍）
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>祈請加持</h3>
+        <div class="verse-group">
+            <div class="tib-line">བླ་མ་དང་དཀོན་མཆོག་རིན་པོ་ཆེ་རྣམ་པ་གསུམ་ལ་བདག་ཕྱག་འཚལ་ཞིང་སྐྱབས་སུ་མཆིའོ། །</div>
+            <div class="wylie-line">bla ma dang dkon mchog rin po che rnam pa gsum la bdag phyag 'tshal zhing skyabs su mchi'o /</div>
+            <div class="phonetic-line">拉 瑪 當 袞 確 仁 波 切 南 巴 孫 拉 達 洽 擦 欣 嘉 蘇 奇 喔</div>
+            
+            <div class="tib-line">ཁྱེད་རྣམས་ཀྱིས་བདག་གི་རྒྱུད་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ།</div>
+            <div class="wylie-line">khyed rnams kyis bdag gi rgyud byin gyis brlab tu gsol</div>
+            <div class="phonetic-line">切 南 基 達 基 居 金 基 拉 杜 索</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            我向珍貴的上師與三寶頂禮並皈依；祈請你們加持我的心續（相續）！（一遍）
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            我向上師與三寶恭敬頂禮並作皈依；祈請諸尊加持、攝受我之相續。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>發菩提心</h3>
+        <div class="verse-group">
+            <div class="tib-line">སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་ཐོབ་པར་བྱ།</div>
+            <div class="wylie-line">sems can thams cad kyi don du rdzogs pa'i sangs rgyas kyi go 'phang thob par bya /</div>
+            <div class="phonetic-line">森 間 湯 傑 基 敦 杜 左 貝 桑 傑 基 果 旁 託 巴 洽</div>
+            
+            <div class="tib-line">དེའི་ཕྱིར་དུ་ཁྲོ་བོའི་རྒྱལ་པོ་རྟ་མཆོག་རོལ་པའི་བསྒོམ་བཟླས་ཉམས་སུ་བླང་བར་བགྱིའོ། །</div>
+            <div class="wylie-line">de'i phyir du khro bo'i rgyal po rta mchog rol pa'i bsgom bzlas nyams su blang bar bgyi'o</div>
+            <div class="phonetic-line">迭 契 杜 措 沃 嘉 波 達 確 羅 貝 貢 迭 念 蘇 朗 巴 基 喔</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            為利一切眾生，我將獲得圓滿正覺佛果！為此，我將修持「忿怒王——最勝駿馬嬉遊示現（<em>rta mchog rol pa</em>）」之禪修與持誦！（三遍）
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            為利一切眾生，我誓願證得圓滿佛果；因此，我將修持「忿怒王（khro bo'i rgyal po）——最勝駿馬嬉遊示現」之觀修與持誦。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>四無量心</h3>
+        <div class="verse-group">
+            <div class="tib-line">སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག</div>
+            <div class="wylie-line">sems can thams cad bde ba dang bde ba'i rgyu dang ldan par gyur cig</div>
+            <div class="phonetic-line">森 間 湯 傑 迭 哇 當 迭 威 居 當 丹 巴 究 吉</div>
+            
+            <div class="tib-line">སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག</div>
+            <div class="wylie-line">sdug bsngal dang sdug bsngal gyi rgyu dang bral bar gyur cig</div>
+            <div class="phonetic-line">杜 雅 當 杜 雅 基 居 當 察 巴 究 吉</div>
+            
+            <div class="tib-line">སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག</div>
+            <div class="wylie-line">sdug bsngal med pa'i bde ba dang mi 'bral bar gyur cig</div>
+            <div class="phonetic-line">杜 雅 美 貝 迭 哇 當 米 察 巴 究 吉</div>
+            
+            <div class="tib-line">ཉེ་རིང་ཆགས་སྡང་དང་བྲལ་བའི་བཏང་སྙོམས་ལ་གནས་པར་གྱུར་ཅིག</div>
+            <div class="wylie-line">nye ring chags sdang dang bral ba'i btang snyoms la gnas par gyur cig</div>
+            <div class="phonetic-line">尼 仁 恰 當 當 察 貝 當 紐 拉 內 巴 究 吉</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            願一切眾生具足安樂及安樂之因！願遠離痛苦及痛苦之因！願不離無苦之樂！願住於遠離親疏貪瞋之平等捨中！
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            願一切眾生具足安樂及安樂之因；願遠離痛苦及痛苦之因；願不離無苦之樂；願住於離親疏貪瞋的平等捨。
+        </div>
+    </div>
+
+    <h2>【觀想生起】</h2>
+
+    <div class="section-block">
+        <h3>入空性</h3>
+        <div class="mantra-box">
+            <span class="mantra-tibetan">ཨོྂ་སྭ་བྷཱ་ཝ་ཤུདྡྷཿ སརྦ་དྷརྨཿ སྭ་བྷཱ་ཝ་ཤུདྡྷོ྅ཧཾ།</span>
+            <span class="mantra-iast">oṃ svabhāvaśuddhaḥ sarvadharmāḥ svabhāvaśuddho 'ham</span>
+            <span class="mantra-chinese">嗡 梭巴瓦 許達 薩爾瓦 達爾瑪 梭巴瓦 許多 杭</span>
+            <span class="mantra-chinese">一切法自性清淨，我亦自性清淨。</span>
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">སྟོང་པ་ཉིད་དུ་གྱུར།</div>
+            <div class="wylie-line">stong pa nyid du gyur</div>
+            <div class="phonetic-line">東 巴 尼 杜 究</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 一切化為空性。</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            一切融入空性。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>生起種子字與本尊</h3>
+        <div class="verse-group">
+            <div class="tib-line">སྟོང་པའི་ངང་ལས་སྣ་ཚོགས་པདྨའི་ལྟེ་བར་ཉི་མའི་གདན་ལ་</div>
+            <div class="wylie-line">stong pa'i ngang las sna tshogs pad+ma'i lte bar nyi ma'i gdan la</div>
+            <div class="phonetic-line">東 貝 昂 內 那 措 貝 昧 迭 哇 尼 昧 丹 拉</div>
+            
+            <div class="tib-line">ཀླུ་ཆེན་པོ་བརྒྱད་བསྣོལ་བའི་སྟེང་དུ་ཧྲཱིཿལས་པདྨ་ཧྲཱིཿས་མཚན་པ་ཡོངས་སུ་གྱུར་པ་ལས་</div>
+            <div class="wylie-line">klu chen po brgyad bsnol ba'i steng du hrI: las pad+ma hrI:s mtshan pa yongs su gyur pa las</div>
+            <div class="phonetic-line">魯 陳 波 嘉 諾 威 登 杜 舍 內 貝 瑪 舍 參 巴 永 蘇 究 巴 內</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            由空性中生起多彩蓮花，其中央為日輪座；其上有八大龍（那伽）交纏，其上現「HRI（ཧྲཱིཿ）」字；由此現出標有「HRI」字的蓮花。由「HRI」字轉變——
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            於空性境中，現起具多彩花瓣之蓮花；於其中央日輪座上，有八大那伽（<em>klu chen po</em>）交纏；其上現「HRI（ཧྲཱིཿ）」字；由此化現一朵以「HRI」為印記之蓮花。由「HRI」轉化——
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">རང་ཉིད་ཁྲོ་བོའི་རྒྱལ་པོ་དཔལ་རྟ་མཆོག་རོལ་པ་སྐུ་མདོག་དམར་པོ། །</div>
+            <div class="wylie-line">rang nyid khro bo'i rgyal po dpal rta mchog rol pa sku mdog dmar po</div>
+            <div class="phonetic-line">讓 尼 措 威 嘉 波 巴 達 確 羅 巴 古 朵 瑪 波</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 由此我顯現為「忿怒諸王之王——吉祥最勝駿馬嬉遊示現（<em>Hayagrīva</em>）」，身紅色。</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            我自身化為「忿怒王——吉祥最勝駿馬嬉遊示現」；身色紅。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>詳觀本尊身相</h3>
+        <div class="verse-group">
+            <div class="tib-line">ཞལ་གསུམ་ཕྱག་དྲུག་པ། རྩ་ཞལ་དམར་པོ། གཡས་ཞལ་ལྗང་ཀུ། གཡོན་ཞལ་དཀར་པོ།</div>
+            <div class="wylie-line">zhal gsum phyag drug pa / rtsa zhal dmar po / gyas zhal ljang ku / gyon zhal dkar po /</div>
+            <div class="phonetic-line">夏 孫 洽 珠 巴 / 匝 夏 瑪 波 / 耶 夏 江 古 / 雲 夏 嘎 波</div>
+            
+            <div class="tib-line">ཞལ་རེ་རེ་ལ་སྤྱན་གསུམ་གསུམ་དང་ལྡན་ཞིང་སྡང་མིག་ཏུ་གཡོ་བ།</div>
+            <div class="wylie-line">zhal re re la spyan gsum gsum dang ldan zhing sdang mig tu gyo ba /</div>
+            <div class="phonetic-line">夏 雷 雷 拉 見 孫 孫 當 丹 欣 當 米 杜 佑 哇</div>
+            
+            <div class="tib-line">ཞལ་གདངས་ཤིང་མཆེ་བ་གཙིགས་པ། སྨིན་མ་དང་སྨ་ར་དམར་སེར་མེ་ལྟར་འབར་བ།</div>
+            <div class="wylie-line">zhal gdangs shing mche ba gtsigs pa / smin ma dang sma ra dmar ser me ltar 'bar ba</div>
+            <div class="phonetic-line">夏 當 欣 切 哇 則 巴 / 敏 瑪 當 瑪 拉 瑪 瑟 梅 達 巴 哇</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            三面六臂。中央面紅、右面綠、左面白。
+            每一面各具三目，怒視炯然。
+            巨口大張，獠牙外露。紅黃眉鬚如火熾燃。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            三面六臂：中央面紅，右面綠，左面白。每一面各具三目，怒視炯然。張口露齒、獠牙森然；眉與鬚呈紅黃之色，如火焰熾燃。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">དབུ་སྐྲ་ཁམས་སེར་གྱེན་དུ་བརྫེས་པ། དབུ་གསུམ་གྱི་སྟེང་ན་རྟ་མགོ་ལྗང་ཀུ་གསུམ་ཁ་གདངས་ཤིང་</div>
+            <div class="wylie-line">dbu skra khams ser gyen du brdzes pa / dbu gsum gyi steng na rta mgo ljang ku gsum kha gdangs shing /</div>
+            <div class="phonetic-line">無 札 康 瑟 間 杜 傑 巴 / 無 孫 基 登 那 達 果 江 古 孫 卡 當 欣</div>
+            
+            <div class="tib-line">རྟ་སྐད་འཚེར་བ། རྔོག་མའི་གསེབ་ནས་མེ་སྟག་འཕྲོས་པས་སྟོང་གསུམ་མེའི་རྭ་གུར་གྱིས་འགེངས་པ།</div>
+            <div class="wylie-line">rta skad 'tsher ba / rngog ma'i gseb nas me stag 'phros pas stong gsum me'i rwa gur gyis 'gengs pa</div>
+            <div class="phonetic-line">達 凱 此 哇 / 額 梅 瑟 內 梅 達 措 貝 東 孫 梅 拉 固 基 更 巴</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            褐色頭髮竪立。三首之上又有三個綠色馬首，張口發出馬嘶聲。
+            自鬃毛間迸射火星，令三千大千世界充滿火焰穹帳。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            髮呈褐黃竪立衝天；三面之上各有三顆綠色馬首，張口怒現，嘶鳴如馬；自鬃間迸射火星，令三千大千世界充滿火焰天幕。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>手幟與莊嚴</h3>
+        <div class="verse-group">
+            <div class="tib-line">ཕྱག་དང་པོ་གཉིས་ཀྱིས་རྡོ་རྗེ་དང་སྡིགས་མཛུབ། བར་བ་གཉིས་ཀྱིས་ཁ་ཊྭཱཾ་ག་དང་མདུང་ཐུང་།</div>
+            <div class="wylie-line">phyag dang po gnyis kyis rdo rje dang sdigs mdzub / bar ba gnyis kyis kha T+wAM ga dang mdung thung /</div>
+            <div class="phonetic-line">洽 當 波 尼 基 多 吉 當 迪 祖 / 巴 哇 尼 基 卡 章 嘎 當 敦 通</div>
+            
+            <div class="tib-line">ཐ་མ་གཉིས་ཀྱིས་རལ་གྲི་དང་རྒྱུ་ཞགས་འཛིན་པ།</div>
+            <div class="wylie-line">tha ma gnyis kyis ral gri dang rgyu zhags 'dzin pa</div>
+            <div class="phonetic-line">他 瑪 尼 基 拉 智 當 居 夏 增 巴</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            最初兩手：右手持金剛杵（<em>vajra</em>），左手作威嚇印（<em>tarjanī mudrā</em>）。中間兩手：持卡杖（<em>khaṭvāṅga</em>）與短矛。
+            最後兩手：持劍與腸索。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            最前兩臂：一手持金剛杵（rdo rje），一手作威嚇印（sdigs mdzub）；中間兩臂：持卡杖（kha tva m ga）與短矛（mdung thung）；最後兩臂：持利劍與腸索套繩。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">མི་མགོ་སྐམ་པོ་ལྔས་དབུ་ལ་རྒྱན་ཅིང་།</div>
+            <div class="wylie-line">mi mgo skam po lngas dbu la rgyan cing /</div>
+            <div class="phonetic-line">米 果 敢 波 欸 無 拉 見 經</div>
+            
+            <div class="tib-line">རློན་པ་ལྔ་བཅུས་དོ་ཤལ་བྱས་པ། གླང་ཆེན་གྱི་ཀོ་རློན་དང་ཞིང་ཆེན་གྱི་གཡང་གཞིས་སྟོད་གཡོགས་པ།</div>
+            <div class="wylie-line">rlon pa lnga bcus do shal byas pa / glang chen gyi ko rlon dang zhing chen gyi gyang gzhis stod g.yogs pa /</div>
+            <div class="phonetic-line">倫 巴 恩 究 多 夏 傑 巴 / 朗 陳 基 果 倫 當 欣 陳 基 揚 希 堆 佑 巴</div>
+            
+            <div class="tib-line">སྟག་གི་ལྤགས་པའི་ཤམ་ཐབས་ཅན། ཁྲག་གི་ཐིག་ལེ། ཞག་གི་ཟོ་རིས། ཐལ་ཆེན་གྱི་ཚོམ་བུས་བྱུགས་པ།</div>
+            <div class="wylie-line">stag gi lpags pa'i sham thabs can / khrag gi thig le / zhag gi zo ris / thal chen gyi tshom bus byugs pa /</div>
+            <div class="phonetic-line">達 基 巴 貝 夏 塔 間 / 查 基 提 勒 / 夏 基 索 利 / 塔 陳 基 措 威 秀 巴</div>
+            
+            <div class="tib-line">མི་སྐྲའི་ཚངས་སྐུད་དང་། རུས་པའི་རྒྱན་དྲུག་གིས་བརྒྱན་པ།</div>
+            <div class="wylie-line">mi skra'i tshangs skud dang / rus pa'i rgyan drug gis brgyan pa</div>
+            <div class="phonetic-line">米 札 倉 固 當 / 盧 貝 見 珠 基 見 巴</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            頭戴五乾人頭冠。以五十鮮人頭作項鍊。上身披新剝象皮及敵人（教敵）人皮。
+            下著虎皮裙。兩頰點血斑。喉間有人脂紋。額上塗骨灰點。
+            肩披人髮梵線。身飾六種骨飾。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            頭戴五顆乾枯人首冠作莊嚴；以五十顆鮮人首作項鍊；上身披新剝象皮及「教敵」人皮；下著虎皮裙；面頰點以血滴；喉間畫有人脂之紋；額上塗以火葬灰點；肩繫人髮梵線；佩戴六種骨飾。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>姿態與威光</h3>
+        <div class="verse-group">
+            <div class="tib-line">ཞབས་གཡས་བཞི་བསྐུམ་ཞིང་</div>
+            <div class="wylie-line">zhabs gyas bzhi bskum zhing /</div>
+            <div class="phonetic-line">夏 耶 喜 拱 欣</div>
+            
+            <div class="tib-line">གཡོན་བཞི་བརྐྱང་བས། ཀླུ་བརྒྱད་ཀྱི་ངོ་བོ་སྦྲུལ་བརྒྱད་བརྫིས་ཏེ་ཡེ་ཤེས་ཀྱི་མེ་དཔུང་རབ་ཏུ་འབར་བའི་</div>
+            <div class="wylie-line">g.yon bzhi brkyang bas / klu brgyad kyi ngo bo sbrul brgyad brdzis te ye shes kyi me dpung rab tu 'bar ba'i /</div>
+            <div class="phonetic-line">雲 喜 江 威 / 魯 嘉 基 喔 沃 珠 嘉 季 迭 耶 謝 基 梅 彭 拉 杜 巴 威</div>
+            
+            <div class="tib-line">ཀློང་དཀྱིལ་ན་བཞུགས་པ།</div>
+            <div class="wylie-line">klong dkyil na bzhugs pa</div>
+            <div class="phonetic-line">隆 記 那 秀 巴</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            右四足屈；左四足伸。足下踏八蛇（本性為八大龍），安住於熾盛燃燒的智慧火聚之中。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            右側四足屈起；左側四足伸展；足下踏伏八蛇（本性為八大那伽，<em>klu brgyad</em>），安住於熾盛燃燒的智慧火聚之境界中央。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">མགུར་གྱི་བུམ་པ་ནས་ཞབས་ཀྱི་ལོང་བུ་ཡན་ཆད་སྤྲུལ་པའི་ཁྲོ་ཆུང་</div>
+            <div class="wylie-line">mgur gyi bum pa nas zhabs kyi long bu yan chad sprul pa'i khro chung /</div>
+            <div class="phonetic-line">古 基 溫 巴 內 夏 基 隆 布 延 切 珠 貝 措 瓊</div>
+            
+            <div class="tib-line">དཔག་ཏུ་མེད་པས་ཁྲབ་ཀྱི་བྱང་བུ་ལྟར་གཏམས་པ།</div>
+            <div class="wylie-line">dpag tu med pas khrab kyi byang bu ltar gtams pa</div>
+            <div class="phonetic-line">巴 杜 美 貝 查 基 江 布 達 丹 巴</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            從喉（瓶）至踝，如鎖子甲般，覆滿無量無數的小忿怒哈雅格利瓦化身。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            自喉至踝，如甲冑般遍滿無量化現之小忿怒尊（<em>khro chung</em>），密密如甲葉般覆身。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>放光除障</h3>
+        <div class="verse-group">
+            <div class="tib-line">རང་དང་ཁྲོ་ཆུང་ཐམས་ཅད་ཀྱི་ཞལ་ནས་</div>
+            <div class="wylie-line">rang dang khro chung thams cad kyi zhal nas /</div>
+            <div class="phonetic-line">讓 當 措 瓊 湯 傑 基 夏 內</div>
+            
+            <div class="tib-line">སྔགས་ཀྱི་སྒྲ་འབྲུག་སྟོང་ལྟར་སྒྲོགས་ཤིང་སྙིང་ཀར་ཉི་གདན་ལ་གནས་པའི་སྔགས་ཀྱི་མེ་ལྕེ་དང་</div>
+            <div class="wylie-line">sngags kyi sgra 'brug stong ltar sgrogs shing snying kar nyi gdan la gnas pa'i sngags kyi me lce dang /</div>
+            <div class="phonetic-line">阿 基 札 珠 東 達 卓 欣 寧 嘎 尼 丹 拉 內 貝 阿 基 梅 傑 當</div>
+            
+            <div class="tib-line">བ་སྤུའི་ཉག་མ་རེ་རེའི་གསེབ་ནས་སྤྲུལ་པའི་རྟ་མགྲིན་རང་འདྲ་དཔག་ཏུ་མེད་པ་སྤྲོས་པས་</div>
+            <div class="wylie-line">ba spu'i nyag ma re re'i gseb nas sprul pa'i rta mgrin rang 'dra dpag tu med pa spros pas</div>
+            <div class="phonetic-line">巴 布 尼 瑪 雷 雷 瑟 內 珠 貝 達 珍 讓 札 巴 杜 美 巴 追 貝</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            自我與一切小忿怒尊之口中，咒音如千雷轟鳴。心間日輪座上有咒語之火焰舌。
+            且由每一毛孔中，化現無量與我相同的哈雅格利瓦向外發射。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            我與一切小忿怒尊之口中，真言之聲如千雷齊鳴；心間日輪座上，有真言火焰之舌，並由每一毛孔之間，無量化現與我同相的馬頭明王遍滿而出。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">སྟེང་འོག་བར་གསུམ་གྱི་གདོན་བགེགས་ལོག་འདྲེན་སྤྱི་དང་། ཁྱད་པར་རྒྱལ་འགོང་དམ་སྲི་སོགས་</div>
+            <div class="wylie-line">steng 'og bar gsum gyi gdon bgegs log 'dren spyi dang / khyad par rgyal 'gong dam sri sogs /</div>
+            <div class="phonetic-line">登 喔 巴 孫 基 敦 葛 洛 珍 基 當 / 切 巴 嘉 貢 丹 斯 索</div>
+            
+            <div class="tib-line">གནོད་བྱེད་སྡེ་བརྒྱད་འབྱུང་པོ་ཕ་རོལ་གྱི་བྱད་མ་རྦད་འདྲེ་རྦོད་གཏོང་དང་བཅས་པ་ཐམས་ཅད་གཞོབ་ཐུལ་བསྲེག་ཅིང་བརླག་བར་གྱུར་པར་བསམ་ལ།</div>
+            <div class="wylie-line">gnod byed sde brgyad 'byung po pha rol gyi byad ma rbad 'dre rbod gtong dang bcas pa thams cad gzhob thul bsreg cing brlag bar gyur par bsam la</div>
+            <div class="phonetic-line">諾 傑 迭 嘉 炯 波 帕 羅 基 傑 瑪 貝 椎 貝 東 當 傑 巴 湯 傑 秀 吐 瑟 經 拉 巴 究 巴 桑 拉</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            彼等將完全焚毀並消滅上、下、中三處的魔障與邪導引者，尤其是 Gyalpo、Gongpo、Damsi 等；
+            以及作害之八部眾、Bhuta、對他人施黑法、邪術及遣鬼魅作祟者，悉皆摧伏、焚燒、毀滅——應如是觀想。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            普遍焚除上、下、中央三處之損害、障礙、引人入歧之邪導，尤其是「rgyal」、「gong」、「dam sri」等類；以及作害之八部眾、諸「bhūta（'byung po）」等；並一切對他人施作黑法、邪術、差遣惡靈等諸障難，悉皆摧折、調伏、焚燒、令其滅盡——如是作觀。
+        </div>
+    </div>
+
+    <h2>【持咒與事業】</h2>
+
+    <div class="section-block">
+        <!-- 插入根本咒前圖片 -->
+        <img src="1715520842-3313598426-g.png" alt="馬頭明王咒輪或相關圖片" class="mantra-img">
+
+        <h3>根本咒</h3>
+        <div class="mantra-box">
+            <span class="mantra-tibetan">ཨོྃ་ཧྲཱིཿ པདྨཱནྟ་ཀྲྀཏ་བཛྲ་ཀྲོདྷ་ཧ་ཡ་གྲཱི་བ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ།</span>
+            <span class="mantra-iast">oṃ hrīḥ padmāntakṛt vajrakrodha hayagrīva hulu hulu hūṃ phaṭ</span>
+            <span class="mantra-chinese">嗡 貝馬打吉打 (蓮花終結者) 班扎卓達 (金剛忿怒) 哈牙格利瓦 (馬首金剛) 呼噜呼噜 (迅速迅速) 吽 呸</span>
+            <span class="mantra-chinese">嗡！赫利！蓮華摧滅者、金剛忿怒、馬頭明王：摧！摧！吽！啪！</span>
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">ཅེས་ཅི་ནུས་བཟླ་གཤམ་དུ།</div>
+            <div class="wylie-line">ces ci nus bzla gsham du</div>
+            <div class="phonetic-line">傑 基 努 達 孝 杜</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 盡力持誦（能誦多少誦多少）。然後：</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            如是盡力持誦；然後（如下）。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>事業咒一（攝受八部）</h3>
+        <div class="mantra-box">
+            <span class="mantra-tibetan">ཨོྃ་ཧྲཱིཿ པདྨཱནྟ་ཀྲྀཏ་བཛྲ་ཀྲོདྷ་ཧ་ཡ་གྲཱི་བ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ། ཨོྃ་བཛྲ་དུན་བྷྱོ། ཏྲིག་ནན་ཛཿ ཛཿ ས་མ་ཡ་སྟྭཾ།</span>
+            <span class="mantra-iast">oṃ hrīḥ padmāntakṛt vajrakrodha hayagrīva hulu hulu hūṃ phaṭ | oṃ vajra dunbhyo | trig nan jaḥ jaḥ | samaya stvam</span>
+            <span class="mantra-chinese">於根本咒後加誦：以金剛力召攝、攝伏，令其入誓言（受制、守誓）。</span>
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">ཅེས་པ་སྡེ་བརྒྱད་དབང་སྡུད་དམེ་གཤེད་འབེབས་ཀྱི་སྔགས་དང་།</div>
+            <div class="wylie-line">ces pa sde brgyad dbang sdud dme gshed 'bebs kyi sngags dang</div>
+            <div class="phonetic-line">傑 巴 迭 嘉 汪 堆 梅 雪 貝 基 阿 當</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 此為「制伏八部」以及「降下（斬殺親族兇徒之）行刑者」的咒。</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            此為「制伏／攝受八部眾（sde brgyad）」以及「降下（忿怒）行刑者（dme gshed）」之真言。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>事業咒二（Samaya指令）</h3>
+        <div class="mantra-box">
+            <span class="mantra-tibetan">ཨོྃ་ཧྲཱིཿ པདྨཱནྟ་ཀྲྀཏ་བཛྲ་ཀྲོདྷ་ཧ་ཡ་གྲཱི་བ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ། ས་མ་ཡ་ཛཿ ས་མ་ཡ་བཟློག །ས་མ་ཡ་བྷྱོ། ས་མ་ཡ་གཏུབས། ས་མ་ཡ་བྱེར། ས་མ་ཡ་རྦད། ས་མ་ཡ་རྦད་རྦུད་ཕཊ་ཡ་འབྱུང་པོ་མཱ་ར་ཡ་ཛཿ ཛཿ</span>
+            <span class="mantra-iast">oṃ hrīḥ padmāntakṛt vajrakrodha hayagrīva hulu hulu hūṃ phaṭ | samaya jaḥ | samaya dok | samaya bhyo | samaya tubs | samaya jer | samaya bad | samaya bad bud phaṭ | ya 'byung po māraya jaḥ jaḥ</span>
+            <span class="mantra-chinese">以誓言力作忿怒事業之「召、遮、遣、斬、破、摧、滅」等指令串，並令諸障礙眾「māraya」（誅滅／斷除）而失勢。</span>
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">ཅེས་པའི་ལས་སྔགས་རྣམས་སྦྲེལ་ནས་ཉེར་གཅིག་རེ་བཟླ།</div>
+            <div class="wylie-line">ces pa'i las sngags rnams sbrel nas nyer gcig re bzla</div>
+            <div class="phonetic-line">傑 貝 列 阿 南 綴 內 涅 吉 雷 達</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 將這些事業咒串連後，每一條各誦二十一遍。</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            將以上事業真言串聯後，各自持誦二十一遍。
+        </div>
+    </div>
+
+    <div class="section-block">
+        <h3>更廣版本（可選）</h3>
+        <div class="verse-group">
+            <div class="tib-line">སྤྲོ་ན་ཐམས་ཅད་མཁྱེན་པ་དབྱངས་ཅན་བཞད་པའི་སྒྲུབ་ཐབས་ལས་འབྱུང་བའི་སྔགས།</div>
+            <div class="wylie-line">spro na thams cad mkhyen pa dbyangs can bzhad pa'i sgrub thabs las 'byung ba'i sngags</div>
+            <div class="phonetic-line">卓 那 湯 傑 千 巴 揚 間 雪 貝 珠 塔 列 炯 威 阿</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 若你希望修持更廣的版本，則誦出自遍知揚千謝巴（Yangchen Shepa）之哈雅格利瓦成就法中的咒：</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            若欲作更廣之修法，可持誦出自「一切知楊欽謝巴（dbyangs can bzhad pa）」成就法中的真言（如下）：
+        </div>
+
+        <div class="mantra-box">
+            <span class="mantra-tibetan">ཨོྃ་ཧྲཱིཿ པདྨཱནྟ་ཀྲྀཏ་བཛྲ་ཀྲོདྷ་ཧ་ཡ་གྲཱི་བ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ། ཨོྃ་ཧཾ་ཤ་ཏྲིག་ཏྲིག་ནན། ཏྲིག་ཧུར་ཐུམ་ཛཿ མ་ར་ཡ་ཕཊ། ཨོྃ་རུ་ཏྲིག་ཏྲིག་རུ་ཏྲིག་ཏྲིག་ནན། ཏྲིག་ཧུར་ཐུམ་ཛཿ མཱ་ར་ཡ་ཕཊ།</span>
+            <span class="mantra-iast">oṃ hrīḥ padmāntakṛt vajrakrodha hayagrīva hulu hulu hūṃ phaṭ | oṃ haṃ śa trig trig nan | trig hur thum jaḥ | māraya phaṭ | oṃ ru trig trig ru trig trig nan | trig hur thum jaḥ | māraya phaṭ</span>
+            <span class="mantra-chinese">更強力的忿怒事業音節串：召攝、摧破、斬斷、誅滅障難（依傳承口訣按音誦持）。</span>
+        </div>
+        
+        <div class="verse-group">
+            <div class="tib-line">ཅེས་པ་ཅི་འགྲུབ་རེ་བཟླས་པའི་མཐར།</div>
+            <div class="wylie-line">ces pa ci 'grub re bzlas pa'i mthar</div>
+            <div class="phonetic-line">傑 巴 基 珠 雷 達 貝 他</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 能誦多少就誦多少；然後（如下）：</div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            如是隨力持誦後，接著（以下進入回向、供養等次第）。
+        </div>
+    </div>
+
+    <h2>【回向】</h2>
+    
+    <div class="section-block">
+        <div class="verse-group">
+            <div class="tib-line">དགེ་བ་འདི་ཡིས་མྱུར་ཏུ་བདག །</div>
+            <div class="wylie-line">dge ba 'di yis myur tu bdag</div>
+            <div class="phonetic-line">給 哇 迪 宜 紐 杜 達</div>
+            
+            <div class="tib-line">རྟ་མཆོག་རོལ་པ་འགྲུབ་གྱུར་ནས། །</div>
+            <div class="wylie-line">rta mchog rol pa 'grub gyur nas</div>
+            <div class="phonetic-line">達 確 羅 巴 珠 究 內</div>
+            
+            <div class="tib-line">འགྲོ་བ་གཅིག་ཀྱང་མ་ལུས་པ། །</div>
+            <div class="wylie-line">'gro ba gcig kyang ma lus pa</div>
+            <div class="phonetic-line">卓 哇 吉 江 瑪 盧 巴</div>
+            
+            <div class="tib-line">དེ་ཡི་ས་ལ་འགོད་པར་ཤོག། །།</div>
+            <div class="wylie-line">de yi sa la 'god par shog</div>
+            <div class="phonetic-line">迭 宜 薩 拉 果 巴 秀</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            願以此善根，我迅速成就「最勝駿馬嬉遊示現（哈雅格利瓦）」之果位；
+            並令一切眾生無一遺漏，皆安置於彼境界（彼地位）中。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            願以此善根，我能迅速成就「最勝駿馬嬉遊示現（rta mchog rol pa）」之果位；使一切眾生無有遺漏，皆安立於彼之境界（同證其地）。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">དགེ་བ་འདི་ཡིས་འགྲོ་ཀུན་སེམས་ཅན་རྣམས། །</div>
+            <div class="wylie-line">dge ba 'di yis 'gro kun sems can rnams /</div>
+            <div class="phonetic-line">給 哇 迪 宜 卓 袞 森 間 南</div>
+            
+            <div class="tib-line">པདྨ་རྒྱལ་པོའི་གོ་འཕང་མཆོག་ཐོབ་ནས། །</div>
+            <div class="wylie-line">pad+ma rgyal po'i go 'phang mchog thob nas /</div>
+            <div class="phonetic-line">貝 瑪 嘉 波 果 旁 確 託 內</div>
+            
+            <div class="tib-line">མ་རིག་ལྡོངས་པའི་སྐྱེ་ཚོགས་ཐམས་ཅད་ལ། །</div>
+            <div class="wylie-line">ma rig ldongs pa'i skye tshogs thams cad la /</div>
+            <div class="phonetic-line">瑪 瑞 冬 貝 傑 措 湯 傑 拉</div>
+            
+            <div class="tib-line">རོལ་པའི་རྟ་སྐད་ཕྱོགས་བཅུར་སྒྲོགས་པར་ཤོག།།</div>
+            <div class="wylie-line">rol pa'i rta skad phyogs bcur sgrogs par shog</div>
+            <div class="phonetic-line">羅 貝 達 凱 秋 究 卓 巴 秀</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            願以此善力，一切眾生得證「蓮花王」哈雅格利瓦之最勝境界；並令一切為無明所盲之眾生集會，在十方宣揚（鳴響）此嬉遊駿馬之嘶鳴！
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            願以此善根力，一切眾生證得蓮華王（馬頭明王）之最勝果位，為一切被無明所盲之有情眾，願令「嬉遊之駿馬嘶鳴」遍響十方（喻弘法利生之威德遍滿）。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">འདིའི་ལས་ཚོགས་ཤེས་འདོད་ན་གཞན་དུ་བལྟའོ། །</div>
+            <div class="wylie-line">'di'i las tshogs shes 'dod na gzhan du blta'o</div>
+            <div class="phonetic-line">迪 烈 措 謝 堆 那 先 杜 達 喔</div>
+        </div>
+        <div class="translation-box rus-text"><span class="label label-rus">俄譯繁中</span> 若欲學修此尊之「事業總集」等內容，請從其他來源典籍中學習。</div>
+    </div>
+
+    <div class="section-block">
+        <h3>作者結偈</h3>
+        <div class="verse-group">
+            <div class="tib-line">སྨྲས་པ།</div>
+            <div class="wylie-line">smras pa</div>
+            <div class="phonetic-line">美 巴</div>
+            
+            <div class="tib-line">སྙིགས་མའི་བརླང་སྤྱོད་མུན་ནག་གིས་བོས་པའི། །</div>
+            <div class="wylie-line">snyigs ma'i brlang spyod mun nag gis bos pa'i /</div>
+            <div class="phonetic-line">尼 梅 朗 覺 門 那 基 貝 貝</div>
+            
+            <div class="tib-line">མ་རུངས་ལོག་འདྲེན་སྲིན་བྱ་སྟོང་གི་དཔུང་། །</div>
+            <div class="wylie-line">ma rungs log 'dren srin bya stong gi dpung /</div>
+            <div class="phonetic-line">瑪 龍 洛 珍 欣 賈 東 基 彭</div>
+            
+            <div class="tib-line">ཚར་གཅོད་བྱིན་བརླབས་ཉི་མ་དྲོད་པོ་ཆེ། །</div>
+            <div class="wylie-line">tshar gcod byin brlabs nyi ma drod po che /</div>
+            <div class="phonetic-line">擦 覺 金 拉 尼 瑪 卓 波 切</div>
+            
+            <div class="tib-line">འདྲེན་བྱེད་གདམས་ཟབ་ཤིང་རྟ་བདུན་འདི་རྨད། །</div>
+            <div class="wylie-line">'dren byed gdams zab shing rta bdun 'di rmad</div>
+            <div class="phonetic-line">珍 傑 丹 薩 興 達 敦 迪 梅</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            此處所說：這些殊勝深奧的教授，宛如七匹駿馬牽引的車乘，載著加持之熱力如大日輪，能摧毀成千上萬的毗那夜迦（障礙眾）軍隊——那些障礙眾好似夜梟，乃由末法衰敗期之粗暴惡行所招感而來。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            如是言：於末法濁世，粗暴行徑如黑暗召引——不祥邪導之毘那夜迦等魔眾，如千軍萬馬湧現——願加持之熱日威光，能摧滅彼等魔軍。此深要教誡如七駿牽引之車乘，實為稀有殊勝。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">རྩུབ་སྦྱོར་དྲག་པོས་སྙིང་དུབ་པའི། །</div>
+            <div class="wylie-line">rtsub sbyor drag pos snying dub pa'i /</div>
+            <div class="phonetic-line">祖 覺 札 波 寧 杜 貝</div>
+            
+            <div class="tib-line">གདུང་བ་ཞི་ཕྱིར་ལྷག་བསམ་གྱིས། །</div>
+            <div class="wylie-line">gdung ba zhi phyir lhag bsam gyis /</div>
+            <div class="phonetic-line">東 哇 息 契 拉 桑 基</div>
+            
+            <div class="tib-line">གྲུབ་པའི་གསུང་བཞིན་སྤེལ་པ་གང་། །</div>
+            <div class="wylie-line">grub pa'i gsung bzhin spel pa gang /</div>
+            <div class="phonetic-line">珠 貝 鬆 欣 培 巴 崗</div>
+            
+            <div class="tib-line">ཚུལ་འདིར་གུས་རྣམས་ཏེ་པོར་བསྟེན། །</div>
+            <div class="wylie-line">tshul 'dir gus rnams te por bsten</div>
+            <div class="phonetic-line">楚 迪 古 南 迭 波 丹</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            為了平息那由可怖殘酷惡業所引發、令心疲憊煎熬的痛苦，我以增上意樂，依成就者（悉地者）的教言撰寫此成就法。願一切對此修持方法具足恭敬者，迅速開始依止並修行。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            為平息因猛烈粗惡行為所致之心疲苦惱——我以增上意樂，欲令苦痛止息——依成就者之教言而撰述、宣說此法——願具恭敬者迅速依此軌則而修持。
+        </div>
+
+        <div class="verse-group">
+            <div class="tib-line">དགེ་བས་འགྲོ་ཀུན་གདོན་གསུམ་གྱིས། །</div>
+            <div class="wylie-line">dge bas 'gro kun gdon gsum gyis /</div>
+            <div class="phonetic-line">給 威 卓 袞 敦 孫 基</div>
+            
+            <div class="tib-line">རྟག་ཏུ་བརྫི་བ་མེད་པར་ཤོག། །།</div>
+            <div class="wylie-line">rtag tu brdzi ba med par shog</div>
+            <div class="phonetic-line">達 杜 茲 哇 美 巴 秀</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            願以此善力，一切眾生永不被三種作害之魔所征服！
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            願以此善根，令一切眾生永不為三類損害魔所勝伏！
+        </div>
+    </div>
+
+    <div class="section-block" style="border-bottom: none;">
+        <h3>跋語與註解</h3>
+        <div class="verse-group">
+            <div class="tib-line">ཅེས་རྟ་མགྲིན་གསང་སྒྲུབ་ཀྱི་སྒྲུབ་ཐབས་རྟ་མཆོག་རོལ་པའི་དགོངས་རྒྱན་ཞེས་བྱ་བ་འདི་ནི་གསར་རྙིང་གི་མཁས་གྲུབ་ du ma'i gsung bzhin du / zhwa ser cod paN 'dzin pa shAkya'i dge slong dkon mchog 'jigs med dbang po ye shes brtson 'grus grags pa'i sdes chos grwa chen po bkra shis 'khyil nas sbyar ba dge legs 'phel / sarba mang+ga laM</div>
+            <div class="wylie-line">ces rta mgrin gsang sgrub kyi sgrub thabs rta mchog rol pa'i dgongs rgyan zhes bya ba 'di ni gsar rnying gi mkhas grub du ma'i gsung bzhin du / zhwa ser cod paN 'dzin pa shAkya'i dge slong dkon mchog 'jigs med dbang po ye shes brtson 'grus grags pa'i sdes chos grwa chen po bkra shis 'khyil nas sbyar ba dge legs 'phel / sarba mang+ga laM</div>
+            <div class="phonetic-line">傑 達 珍 桑 珠 基 珠 塔 達 確 羅 貝 恭 見 協 下 哇 迪 尼 薩 寧 基 凱 珠 杜 梅 鬆 欣 杜 / 夏 瑟 覺 班 增 巴 夏 傑 給 隆 袞 確 吉 美 汪 波 耶 謝 尊 珠 札 貝 迭 確 札 陳 波 扎 西 奇 內 賈 哇 給 列 培 / 薩 哇 芒 嘎 朗</div>
+        </div>
+
+        <div class="translation-box rus-text">
+            <span class="label label-rus">俄譯繁中</span>
+            這部哈雅格利瓦密修成就法《最勝駿馬戲現之意飾》，是依新舊譯派許多學者與成就者之著作而編寫，由黃帽傳承之持冠者、釋迦族比丘貢卻吉美旺波・耶謝尊都札巴德（1728–1791）於札什吉爾大寺撰成。願善德與吉祥增長！Sarva maṅgalam（願一切吉祥）。<br>
+            <span style="font-size:0.9em; color:#666;">2016年7月 翻譯：Bem Mitruyev</span>
+            <br><br>
+            <strong>註解：</strong><br>
+            [1] 此哈雅格利瓦形態亦稱：最勝駿馬戲現，或「最勝駿馬之樂／享受」（藏：<em>Tamchok Rolpa</em>；梵：<em>Aśva Uttama Vinaśmata</em> ——依原文所示之拼寫）。<br>
+            [2] 「揚千謝巴」是第二達賴喇嘛的另一個名字。在其文集第三卷（Ga），由2006年於印度達蘭薩拉之「西藏文獻與檔案圖書館」出版的版本中，收有一部哈雅格利瓦成就法（<em>rta mgrin pad+ma dbang chen zhes grags pa’i sgrub thabs</em>），其中載有此哈雅格利瓦之咒。
+        </div>
+        <div class="translation-box trans-text">
+            <span class="label label-tib">藏轉繁中</span>
+            此《馬頭密修成就法〈最勝駿馬嬉遊之意嚴〉》，乃依新舊譯諸多博學成就者之教言而作；由黃帽教法之持冠者、釋迦比丘貢卻・吉美旺波・耶謝尊都・札巴爹，於大寺「札什圓滿（Tashi Khyil）」編撰。願善德吉祥增長！薩哇曼嘎朗（Sarva maṅgalaṃ）。
+        </div>
+        
+        <div class="source-link">
+            來源：<a href="https://www.facebook.com/share/p/14YFGXKDoC2/" target="_blank">https://www.facebook.com/share/p/14YFGXKDoC2/</a>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
