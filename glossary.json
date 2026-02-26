@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-26T18:32:34.747Z",
+  "updated_at": "2026-02-26T18:38:28.690Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -461,6 +461,126 @@
       "notes": "藏傳佛教寧瑪派大圓滿上師，20世紀著名禪修導師。『Tulku』為轉世活佛稱號，『Rinpoche』為尊稱。",
       "added_at": "2026-02-26T18:32:34.747Z",
       "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "8369f629-b7fb-4bc6-b146-3dab4a776236",
+      "original": "кай",
+      "translation": "身（指三身）",
+      "sanskrit": "kāya / trikāya",
+      "category": "concept",
+      "notes": "文中多以複數「каи」出現，對應佛身之義，此處實指三身（法身、報身、化身）",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "e1e20e8e-cc87-4ee9-b028-f52790c0e96b",
+      "original": "просветление",
+      "translation": "覺悟",
+      "sanskrit": "bodhi",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "7c5525a7-f982-4e62-ab6c-f8fdb90fa25b",
+      "original": "кальпа",
+      "translation": "劫",
+      "sanskrit": "kalpa",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "8be0fbfd-1a99-42b2-94d8-4d136827c7b6",
+      "original": "три каи",
+      "translation": "三身",
+      "sanskrit": "trikāya",
+      "category": "concept",
+      "notes": "三身即法身、報身、化身",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "0c01bf00-236d-47e5-87b4-4898a8112f05",
+      "original": "бардо",
+      "translation": "中陰",
+      "sanskrit": "bar do (Tib.)",
+      "category": "concept",
+      "notes": "藏語術語，指死與生之間的中陰狀態",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "f56bf8f7-ad10-4f75-a1cb-22ff74db289c",
+      "original": "скандх",
+      "translation": "五蘊",
+      "sanskrit": "skandha",
+      "category": "concept",
+      "notes": "此處為複數，指由五蘊聚合而成之有情",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "c0b9161c-3d12-465b-a858-8a568aa46a17",
+      "original": "Будда",
+      "translation": "佛陀",
+      "sanskrit": "Buddha",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "fd39efaa-2ed4-46d2-bac7-8e01ed224eac",
+      "original": "колесницам учений",
+      "translation": "諸乘教法（各種修行車乘）",
+      "sanskrit": "yāna",
+      "category": "concept",
+      "notes": "佛教中指聲聞乘、緣覺乘、菩薩乘等諸乘",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "ae04cfc6-7eb0-4e88-99f5-e9dfadb742a4",
+      "original": "практика",
+      "translation": "實修 / 修行",
+      "sanskrit": "sādhana / bhāvanā",
+      "category": "practice",
+      "notes": "廣義指一切修行實踐",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "2c4f5cee-e70b-4390-97ee-14ebac698544",
+      "original": "практику сущности ума",
+      "translation": "對心之本性的實修",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "藏傳語境中可對應直指心性、禪修心之本性等法門",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "e4cac10d-6421-4b9b-8046-f28fc49dab33",
+      "original": "«единственную вещь, которая освобождает всё»",
+      "translation": "一法能解脫一切",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "教理上指一味解脫之究竟要訣／關鍵法門",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
+    },
+    {
+      "id": "cafa8052-945c-424e-b6d7-76a8a2ecbd48",
+      "original": "Тулку Ургьен Ринпоче",
+      "translation": "秋竹烏金仁波切",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "藏傳佛教大德，屬藏名轉寫",
+      "added_at": "2026-02-26T18:38:28.690Z",
+      "source_article": "心之本性與三身智慧：空性與不滅覺悟"
     }
   ]
 }
