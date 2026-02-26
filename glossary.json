@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "updated_at": "2026-02-26T17:34:19.758Z",
+  "terms": [
+    {
+      "id": "e45c34f9-8593-4573-ab98-354797042439",
+      "original": "འཇམ་དཔལ་དབྱངས",
+      "translation": "文殊師利妙音",
+      "sanskrit": "मञ्जुश्री (Maṇjuśrī)",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "dd73a501-7197-415e-8902-5df7f0429107",
+      "original": "ཁྲི་སྲོང་ལྡེའུ་བཙན",
+      "translation": "法王松贊干布",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "吐蕃歷史上著名國王",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "5fe035b5-133b-44de-bbe2-0ae7709cc622",
+      "original": "མཁན་པོ་བོ་དྷི་སཏྭ",
+      "translation": "堪布佛陀薩埵",
+      "sanskrit": "Bodhisattva",
+      "category": "concept",
+      "notes": "此處指堪布上師與菩薩之合稱",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "9d151903-3cd7-40e3-b0cc-d15ca2b91c18",
+      "original": "བྲག་དམར་འོམ་བུ",
+      "translation": "札瑪爾翁布",
+      "sanskrit": "",
+      "category": "place",
+      "notes": "地名，具體位置待考",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "c8b2c11a-9605-4fce-8ec2-b51209770a45",
+      "original": "རྩ་བ་གསུམ",
+      "translation": "三根本",
+      "sanskrit": "Triratna (三寶; 三根本亦指尊師、佛、法)",
+      "category": "concept",
+      "notes": "指上師、本尊、護法三根本",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "b4eb96a0-241d-47fb-b54f-d9a4412f14b8",
+      "original": "སྐྱབས་གནས",
+      "translation": "依怙處",
+      "sanskrit": "Refuge (śaraṇa)",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "dc0db4d6-295d-4483-abf9-ba77c7b4d668",
+      "original": "དཀོན་མཆོག",
+      "translation": "三寶",
+      "sanskrit": "Triratna",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "55fb9b15-58ce-4e36-8e80-6e1f738a27d2",
+      "original": "ཁྱད་པར་གངས་ཅན་མགོན་པོ",
+      "translation": "觀世音菩薩",
+      "sanskrit": "Avalokiteśvara",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "a7fe5bac-409e-4375-b138-1a342e1b6569",
+      "original": "རྗེ་བཙུན",
+      "translation": "度母",
+      "sanskrit": "Tārā",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "ca0ef68a-d6c8-4544-99a7-5bf6034fbc05",
+      "original": "སྒྲོལ་མ",
+      "translation": "度母",
+      "sanskrit": "Tārā",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "75bf6528-bfa9-47fe-8d27-c0e23307469d",
+      "original": "གུ་རུ་པདྨ",
+      "translation": "蓮花生",
+      "sanskrit": "Padmasambhava",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "ee17cf38-4c9b-45b8-a9c0-839480b9c5be",
+      "original": "སྨོན་ལམ",
+      "translation": "祈願",
+      "sanskrit": "prārthanā",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "8f8070ad-6a3c-4e58-bbd6-864a2890b08e",
+      "original": "རྒྱུད",
+      "translation": "續",
+      "sanskrit": "tantra",
+      "category": "text",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "ce884033-12fd-4010-aa82-6fdda6f35343",
+      "original": "བདག་ཅག་ལྷག་བསམ",
+      "translation": "發願",
+      "sanskrit": "praṇidhāna",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "49d51585-ccfb-412c-8789-cfa1a0ccd88b",
+      "original": "སངས་རྒྱས",
+      "translation": "佛陀",
+      "sanskrit": "Buddha",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "25e2a272-c5f2-4c8c-9bef-aa4aa9dc6e73",
+      "original": "བསྟན་པ",
+      "translation": "佛法",
+      "sanskrit": "Dharma",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.757Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "4f2c2b99-8038-4aa8-bd6e-1bfae1936603",
+      "original": "འཁོར་འདས",
+      "translation": "輪迴",
+      "sanskrit": "saṃsāra",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.758Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "d75bc99f-82be-4b6e-b781-f0d4a2164a2a",
+      "original": "དགེ་བ",
+      "translation": "善業",
+      "sanskrit": "karman",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.758Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "a0c72260-5a4e-49f4-92ea-35f90ef92383",
+      "original": "རིན་པོ་ཆེ",
+      "translation": "珍寶",
+      "sanskrit": "Ratna",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T17:34:19.758Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "971e356d-fae6-4a53-b4cb-bbec44ccc0e6",
+      "original": "བཙའ་སད་སེར་གསུམ",
+      "translation": "饑荒、瘟疫、賊寇三災",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "疑為合書，指三種災難",
+      "added_at": "2026-02-26T17:34:19.758Z",
+      "source_article": "【正文】"
+    },
+    {
+      "id": "97302a1b-3388-42e4-8ed2-77af45feb59e",
+      "original": "ཨ་ཐཱ་སིདྡྷི་རསྟུ",
+      "translation": "如是願成就",
+      "sanskrit": "āḥ tā siddhir astu",
+      "category": "mantra",
+      "notes": "藏文音寫，意為願成就",
+      "added_at": "2026-02-26T17:34:19.758Z",
+      "source_article": "【正文】"
+    }
+  ]
+}
