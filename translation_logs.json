@@ -55,5 +55,24 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-02-26",
+    "article": "2026-02-26",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "IAST",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
