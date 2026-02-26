@@ -1,156 +1,136 @@
 {
   "version": 1,
-  "updated_at": "2026-02-26T18:11:11.124Z",
+  "updated_at": "2026-02-26T18:21:50.892Z",
   "terms": [
     {
-      "id": "18a5bfd9-9915-480b-8bdb-ce41d1d0363c",
-      "original": "Дзогчен",
-      "translation": "大圓滿",
-      "sanskrit": "rdzogs chen (藏)",
-      "category": "practice",
-      "notes": "又譯作大完滿、大圓滿乘，寧瑪派最高教法",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "2aa2b84f-06da-4528-acc9-694bccbbc9c4",
-      "original": "Будда",
-      "translation": "佛陀",
-      "sanskrit": "Buddha",
-      "category": "person",
-      "notes": "",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "8c27e8ab-2955-4372-916b-4221d179f50e",
-      "original": "бодхичитта",
-      "translation": "菩提心",
-      "sanskrit": "bodhicitta",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "913f4372-2b5f-4c9d-96c1-dd4b51e699ee",
-      "original": "Сутры",
-      "translation": "《經》 / 經部",
-      "sanskrit": "sūtra",
-      "category": "text",
-      "notes": "此處兼指顯教經典與依經而立的教法層次",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "e18d6f3c-159a-4b85-a49d-4ae3950713fd",
-      "original": "Тантры",
-      "translation": "《續》（密續）",
-      "sanskrit": "tantra",
-      "category": "text",
-      "notes": "",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "9d890d5a-2762-4a1f-88dd-bc31d1e8b62a",
-      "original": "Основы",
-      "translation": "基（基礎原理）",
-      "sanskrit": "gzhi (藏)",
-      "category": "concept",
-      "notes": "大圓滿與一般佛教中之「基」、「本基」義",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "3dba838c-b139-466a-a179-aa532eceb6a6",
-      "original": "двух истин: относительной и абсолютной",
-      "translation": "二諦：世俗諦與勝義諦",
-      "sanskrit": "dve satye: saṃvṛti-satya / paramārtha-satya",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "90d6aef4-50b9-4c94-baa8-8f1335bd9778",
-      "original": "ум",
-      "translation": "心",
-      "sanskrit": "citta 或 manas",
-      "category": "concept",
-      "notes": "在二諦對應中作「世俗心」義",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "80f45aff-cc17-42b2-b33a-9161e825f717",
-      "original": "природа ума",
-      "translation": "心性（心的本性）",
-      "sanskrit": "citta-svabhāva",
-      "category": "concept",
-      "notes": "在此對應勝義諦之層面",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "f080c8b9-a96a-444c-9cc7-e88dfac02361",
-      "original": "Путь в Сутре — это два накопления: заслуг и мудрости",
-      "translation": "（在經部中）道是二種積聚：功德資糧與智慧資糧",
-      "sanskrit": "puṇya-saṃbhāra / jñāna-saṃbhāra",
-      "category": "concept",
-      "notes": "二資糧教說",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "f95fd87c-981a-4428-b0d1-3844250cf226",
-      "original": "мантры очищения",
-      "translation": "清淨之咒（咒語、心咒）",
-      "sanskrit": "śuddhi-mantra",
-      "category": "mantra",
-      "notes": "泛指用以清淨業障之咒語",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "f099b6e3-08d4-4705-a147-740baef9ef82",
-      "original": "состояние созерцания",
-      "translation": "禪觀狀態（觀修、止觀之境界）",
-      "sanskrit": "bhāvanā-avasthā 或 samādhi-avasthā",
-      "category": "practice",
-      "notes": "此處偏向指修觀、禪定之實修境界",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
-    },
-    {
-      "id": "6e5a56fd-3f33-4a72-bf09-d36fb6632b9e",
-      "original": "Будде и божествам",
-      "translation": "佛與諸尊天",
-      "sanskrit": "Buddha-bodhisattva-devatā",
+      "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
+      "original": "ནོར་ལྷ",
+      "translation": "財神",
+      "sanskrit": "Jambhala",
       "category": "deity",
-      "notes": "「божествам」在密教脈絡多指諸尊、諸天本尊",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
+      "notes": "藏語 nor lha，意為財神、財寶天，與占巴拉相當",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
     },
     {
-      "id": "4114a2d7-532c-4e68-a3d8-d3691ce9b2fa",
-      "original": "состояние знания",
-      "translation": "覺知之狀態",
-      "sanskrit": "jñāna-sthiti",
+      "id": "f448aca3-fa4c-40c1-880e-e92cd25d4274",
+      "original": "ཛམ་བྷ་ལ",
+      "translation": "占巴拉（財神）",
+      "sanskrit": "Jambhala",
+      "category": "deity",
+      "notes": "梵語財神名，漢譯多作占巴拉、讚巴拉、藏巴拉",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "f8baf455-67b3-461e-9a97-e1424416ac9f",
+      "original": "財神",
+      "translation": "財神",
+      "sanskrit": "Jambhala",
+      "category": "deity",
+      "notes": "此處特指占巴拉／nor lha，不是泛指一切財神",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "fd3257de-b021-4339-b01e-28de0138a201",
+      "original": "གཙོ་བོ་སེམས་ཅན",
+      "translation": "一切有情眾生",
+      "sanskrit": "sarvasattva",
       "category": "concept",
-      "notes": "接近大圓滿中本覺、智性現前之義",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
+      "notes": "有情、眾生之意",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
     },
     {
-      "id": "76c31469-1e1c-465d-846a-e4a19b6f4c35",
-      "original": "НАМКАЙ НОРБУ РИНПОЧЕ",
-      "translation": "南開諾布仁波切",
-      "sanskrit": "Namkhai Norbu Rinpoche (藏)",
+      "id": "346b4fcb-727e-4dfc-995b-2fac41d3fcae",
+      "original": "སེར་སྣའི་ནད",
+      "translation": "吝嗇的病患",
+      "sanskrit": "mātsarya-roga",
+      "category": "concept",
+      "notes": "「吝嗇、慳貪」之煩惱習氣，喻為疾病",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "d3ce9102-992e-4baf-b5c8-5f214e36e19f",
+      "original": "བྱང་ཆུབ་སེམས་དཔའ",
+      "translation": "菩薩",
+      "sanskrit": "bodhisattva",
       "category": "person",
-      "notes": "藏傳寧瑪派大圓滿上師",
-      "added_at": "2026-02-26T18:11:11.124Z",
-      "source_article": "大圓滿「四依止」與基道果：真實義與智慧之道的開顯"
+      "notes": "指發菩提心行菩薩道者，此處指財神為菩薩",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "eb4881ec-7e77-400b-aea0-7ddb528c0c36",
+      "original": "འཕགས་མཆོག་སྤྱན་རས་གཟིགས",
+      "translation": "至尊觀世音菩薩（觀音菩薩）",
+      "sanskrit": "Ārya Avalokiteśvara",
+      "category": "deity",
+      "notes": "觀音菩薩，梵名阿縛盧枳低濕伐羅",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "ec38a128-1fb2-4339-9a4f-4f42a0f6d570",
+      "original": "སྒྲོལ་མ",
+      "translation": "度母",
+      "sanskrit": "Tārā",
+      "category": "deity",
+      "notes": "由觀音左眼淚化現之女尊，綠度母為最著名形象",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "523998cd-562e-49d9-b314-b791a2d825fd",
+      "original": "ལྷ་ལྔ",
+      "translation": "五姓財神",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "此處指五位財神尊，由觀音右眼淚所化現，通稱五姓財神",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "0e150377-d1a6-4dbc-b88f-c752c83ff6ea",
+      "original": "ཞིང་ཁམས་བདེ་བ་ཅན",
+      "translation": "極樂世界（安樂淨土）",
+      "sanskrit": "Sukhāvatī",
+      "category": "place",
+      "notes": "阿彌陀佛之淨土，藏語 zhing khams bde ba can",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "1cf032e7-0e43-4327-890d-381e032a9637",
+      "original": "極樂淨土",
+      "translation": "極樂淨土",
+      "sanskrit": "Sukhāvatī",
+      "category": "place",
+      "notes": "又稱極樂世界、安樂淨土",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "e4eccf42-f1e9-47ba-8f3f-f78b35683cf3",
+      "original": "往生極樂世界（極樂淨土）",
+      "translation": "往生極樂世界（極樂淨土）",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "往生阿彌陀佛淨土的解脫道果目標",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "f840f384-d658-481d-b6c9-6f3c808b15f1",
+      "original": "財神法",
+      "translation": "財神法",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "修持占巴拉／財神之修法、儀軌，屬密續壇城修持",
+      "added_at": "2026-02-26T18:21:50.892Z",
+      "source_article": "財神由來與修持功德略說"
     }
   ]
 }
