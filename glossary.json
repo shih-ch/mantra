@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-26T18:21:50.892Z",
+  "updated_at": "2026-02-26T18:25:10.944Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -131,6 +131,196 @@
       "notes": "修持占巴拉／財神之修法、儀軌，屬密續壇城修持",
       "added_at": "2026-02-26T18:21:50.892Z",
       "source_article": "財神由來與修持功德略說"
+    },
+    {
+      "id": "1409708d-4f55-4805-8a14-caa6c134e907",
+      "original": "Намкай Норбу Ринпоче",
+      "translation": "南開諾布仁波切",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "藏傳大圓滿上師，Dzogchen 社群中譯作 Namkhai Norbu Rinpoche",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "0f04f192-f69f-4fda-95f4-0e3d4f09bfe8",
+      "original": "донцен",
+      "translation": "頓千（因擾亂／惡緣所致之病）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "藏醫病類概念，指與外在損害性勢力或煞氣相關的疾病",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "19cb17d1-e3f9-463c-aec9-b96e5b399b0c",
+      "original": "донме",
+      "translation": "頓美（與擾亂無關之病）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "藏醫病類概念，指不由外在有情或煞氣擾亂所致之病",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "08fd97e7-40b1-4fc8-8119-db8bac036618",
+      "original": "Чангчуб Дордже",
+      "translation": "降珠多傑",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Namkhai Norbu 之大圓滿上師，一般以藏文拼寫 Byang chub rdo rje",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "9bfbcb7d-8c75-446b-8d21-52b53bd9d941",
+      "original": "Дзогчен",
+      "translation": "大圓滿",
+      "sanskrit": "rdzogs chen",
+      "category": "concept",
+      "notes": "藏語 rdzogs chen，意為「圓滿大完結」，寧瑪派最高乘修法與見地",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "f885b953-7b07-4ea7-8cf0-6ef2ea485274",
+      "original": "Красный Гаруда",
+      "translation": "紅迦樓羅（紅伽魯達）",
+      "sanskrit": "Garuḍa",
+      "category": "deity",
+      "notes": "藏密本尊之一，紅色形象之金剛鳥迦樓羅，亦作『紅金翅鳥』",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "b47f5a71-13d5-4762-8ac9-31b737ac1ac6",
+      "original": "практика Красного Гаруды",
+      "translation": "紅迦樓羅的修法",
+      "sanskrit": "Garuḍa-sādhana",
+      "category": "practice",
+      "notes": "以紅迦樓羅為本尊之儀軌／修持法門，常用於息除病障、中毒等",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "6270f643-9d61-4b66-a734-a2f493c34f4d",
+      "original": "учение-терма Адзома Другпы",
+      "translation": "阿宗竹巴的伏藏教法",
+      "sanskrit": "gter ma",
+      "category": "text",
+      "notes": "『伏藏教法』（terma）指藏密傳統中之掘藏教典；此處為 A dzom Drugpa 所傳之紅迦樓羅伏藏",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "0082f09e-3973-43c9-bc88-8b3e9ef21bf8",
+      "original": "Адзом Другпа",
+      "translation": "阿宗竹巴（A dzom Drugpa）",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "著名寧瑪派掘藏師 A 'dzom ’Brug pa，近代伏藏大師",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "d2468e04-4a04-4ce8-8d3b-5d0c49bda5ea",
+      "original": "мантры действия",
+      "translation": "事業咒",
+      "sanskrit": "karma-mantra",
+      "category": "mantra",
+      "notes": "與事業業用（動用）相關之咒語，用於息病、增益、懷攝、降伏等具體成辦",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "42534c2e-cf6b-4f79-a9b7-d202269137f5",
+      "original": "визуализации",
+      "translation": "觀想",
+      "sanskrit": "bhāvanā / visualization in sādhana",
+      "category": "practice",
+      "notes": "此處作本尊修法中依儀軌所作觀想之意，屬修持要素",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "152fca8b-2977-4702-902f-ca331fd0a4cd",
+      "original": "практика долгой жизни дакини Мандаравы",
+      "translation": "尊壽命空行曼達拉娃的長壽修法",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "以曼達拉娃空行母為本尊之長壽法門，寧瑪派、伏藏系統中流行",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "00a0b3c9-6caf-4dee-8ce6-0eb22f8754c6",
+      "original": "дакини Мандарава",
+      "translation": "尊壽命空行曼達拉娃（曼達拉娃）",
+      "sanskrit": "Mandāravā",
+      "category": "deity",
+      "notes": "蓮花生大士明妃之一，長壽空行母本尊",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "8e3841dd-2a3f-49ce-ac57-71fd26d7fbbc",
+      "original": "практика долгой жизни",
+      "translation": "長壽修法",
+      "sanskrit": "āyuḥ-sādhana",
+      "category": "practice",
+      "notes": "延長壽命之本尊法門，含觀想、持咒、供養等",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "014592c2-5898-4500-9e7c-7235dcf81dfd",
+      "original": "Гуру Ринпоче",
+      "translation": "上師蓮花生（咕嚕仁波切）",
+      "sanskrit": "Padmasambhava",
+      "category": "deity",
+      "notes": "亦為歷史／本尊雙重身分，寧瑪派視為化身本尊，上師本尊修之主尊",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "95054236-1e6d-4ea5-aa8e-6601eff92aad",
+      "original": "тибетская медицина",
+      "translation": "藏醫",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "雖為醫學體系，但在藏傳佛教中與修法、咒語、儀軌緊密結合",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "8c817bb6-2902-4e3b-acfc-baeab9368918",
+      "original": "практик, мантр и ритуалов",
+      "translation": "修法、咒語與儀軌",
+      "sanskrit": "sādhana, mantra, vidhi",
+      "category": "practice",
+      "notes": "指依佛教密乘傳統進行的修持與儀式總稱",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "0e28c1b0-2fa3-4089-9fc9-bfdf20b5b252",
+      "original": "практика Гаруды",
+      "translation": "迦樓羅／伽魯達的修法",
+      "sanskrit": "Garuḍa-sādhana",
+      "category": "practice",
+      "notes": "以金翅鳥迦樓羅為本尊之息障、治病等修持",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "18edcde7-542c-429c-ac30-6ef1c97fdaf5",
+      "original": "Маратик",
+      "translation": "瑪拉提卡（Maratika）",
+      "sanskrit": "Maratika",
+      "category": "place",
+      "notes": "尼泊爾朝聖地，相傳蓮花生與曼達拉娃在此修長壽法證得不死成就",
+      "added_at": "2026-02-26T18:25:10.944Z",
+      "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
     }
   ]
 }
