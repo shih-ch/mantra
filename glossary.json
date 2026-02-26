@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-26T18:25:10.944Z",
+  "updated_at": "2026-02-26T18:32:34.747Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -321,6 +321,146 @@
       "notes": "尼泊爾朝聖地，相傳蓮花生與曼達拉娃在此修長壽法證得不死成就",
       "added_at": "2026-02-26T18:25:10.944Z",
       "source_article": "南開諾布仁波切談自身從癌症痊癒的因緣"
+    },
+    {
+      "id": "1c3121f6-7ab0-4bcc-8a4a-f5372861952c",
+      "original": "каи",
+      "translation": "諸佛身／三身",
+      "sanskrit": "trikāya",
+      "category": "concept",
+      "notes": "佛之三身：法身、報身、化身。單說複數『каи』時，語境上仍然指三身之總稱。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "63b90f05-abf5-4396-9a53-5886e957d4e8",
+      "original": "три каи",
+      "translation": "三身",
+      "sanskrit": "trikāya",
+      "category": "concept",
+      "notes": "直譯為『三個身』，即法身 (dharmakāya)、報身 (saṃbhogakāya)、化身 (nirmāṇakāya)。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "ca9e2e3d-feac-4bf4-9bd1-169c33874e28",
+      "original": "кальпа",
+      "translation": "劫",
+      "sanskrit": "kalpa",
+      "category": "concept",
+      "notes": "大時間單位，此處指宇宙成壞的大劫。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "e7a48e66-0a38-4e40-bb7a-e2c960a7521d",
+      "original": "природа ума",
+      "translation": "心之本性／心性",
+      "sanskrit": "cittatā / sems nyid (藏)",
+      "category": "concept",
+      "notes": "大乘、特別是藏傳常用語，指一切有情之心的究竟體性。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "c44577b1-68e3-459b-895e-9399d2ca79b6",
+      "original": "сущность ума",
+      "translation": "心的本質／心之本質",
+      "sanskrit": "cittasvabhāva / sems kyi ngo bo (藏)",
+      "category": "concept",
+      "notes": "與『心之本性』在此文脈中幾乎同義，用以引出三身常住之義。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "6053015e-d217-48de-bca2-9284e18d3b9b",
+      "original": "промежуточное состояние бардо",
+      "translation": "中陰狀態／中陰",
+      "sanskrit": "antara-bhava (巴利/梵) / bar do (藏)",
+      "category": "concept",
+      "notes": "西藏佛教名相，指死與再生之間的中有階段。俄文中『промежуточное состояние』即『中間狀態』之意。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "f54a6462-29cf-4b49-bb39-af96fcc4e161",
+      "original": "бардо",
+      "translation": "中陰",
+      "sanskrit": "bar do (藏)",
+      "category": "concept",
+      "notes": "藏語音譯『bar do』，意為『中間、兩者之間』，佛教通譯為『中陰』或『中有』。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "cc5642cb-cb9b-49e4-ad60-cca3d81286a9",
+      "original": "скандхи",
+      "translation": "蘊（五蘊）",
+      "sanskrit": "skandha",
+      "category": "concept",
+      "notes": "身心聚合的五類：色、受、想、行、識。原文以複數指整體。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "701ba1f5-f451-4ab4-a59f-be934dcb0163",
+      "original": "Будда",
+      "translation": "佛陀",
+      "sanskrit": "Buddha",
+      "category": "person",
+      "notes": "證得無上正等正覺者，一般指釋迦牟尼佛。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "abb71fd8-7529-4256-9519-15ef4f0b30e4",
+      "original": "колесницы учений",
+      "translation": "教法乘別／諸乘教法",
+      "sanskrit": "yāna",
+      "category": "concept",
+      "notes": "直譯為『教法之車乘』，指聲聞乘、緣覺乘、菩薩乘、金剛乘等各種法門。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "26a08b5f-a7b9-4233-8fdc-69531cc77e39",
+      "original": "практика сущности ума",
+      "translation": "對心之本性的實修",
+      "sanskrit": "cittatā-bhāvanā / sems nyid kyi gom (藏)",
+      "category": "practice",
+      "notes": "指直接於心性上用功的觀行、禪修，在大圓滿／大手印語境下尤為核心。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "80153112-cd3d-49c4-b4ca-ff72b8bcb693",
+      "original": "практика",
+      "translation": "實修",
+      "sanskrit": "sādhana / abhyāsa / gom (藏)",
+      "category": "practice",
+      "notes": "文中特指佛法修行的實踐，非一般技藝練習。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "e4201314-9c4b-4233-83d5-b26a2cc454b3",
+      "original": "духовные пути",
+      "translation": "靈性道路／修行道",
+      "sanskrit": "mārga",
+      "category": "concept",
+      "notes": "佛教中『道』、修行階位與方法的總稱。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
+    },
+    {
+      "id": "918fddc6-3de6-4c7c-abe4-29f10ae3854f",
+      "original": "Тулку Ургьен Ринпоче",
+      "translation": "秋竹烏金仁波切",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "藏傳佛教寧瑪派大圓滿上師，20世紀著名禪修導師。『Tulku』為轉世活佛稱號，『Rinpoche』為尊稱。",
+      "added_at": "2026-02-26T18:32:34.747Z",
+      "source_article": "空性、覺悟與心性：三身與智慧之不壞"
     }
   ]
 }
