@@ -1,706 +1,466 @@
 {
   "version": 1,
-  "updated_at": "2026-02-26T17:57:08.474Z",
+  "updated_at": "2026-02-26T18:04:34.604Z",
   "terms": [
     {
-      "id": "71c47038-8252-449c-a844-06e978e2974a",
+      "id": "6d88837a-f3fb-4699-9378-de12f99ebb8c",
       "original": "འཇམ་དཔལ་དབྱངས",
-      "translation": "文殊師利妙音",
-      "sanskrit": "Maṇjuśrī",
+      "translation": "文殊童子（文殊師利）",
+      "sanskrit": "Mañjuśrīkumārabhūta / Mañjuśrī",
       "category": "deity",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.318Z",
-      "source_article": "【正文】"
+      "notes": "此處指文殊童子，為文殊菩薩之形相",
+      "added_at": "2026-02-26T18:04:34.603Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "b6b24d3d-3653-466e-bcaf-b1000c9b4c47",
-      "original": "ཆོས་རྒྱལ",
-      "translation": "法王",
-      "sanskrit": "Dharmarāja",
-      "category": "title",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.318Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "cc9d3509-9f24-426a-afc1-a58e5ca23b0d",
-      "original": "བོ་དྷི་སཏྭ",
-      "translation": "菩薩",
-      "sanskrit": "Bodhisattva",
-      "category": "concept",
-      "notes": "疑點，需對照原典校訂",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "f6abc8b8-cc97-407c-8cc7-83f29b49c0ac",
-      "original": "堪布寂護",
-      "translation": "堪布寂護（Bodhisattva）",
-      "sanskrit": "Bodhisattva",
-      "category": "person",
-      "notes": "譯文中提及，但待考確定",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "fc4e444b-ae08-4404-ab9b-317bdae32f71",
-      "original": "大昭寺",
-      "translation": "大昭寺",
-      "sanskrit": "",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "efa27c55-c76c-4719-bdce-1de8b9b630d9",
-      "original": "蓮師",
-      "translation": "蓮花生大士",
-      "sanskrit": "Padmasambhava",
-      "category": "person",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "a3e7db6b-1ad4-4e47-8ee0-13de8a772145",
-      "original": "尼泊爾",
-      "translation": "尼泊爾",
-      "sanskrit": "Nepala",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "a21f8f37-d4e2-4845-bab4-fd1db1b180d9",
-      "original": "烏仗那",
-      "translation": "烏仗那",
-      "sanskrit": "",
-      "category": "place",
-      "notes": "疑似地名，或指尼泊爾",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "3cc072b8-66e3-4d25-8e6f-67488b993cef",
-      "original": "孟地",
-      "translation": "孟地",
-      "sanskrit": "Mon-yul",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "ada5edb8-497c-47d9-8071-f483a4e3cf1c",
-      "original": "汎域",
-      "translation": "汎域",
-      "sanskrit": "Mnga’-ris",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "80b9b106-a972-4f6b-b3f2-02d4638b7e1b",
-      "original": "衛藏",
-      "translation": "衛藏",
-      "sanskrit": "Dbus-gtsang",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "0ff659d1-362b-49f0-8345-9968a3bfd0fd",
-      "original": "堅固母",
-      "translation": "堅固母",
-      "sanskrit": "Bṛhat-mā",
-      "category": "deity",
-      "notes": "護法女神，待考",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "ada87d40-3f67-474b-ab9f-c9aa52dfabce",
-      "original": "歌舞天",
-      "translation": "歌舞天",
-      "sanskrit": "Mgur Lha",
-      "category": "deity",
-      "notes": "待考，可能為護法",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "f81bb5d6-b822-48e1-b57c-bbf3493317ae",
-      "original": "優婆塞",
-      "translation": "優婆塞",
-      "sanskrit": "Upāsaka",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "b972d725-c31c-4422-b3c1-2ce4d4a25c53",
-      "original": "札瑪爾翁布",
-      "translation": "札瑪爾翁布",
-      "sanskrit": "Brag dmar ’Om bu",
-      "category": "place",
-      "notes": "藏地聖地，待考",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "a64a60e8-59dc-409a-8e6c-4083e398b03a",
-      "original": "སྐྱབས་གནས",
-      "translation": "皈依處",
-      "sanskrit": "Refuge (śraya)",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "eddc458a-7ca4-4fd4-8867-e7ca8ca85702",
-      "original": "三寶",
-      "translation": "三寶",
-      "sanskrit": "Triratna",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "11d0dd9c-ebc9-4ec6-9fc2-a80363a39623",
-      "original": "三根本",
-      "translation": "三根本",
-      "sanskrit": "Trikāya / Three Roots",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "fe9162f2-b457-407b-a236-cb24976f0b38",
-      "original": "觀世音",
-      "translation": "觀世音菩薩",
-      "sanskrit": "Avalokiteśvara",
-      "category": "deity",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "d3dc5e89-1209-482e-a071-0b6e7a22acb2",
-      "original": "度母",
-      "translation": "度母",
-      "sanskrit": "Tārā",
-      "category": "deity",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "99507de4-57ea-40fe-9bf0-3f861d0e8a36",
-      "original": "蓮花生",
-      "translation": "蓮花生大士",
-      "sanskrit": "Padmasambhava",
-      "category": "person",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "7f18879d-0888-4334-8b94-bed2e1740ba3",
-      "original": "三根本、諸佛、佛子",
-      "translation": "三根本、諸佛與佛子",
-      "sanskrit": "Three Roots, Buddhas, Bodhisattvas",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "8dac178e-a60a-4a5d-91e8-4f6a7cb37a30",
-      "original": "輪迴",
-      "translation": "輪迴",
-      "sanskrit": "Saṃsāra",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "f8014b06-8e0f-4d7e-9c84-615c39bb8f0a",
-      "original": "涅槃",
-      "translation": "涅槃",
-      "sanskrit": "Nirvāṇa",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "9c35ee3b-1f67-4740-9315-7f266cf0f392",
-      "original": "菩提心",
-      "translation": "菩提心",
-      "sanskrit": "Bodhicitta",
-      "category": "concept",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "ab0bf743-cd6a-4e00-9e43-81e2781e6ec8",
-      "original": "文殊慧愛自在王",
-      "translation": "文殊慧愛自在王",
-      "sanskrit": "Maṇjuśrī (Jampel Mgön Lodrö Mthayyas)",
-      "category": "person",
-      "notes": "文殊師利尊稱",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "1a33efab-043a-419f-b10f-f45269280a55",
-      "original": "札安達",
-      "translation": "札安達",
-      "sanskrit": "Tsa-’dra",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "b1497c0f-0598-4268-b29b-0945ab7e4857",
-      "original": "珍寶岩",
-      "translation": "珍寶岩",
-      "sanskrit": "Rinchen Brag",
-      "category": "place",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "b3d9405b-71b9-4fa6-9d68-87e33564d538",
-      "original": "ātha siddhi rastu",
-      "translation": "願悉地成就",
-      "sanskrit": "ātha siddhi rastu",
-      "category": "mantra",
-      "notes": "",
-      "added_at": "2026-02-26T17:50:10.319Z",
-      "source_article": "【正文】"
-    },
-    {
-      "id": "6cce1309-b5a3-417d-8ae6-7ef28456bf8d",
-      "original": "འཇམ་དཔལ་དབྱངས",
-      "translation": "文殊師利妙音",
-      "sanskrit": "Mañjuśrī",
-      "category": "deity",
-      "notes": "又譯文殊師利、妙吉祥；此處指文殊之化身源頭",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "94666d3b-eed1-4a66-abd5-1f3b896c580a",
+      "id": "fd43cd9e-e19d-45a5-a67b-c399773bc9de",
       "original": "ཆོས་རྒྱལ་ཁྲི་སྲོང་ལྡེའུ་བཙན",
       "translation": "法王赤松德贊",
       "sanskrit": "",
       "category": "person",
-      "notes": "吐蕃帝王，護持佛法，被視為文殊化身之一",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "藏王，為弘傳佛法之護法君主",
+      "added_at": "2026-02-26T18:04:34.603Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "f3ed73d2-436c-4bc4-a937-015013a642cd",
+      "id": "135f73db-929f-48eb-a5ae-e587962d5ec8",
       "original": "དམ་ཆོས",
       "translation": "正法、聖法",
-      "sanskrit": "śāsana / saddharma",
+      "sanskrit": "saddharma",
       "category": "concept",
-      "notes": "專指佛陀的正法與教法",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.603Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "e8eda7bf-e727-47f5-a3ee-137328e260de",
+      "id": "8e84f060-3455-4f30-9009-b5a457697e34",
       "original": "རྒྱ་གར",
       "translation": "印度",
-      "sanskrit": "Bhārata / Āryāvarta（廣義）",
+      "sanskrit": "Bhārata / Jambudvīpa 中之印度",
       "category": "place",
-      "notes": "佛教傳入西藏的本源地",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.603Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "4e76d2a8-37f7-4b70-8891-5e2a14f83542",
-      "original": "མཁན་པོ",
-      "translation": "堪布",
-      "sanskrit": "",
+      "id": "6d649621-d00c-467d-8ab0-0e227b683157",
+      "original": "མཁན་པོ་བོ་དྷི་སཏྭ",
+      "translation": "堪布寂護",
+      "sanskrit": "Śāntarakṣita",
       "category": "person",
-      "notes": "具教學資格之律學或顯密上師頭銜",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "大乘中觀與因明大師",
+      "added_at": "2026-02-26T18:04:34.603Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "3bcb3b35-e150-4d59-a685-d0ed0583a0b1",
-      "original": "བོ་དྷི་སཏྭ",
-      "translation": "菩薩",
-      "sanskrit": "Bodhisattva",
-      "category": "person",
-      "notes": "音寫自 Bodhisattva；此處指被迎請來藏之堪布菩薩",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "2b03b59b-fdc7-48de-b45e-810429bd361f",
+      "id": "0a41af92-a518-435e-a6e6-275c422e79db",
       "original": "རྟེན་འབྲེལ",
       "translation": "緣起",
       "sanskrit": "pratītyasamutpāda",
       "category": "concept",
-      "notes": "因緣所生法之教理",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "b04d1785-e166-4fdf-b271-88b25a7366c8",
+      "id": "d8dbfb8f-00f6-470b-9b01-9688dc81f5ea",
       "original": "དགེ་བ་བཅུ",
-      "translation": "十善（業）",
-      "sanskrit": "daśakuśalakarma",
+      "translation": "十善",
+      "sanskrit": "daśa kuśala-karmapatha",
       "category": "concept",
-      "notes": "身口意十種善業道",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "12e6869e-e89e-41fd-84a0-7f1df0779559",
+      "id": "91067973-421c-4c10-9129-83953745f6c6",
       "original": "གཙུག་ལག་ཁང",
-      "translation": "大殿、寺院主殿",
+      "translation": "大昭寺（大殿）",
       "sanskrit": "",
       "category": "place",
-      "notes": "寺院中心殿堂，具宗教象徵性",
-      "added_at": "2026-02-26T17:57:08.473Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "此處指拉薩大昭寺之大殿",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "46d92697-ed48-486b-acd0-392cc7104523",
-      "original": "བོད་ཀྱི་ལྷ་འདྲེ",
-      "translation": "藏地諸神魔",
-      "sanskrit": "deva-bhūta / deva-yakṣa（泛稱）",
-      "category": "deity",
-      "notes": "含護法與障礙之神祇與鬼神總稱",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "id": "32bce6a9-393d-4319-83f7-ddb1ae84566e",
+      "original": "ལུང་བསྟན་པ",
+      "translation": "授記、預言",
+      "sanskrit": "vyākaraṇa",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "e251d8ad-aaf1-46cd-a3eb-9e8d2d0a76e0",
-      "original": "སློབ་དཔོན",
-      "translation": "導師、上師",
-      "sanskrit": "ācārya",
+      "id": "1283e4a3-c9cb-4cb1-a076-a416c8f2adb6",
+      "original": "བང་ཆེན་མི་ལྔ",
+      "translation": "五位大臣",
+      "sanskrit": "",
       "category": "person",
-      "notes": "具傳法、教授資格之師",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "特指為迎請蓮師而遣之五大臣群體名",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "c735eca8-fe5e-421a-b802-af8db555465c",
+      "id": "582ea069-bf53-4532-ac9f-02c0e090de9e",
+      "original": "སློབ་དཔོན་ཆེན་པོ",
+      "translation": "大阿闍黎（大上師）",
+      "sanskrit": "mahā-ācārya",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "f0ac0d65-150e-416f-b385-700ffa71c008",
       "original": "བལ་ཡུལ",
       "translation": "尼泊爾",
-      "sanskrit": "Nepāla",
+      "sanskrit": "",
       "category": "place",
       "notes": "",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "b9e3701f-164f-4537-9e01-e55c7f399806",
+      "id": "d56f65d1-d096-4cae-a8a3-617dcb03dcca",
       "original": "མང་ཡུལ",
-      "translation": "孟地",
+      "translation": "芒隴",
       "sanskrit": "",
       "category": "place",
-      "notes": "古藏文文獻中的地名，今地待考",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "藏地一區域名",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "5bcb45ce-3f95-40ba-be2d-a8c237272191",
+      "id": "a8b6ed4d-7ed9-4196-9f87-471df61e9bc5",
       "original": "མངའ་རིས",
-      "translation": "汎域、上部地方",
+      "translation": "昂日（或：門隴一帶地方）",
       "sanskrit": "",
       "category": "place",
-      "notes": "西藏傳統區域劃分之一",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "此處譯為昂日，為藏區地名",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "14198cfd-f498-4383-95d8-784f71b07cad",
+      "id": "092cf348-72ae-4c30-b6b7-c104745b1604",
       "original": "དབུས་གཙང",
       "translation": "衛藏",
       "sanskrit": "",
       "category": "place",
-      "notes": "西藏中部與後藏地區，佛教中心區域",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "傳統西藏中部地名",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "4753280b-8678-407b-9a37-c2c24c36363a",
+      "id": "7f52f5e5-dc71-4659-bc0d-00a0d8b9d6ab",
       "original": "མདོ་ཁམས",
       "translation": "康區",
       "sanskrit": "",
       "category": "place",
-      "notes": "藏東地區傳統稱呼",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "東藏康地",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "8f0e14c2-c330-4c0c-a384-dd17d9bd3cca",
+      "id": "940482ce-af53-40c9-8ede-391b40355ef3",
       "original": "བརྟན་མ་བཅུ་གཉིས",
-      "translation": "堅固母寺十二座",
+      "translation": "十二惡處（十二堅固地）",
       "sanskrit": "",
       "category": "place",
-      "notes": "吐蕃早期十二座根本寺院，具護持佛法之意義",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "文中指十二大災禍之地或惡處，帶有專稱性質",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "889b8088-cd37-4385-ad09-79cacc1a7cfa",
+      "id": "2253639f-a846-4e71-aa24-c468c4842251",
       "original": "མགུར་ལྷ་བཅུ་གསུམ",
-      "translation": "歌舞天寺十三座",
+      "translation": "十三個鬼神猖獗之地（十三歌詠神）",
       "sanskrit": "",
-      "category": "place",
-      "notes": "譯為歌舞天，屬具特定護法性質之十三寺院體系",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "category": "deity",
+      "notes": "此處作為一組鬼神/神祇之專稱傳統",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "e9fcfe69-6b25-443d-94ec-89698b1f52e5",
-      "original": "དགེ་བསྙེན",
-      "translation": "優婆塞（居士）",
-      "sanskrit": "upāsaka",
+      "id": "793aebdc-59c4-4de1-9cd7-66ed665c00db",
+      "original": "དགེ་བསྙེན་ཉེར་གཅིག",
+      "translation": "二十一位主要在家善士",
+      "sanskrit": "upāsaka（二十一在家善士）",
       "category": "person",
-      "notes": "受持在家五戒等之男居士",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "此處作為一組在家善士的專稱",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "d7abf772-0a68-4733-857f-c76d7b9ba803",
-      "original": "བྲག་དམར་འོམ་བུའི་ཚལ",
-      "translation": "札瑪爾翁布之林（赤岩翁布林）",
+      "id": "5e0e4ce2-3bc4-44aa-af56-980b81540251",
+      "original": "ལྷ་འདྲེ",
+      "translation": "諸神祇與鬼類（神與惡鬼）",
+      "sanskrit": "deva-bhūta / deva-pretādayaḥ",
+      "category": "deity",
+      "notes": "泛指諸神與非人、鬼類",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "e4dbc33e-1100-4738-8a6c-e31ca7bb4736",
+      "original": "མི་མ་ཡིན",
+      "translation": "非人",
+      "sanskrit": "amanuṣya",
+      "category": "deity",
+      "notes": "指天、龍、夜叉等非人眾",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "7f91414c-6535-4eda-ac6e-c6f6d219a565",
+      "original": "བྲག་དམར་འོམ་བུ",
+      "translation": "赤崗沃布",
       "sanskrit": "",
       "category": "place",
-      "notes": "具地方與宗教會盟意義之地名",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "Brag dmar ’om bu，藏地一具體地名",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "652701d1-8e16-46a1-80cb-2e535b2ecb29",
-      "original": "སྐྱབས་གནས",
-      "translation": "皈依處",
-      "sanskrit": "śaraṇa",
-      "category": "concept",
-      "notes": "指可作歸依對境的三寶或三根本",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "ce0af864-2198-45f6-838e-b8ae067de0a0",
-      "original": "དཀོན་མཆོག",
-      "translation": "稀有尊、至貴尊",
-      "sanskrit": "ratna（義近）",
-      "category": "concept",
-      "notes": "藏譯常用以指稀有難遇的勝妙對境，如三寶、三根本",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "6f4e69f9-0d6c-4425-846c-766047b27f4c",
-      "original": "རྩ་བ་གསུམ",
-      "translation": "三根本",
-      "sanskrit": "",
-      "category": "concept",
-      "notes": "即上師、本尊、護法（或空行）三種根本依止",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "28c46d81-e099-460e-9b29-cac7b56cd28f",
+      "id": "e2301bda-ecb8-4e4f-93f1-907e4e40ef46",
       "original": "གངས་ཅན",
       "translation": "雪域（西藏）",
       "sanskrit": "",
       "category": "place",
-      "notes": "常用為西藏之雅稱",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "藏語中常用以指整體西藏地區",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "9a5e3651-7af4-4426-833e-7597f320adae",
+      "id": "1d092b15-d9c9-4812-948b-d5a6100df6ef",
       "original": "མགོན་པོ་སྤྱན་རས་གཟིགས",
-      "translation": "怙主觀世音菩薩",
+      "translation": "怙主觀世音",
       "sanskrit": "Avalokiteśvara",
       "category": "deity",
-      "notes": "藏譯名 spyan ras gzigs，西藏主尊",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "4c7b103f-231e-42e5-8268-31be9b2b8c9e",
+      "id": "1bc28d48-514a-4377-9862-ccfb65e7e43e",
       "original": "སྒྲོལ་མ",
       "translation": "度母",
       "sanskrit": "Tārā",
       "category": "deity",
-      "notes": "救度諸難之女尊",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "0fdf2695-7d6f-412a-a6fb-942f72d1d4b0",
+      "id": "b2b879ae-1562-4676-80e6-d016bcbd4eff",
       "original": "གུ་རུ་པདྨ་འབྱུང",
-      "translation": "上師蓮花生大士",
-      "sanskrit": "Guru Padma­saṃbhava",
-      "category": "deity",
-      "notes": "藏傳佛教寧瑪派開教祖師",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "translation": "上師蓮花生（蓮花生大士）",
+      "sanskrit": "Guru Padmasambhava",
+      "category": "person",
+      "notes": "密乘大成就者，藏傳稱金剛持蓮師",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "d46348f0-a3a9-4696-b2ea-589a854b23ec",
+      "id": "f15f9a93-c664-445e-971e-e9c8b63f24c6",
       "original": "སྨོན་ལམ",
-      "translation": "祈願文、願文",
-      "sanskrit": "praṇidhāna",
-      "category": "text",
-      "notes": "此處亦指祈願的行為與文體",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "translation": "祈願文、發願祈禱",
+      "sanskrit": "praṇidhāna / praṇidhāna-praṇāma",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "4a5bf753-446f-47ec-aa9f-0da377363a87",
+      "id": "1eab967b-6b43-44ec-b7bd-48ef724cc18e",
       "original": "སྙིགས་དུས",
-      "translation": "末法時代",
+      "translation": "末法時代、濁世",
       "sanskrit": "kali-yuga / saddharmavipralopa-kāla",
       "category": "concept",
-      "notes": "佛法衰微之時期",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "fca82b22-2f40-4c32-8bd2-4366105102ef",
+      "id": "491a2f04-6399-4c1d-a667-70eb40f97dda",
+      "original": "གཟའ",
+      "translation": "星曜",
+      "sanskrit": "graha / nakṣatra",
+      "category": "deity",
+      "notes": "藏傳將星曜視為有情勢力",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "3dd4755a-2ec2-4d60-8352-f621678dbb06",
+      "original": "ཀླུ་རྒྱལ",
+      "translation": "龍王",
+      "sanskrit": "nāgarāja",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "a6b4423d-ca58-4db2-8a67-29f7f23b733c",
+      "original": "གདོན",
+      "translation": "魔障、厲鬼",
+      "sanskrit": "bhūta / preta / piśāca 類",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "cd1bc162-7620-4c51-80bd-c753553d0939",
+      "original": "གངས་ཅན་ལྗོངས",
+      "translation": "雪域之境（藏地）",
+      "sanskrit": "",
+      "category": "place",
+      "notes": "指整個藏區疆域",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "2e37e2ae-f26f-42ec-8a18-bbedee717fdc",
+      "original": "མི་དང་མི་མིན",
+      "translation": "人與非人",
+      "sanskrit": "manuṣya ca amanuṣya ca",
+      "category": "concept",
+      "notes": "總稱一切人與非人有情",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "68d789f5-535c-4b85-8f4b-9143ebc1f3ee",
       "original": "བྱང་ཆུབ་སེམས",
       "translation": "菩提心",
       "sanskrit": "bodhicitta",
       "category": "concept",
-      "notes": "求證菩提而利樂眾生之心",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "7c02b720-d996-4fe0-9606-2c5e4f8ecd60",
+      "id": "497a94e4-aa1a-4788-8bae-e00254c54a4f",
+      "original": "བོད་ཡུལ",
+      "translation": "藏地、西藏",
+      "sanskrit": "",
+      "category": "place",
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "5aae215a-91fd-4e02-9d6e-89418772ceca",
       "original": "སངས་རྒྱས",
       "translation": "佛、佛陀",
       "sanskrit": "buddha",
       "category": "deity",
       "notes": "",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "49d21f70-413c-45b9-8406-d9b77a3276ed",
+      "id": "6ef55315-3b2a-4826-81f8-eec3e1f6eff7",
       "original": "སངས་རྒྱས་བསྟན་པ",
-      "translation": "佛陀教法",
-      "sanskrit": "buddha-śāsana",
+      "translation": "佛陀正法（佛法）",
+      "sanskrit": "buddha-dharma",
       "category": "concept",
-      "notes": "佛之教證二法在世間之住持",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "15289522-1330-42b7-9796-fef84298a04f",
-      "original": "རྒྱལ་བ",
-      "translation": "如來、勝者",
-      "sanskrit": "Jina / Tathāgata",
+      "id": "52e8919c-3c9a-45e6-9643-f242d1a52a64",
+      "original": "རྩ་གསུམ",
+      "translation": "三根本（上師、本尊、空行護法）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "對應上師guru、本尊 iṣṭadevatā、空行情 dakini/護法 dharmapāla 之三",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
+    },
+    {
+      "id": "cf6b8700-2dcc-49e5-8d87-5b76bd95dcf2",
+      "original": "རྩ་གསུམ་རྒྱལ་བ་སྲས་བཅས",
+      "translation": "三根本諸佛及其眷屬",
+      "sanskrit": "",
       "category": "deity",
-      "notes": "勝過煩惱與魔怨之佛陀稱號",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "將三根本視作勝義諸佛及其眷眾",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "4b638871-b4e5-4033-8335-07482aa717ff",
-      "original": "སྲས",
-      "translation": "佛子",
-      "sanskrit": "boddhisattva-putra",
-      "category": "person",
-      "notes": "此處指菩薩、聲聞等諸佛子",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
-    },
-    {
-      "id": "42988d4e-0106-4134-b4e2-35df4316497c",
+      "id": "b67500db-ab53-4a8f-8117-4f64cfba2092",
       "original": "འཁོར་འདས",
-      "translation": "輪迴與涅槃",
-      "sanskrit": "saṃsāra-nirvāṇa",
+      "translation": "輪迴與涅槃（世間與出世間）",
+      "sanskrit": "saṃsāra-nirodha / saṃsāra-nirvāṇa",
       "category": "concept",
-      "notes": "依文義為世出世間一切境界",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "ce1125ac-e640-4597-920d-1a1666f163a2",
-      "original": "དགེ་བ",
-      "translation": "善、功德",
-      "sanskrit": "kuśala",
-      "category": "concept",
-      "notes": "此處特指善根、福德",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "id": "7b4c5bfb-341e-4aa4-a176-a1ff9c280690",
+      "original": "ལུང་བསྟན་པ",
+      "translation": "授記、預言",
+      "sanskrit": "vyākaraṇa",
+      "category": "text",
+      "notes": "亦可視為佛說授記的一類教法",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "9cbd9e14-cec2-4f0a-9a91-0961efab56f3",
-      "original": "རྩ་བ",
-      "translation": "根本",
-      "sanskrit": "mūla",
-      "category": "concept",
-      "notes": "在「善根之根本」等語境中使用",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "id": "c00a9346-dc4b-4e1c-9e83-0efc149daa22",
+      "original": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ",
+      "translation": "文殊知愛自在尊",
+      "sanskrit": "Mañjuśrī-jñānākara / Mañjuśrī",
+      "category": "deity",
+      "notes": "此處為文殊之尊名、化現尊",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "3643da8c-db6e-4095-8d3f-0fc071d3cf8b",
+      "id": "dcabf16c-8cd2-4087-a32e-0d3fb961d818",
       "original": "འཇམ་མགོན་བློ་གྲོས་མཐའ་ཡས",
-      "translation": "文殊護主‧洛哲無邊（文殊慧愛自在王）",
+      "translation": "文殊怙主無邊智（文殊怙主羅珠泰耶）",
       "sanskrit": "",
       "category": "person",
-      "notes": "作者名號，視為文殊化身或持名上師",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "作者名，為文殊怙主之化現或持名行者",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "c70a5b58-ff23-4ab3-a7cd-6abf218c004f",
+      "id": "35a0bd90-376e-4249-adde-ab5f4e2f07c1",
       "original": "ཙཱ་འདྲ་རིན་ཆེན་བྲག",
-      "translation": "札安達珍寶岩",
+      "translation": "察達仁欽崖",
       "sanskrit": "",
       "category": "place",
-      "notes": "具聖地性質之岩洞或山岩名稱",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "Tsā ’dra rin chen brag，具體地名待考",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "924a9b86-51eb-458b-9ad4-8c88d4034335",
+      "id": "6526f347-f0b1-4f66-9e7d-8866aba12102",
       "original": "རྒྱལ་ཟླ་བ",
-      "translation": "吉祥月、勝月",
+      "translation": "吉祥月（勝月）",
       "sanskrit": "",
       "category": "concept",
-      "notes": "藏曆中具宗教意義之吉祥月份",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "具吉祥意義之月分，與行法時辰有關",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     },
     {
-      "id": "0d221004-38e9-4d29-abb0-e309954ba20f",
-      "original": "ātha siddhi rastu",
-      "translation": "願悉地成就",
-      "sanskrit": "ātha siddhir astu",
+      "id": "d69311d0-dc71-4e12-9a6e-16bc62b782df",
+      "original": "ཨ་ཐཱ་སིདྡྷི་རསྟུ",
+      "translation": "阿他悉地惹都（願成就）",
+      "sanskrit": "āstā / astu siddhi rstu ≈ astu siddhiḥ",
       "category": "mantra",
-      "notes": "常見於回遮或落款之梵句，祈願成就諸悉地",
-      "added_at": "2026-02-26T17:57:08.474Z",
-      "source_article": "末法時代祈請三根本息災圓滿願文"
+      "notes": "梵語祝願語式，意為「願悉地成就」",
+      "added_at": "2026-02-26T18:04:34.604Z",
+      "source_article": "雪域西藏迎請蓮花生大士與三根本祈願文"
     }
   ]
 }
