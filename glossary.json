@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T07:26:00.219Z",
+  "updated_at": "2026-02-27T08:18:18.437Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -3091,6 +3091,526 @@
       "notes": "執有實在自我之見解。文中作『不執為我與我所』。",
       "added_at": "2026-02-27T07:26:00.219Z",
       "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "8cfaefaa-db31-4c52-b8f2-1ac3cc388b99",
+      "original": "ཛཾ་བྷ་ལ",
+      "translation": "藏巴拉（財神藏巴拉）",
+      "sanskrit": "Jambhala / Dzam bha la",
+      "category": "deity",
+      "notes": "天城體常作 Jambhala，藏譯財神名，與梵文 Dhanada 類同用。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "f44a9120-308f-4f74-9c86-24e53138ac10",
+      "original": "ཛཾ་བྷ་ལའི་ཆུ་སྦྱིན",
+      "translation": "藏巴拉水供",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "即對財神藏巴拉作水供（jalapuja）之儀軌。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "b971b936-49f9-404f-ae61-eb91a7f61663",
+      "original": "ཨོཾ་སྭ་བྷ་ཝ་ཤུདྡྷ་སརྦ་དྷརྨ སྭ་བྷ་ཝ་ཤུདྡྷོཾ་ཧཾ",
+      "translation": "嗡，一切諸法自性清淨，自性本來清淨吽",
+      "sanskrit": "oṃ svabhāva śuddha sarva dharmāḥ svabhāva śuddho haṃ",
+      "category": "mantra",
+      "notes": "通行「自性清淨真言」，常用作前行淨三輪。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "26d51cf3-52f4-4785-a863-378b7e012160",
+      "original": "སྟོང་པ",
+      "translation": "空性",
+      "sanskrit": "śūnyatā",
+      "category": "concept",
+      "notes": "此處「སྟོང་པའི་ངང」為空性狀態。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "29ecda1a-d2e1-4761-9727-2d90e637a1c0",
+      "original": "བྷྲཱུཾ",
+      "translation": "梵種子字「梵 / 班」（容器種子）",
+      "sanskrit": "bhraṃ",
+      "category": "mantra",
+      "notes": "此 bhraṃ 為觀想金剛器界之種子字。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "28aecf9c-47ff-4de5-8189-89da5fe1c6f2",
+      "original": "ཛཾ",
+      "translation": "「藏」字（財神種子）",
+      "sanskrit": "jaṃ / zaṃ",
+      "category": "mantra",
+      "notes": "為藏巴拉之主要種子字，藏音 zaṃ。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "62273a2b-db3c-4159-be0d-305e33733bed",
+      "original": "འཕགས་པ",
+      "translation": "聖者",
+      "sanskrit": "ārya",
+      "category": "concept",
+      "notes": "指諸佛菩薩等勝義聖者。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "ead46d00-96f6-4b2f-88d8-d747606fa3c9",
+      "original": "ཨོཾ",
+      "translation": "嗡",
+      "sanskrit": "oṃ",
+      "category": "mantra",
+      "notes": "身語意總持種子音，本尊頂輪之種子字。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "651181f9-5108-4729-9ee0-d635b49bba18",
+      "original": "ཨཱ",
+      "translation": "阿",
+      "sanskrit": "āḥ / a",
+      "category": "mantra",
+      "notes": "此處為喉輪種子字，表語業清淨。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "c1396091-a4b2-4ee6-829b-ce5afd5b7229",
+      "original": "ཧཱུྃ",
+      "translation": "吽",
+      "sanskrit": "hūṃ",
+      "category": "mantra",
+      "notes": "心輪種子字，總持、成就、憤怒事業之音。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "8c789415-abe2-41d2-8c63-4c920c005df8",
+      "original": "ཧཱུྃ་བྃ་ཧོཿ",
+      "translation": "吽 綁 吙",
+      "sanskrit": "haṃ baṃ hoḥ",
+      "category": "mantra",
+      "notes": "與ཛཾ合用為藏巴拉一組種子音總持：zaṃ haṃ baṃ hoḥ。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "c30c195d-df6b-4ca8-aa04-359ad50d14ee",
+      "original": "ས་དམ",
+      "translation": "三昧耶",
+      "sanskrit": "samaya",
+      "category": "concept",
+      "notes": "誓約、密乘誓句，守護本尊之律儀。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "b47b13f7-ff95-4022-9020-10532eac3560",
+      "original": "ཨོཾ་ཨཱརྱ་ཛཾ་བྷ་ལ་ས་པ་རི་ཝཱ་ར",
+      "translation": "嗡，聖者藏巴拉及眷屬",
+      "sanskrit": "oṃ ārya jambhala saparivāra",
+      "category": "mantra",
+      "notes": "向聖財神藏巴拉及其眷屬總頂禮與供養之首句。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "7c295462-8303-4923-a4ac-ca337dbe8371",
+      "original": "ཨརྒྷ",
+      "translation": "飲水供（阿剛）",
+      "sanskrit": "argha",
+      "category": "concept",
+      "notes": "七供之一，供飲用淨水於尊前。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "02c31f72-ff81-42cf-85ad-169da0bb411d",
+      "original": "པཱདྱཾ",
+      "translation": "浴足水供（巴當）",
+      "sanskrit": "pādyaṃ",
+      "category": "concept",
+      "notes": "七供之一，用以沐浴本尊足。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "630ad8dc-d697-4a67-9f0f-f169cfa34f4d",
+      "original": "པུཥྤེ",
+      "translation": "花供（布呗）",
+      "sanskrit": "puṣpe / puṣpa",
+      "category": "concept",
+      "notes": "七供之一，以花鬘供養。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "8e15b6b0-d721-40e2-9572-7cde16325753",
+      "original": "དྷཱུ་པེ",
+      "translation": "香供（德呗）",
+      "sanskrit": "dhūpe / dhūpa",
+      "category": "concept",
+      "notes": "七供之一，焚香供養。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "b4324340-7311-45aa-95ad-7e0e81277063",
+      "original": "ཨཱ་ལོ་ཀེ",
+      "translation": "燈供（阿羅給）",
+      "sanskrit": "āloke / āloka",
+      "category": "concept",
+      "notes": "七供之一，光明供。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "898f55c8-53e0-4d7b-a7f4-de5992bb42d3",
+      "original": "གནྡྷེ",
+      "translation": "香水供（甘碟）",
+      "sanskrit": "gandhe / gandha",
+      "category": "concept",
+      "notes": "七供之一，指香水、塗香供。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "9a8fd26c-c1a2-4cc3-a035-dd01e04b376a",
+      "original": "ནཻ་ཝིདྱ",
+      "translation": "飲食供（捏烏爹）",
+      "sanskrit": "naivedya / naividhya",
+      "category": "concept",
+      "notes": "七供之一，天食、妙食供養。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "41658637-f185-427d-a46b-cfdc258d9dc6",
+      "original": "ཤབྡ",
+      "translation": "音聲供（下達）",
+      "sanskrit": "śabda",
+      "category": "concept",
+      "notes": "七供之一，以樂音、讚頌為供。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "b53d23f4-f46d-4857-a3d7-b0b2b8ce1f02",
+      "original": "མཆོད་གཟུངས",
+      "translation": "供雲咒",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "指隨後一長段金剛供雲真言。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "18719eaa-2a30-4941-86dc-ecbf932ed56c",
+      "original": "ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ",
+      "translation": "南無三寶",
+      "sanskrit": "namo ratna-trayāya",
+      "category": "mantra",
+      "notes": "供雲咒開頭，頂禮三寶。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "818ea93a-09a1-4d61-b05b-816470ee9085",
+      "original": "ན་མོ་བྷ་ག་བ་ཏེ་བཛྲ་སཱ་ར་པྲ་མརྡྷ་ནེ",
+      "translation": "南無世尊金剛自性摧壞一切障礙者",
+      "sanskrit": "namo bhagavate vajra-sāra-pramardane",
+      "category": "mantra",
+      "notes": "讚歎金剛自性摧破一切障礙。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "80fd6568-56ec-4829-afbd-0e057ae632f1",
+      "original": "ཏ་ཐཱ་ག་ཏཱ་ཡ",
+      "translation": "如來",
+      "sanskrit": "tathāgatāya",
+      "category": "concept",
+      "notes": "佛之十號之一，咒中作稱名讚歎。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "688dfb3a-a4a5-4157-a0a0-d8ce6f96d8dc",
+      "original": "ཨརྷ་ཏེ",
+      "translation": "阿羅漢、應供",
+      "sanskrit": "arhate",
+      "category": "concept",
+      "notes": "佛之十號之一，亦指阿羅漢果位。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "75a21b1a-610c-4a4c-ac9d-ff4023d45391",
+      "original": "སམྱཀྶཾ་བུདྡྷ་ཡ",
+      "translation": "正等正覺",
+      "sanskrit": "samyak-saṃbuddhāya",
+      "category": "concept",
+      "notes": "圓滿正覺之佛果。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "ee0636a5-09b7-4012-9a39-66e7ab0cc93b",
+      "original": "ཏདྱ་ཐཱ",
+      "translation": "爹雅他（即「如是」）",
+      "sanskrit": "tadyathā",
+      "category": "mantra",
+      "notes": "引出正咒主體之前導語。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "c66a5bc8-bf64-4811-a54d-08f439a39254",
+      "original": "ཨོཾ་བཛྲེ་བཛྲེ་མ་ཧཱ་བཛྲེ",
+      "translation": "嗡 金剛 金剛 大金剛",
+      "sanskrit": "oṃ vajre vajre mahā-vajre",
+      "category": "mantra",
+      "notes": "供雲咒主體之一，強調金剛不壞之力。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "aa1f4e66-4d6a-4685-910e-c5f0be82a685",
+      "original": "མ་ཧཱ་ཏེ་ཛོ་བཛྲེ",
+      "translation": "大威光金剛",
+      "sanskrit": "mahā-tejo-vajre",
+      "category": "mantra",
+      "notes": "金剛大威光之德。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "3b318b5d-e565-4e42-bff3-855cf650d0c5",
+      "original": "མ་ཧཱ་བིདྱཱ་བཛྲེ",
+      "translation": "大明咒金剛",
+      "sanskrit": "mahā-vidyā-vajre",
+      "category": "mantra",
+      "notes": "金剛大咒智之德。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "db7a0223-3cdc-4584-b562-94204d09363f",
+      "original": "མ་ཧཱ་བོ་དྷི་ཙིཏྟ་བཛྲེ",
+      "translation": "大菩提心金剛",
+      "sanskrit": "mahā-bodhicitta-vajre",
+      "category": "mantra",
+      "notes": "將一切供養轉為菩提心金剛。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "d1c1efb0-054a-4a6b-a4f7-ffd378dd309c",
+      "original": "མ་ཧཱ་བོ་དྷི་མཎྜོ་པ་སཾ་ཀྲ་མ་ཎ་བཛྲེ",
+      "translation": "大菩提壇城遍行金剛",
+      "sanskrit": "mahā-bodhi-maṇḍopa-saṃkramaṇa-vajre",
+      "category": "mantra",
+      "notes": "令供養遍滿壇城，皆成菩提境界。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "1261ad9b-7170-40ba-a06b-f46a63541651",
+      "original": "སརྦ་ཀརྨ་ཨཱ་བ་ར་ཎ་བི་ཤོ་དྷ་ན་བཛྲེ་སྭཱ་ཧཱ",
+      "translation": "能淨一切業障之金剛 莎哈",
+      "sanskrit": "sarva-karma-āvaraṇa-viśodhāna-vajre svāhā",
+      "category": "mantra",
+      "notes": "以金剛力淨除一切業障成辦供養。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "05595e94-a61e-4813-9b2c-b2a22fb56ad2",
+      "original": "ཨོཾ་ཛཾ་བྷ་ལ་ཛ་ལེནྡྲ་ཡ་སྭཱ་ཧཱ",
+      "translation": "嗡 藏巴拉 札蓮惹雅 梭哈",
+      "sanskrit": "oṃ jambhala jalendra yā svāhā",
+      "category": "mantra",
+      "notes": "藏巴拉水供主咒，「jalendra」作水天、水王義。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "1539f32c-725a-43c2-98a2-4c05b761cfd6",
+      "original": "བཛྲ",
+      "translation": "金剛",
+      "sanskrit": "vajra",
+      "category": "concept",
+      "notes": "金剛，表堅固不壞、究竟智；此文多次出現在咒中。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "00f0004e-df52-4b15-91af-848a36cd62ab",
+      "original": "ཡེ་ཤེས",
+      "translation": "本初智慧 / 本智",
+      "sanskrit": "jñāna / prajñā",
+      "category": "concept",
+      "notes": "文中作「本智甘露」「本初智身」等。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "14cedfb5-069e-46b5-aef4-9ecada9af429",
+      "original": "བདུད་རྩི",
+      "translation": "甘露",
+      "sanskrit": "amṛta",
+      "category": "concept",
+      "notes": "灌頂所用之甘露，亦表不死法樂。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "d176e7ba-7c8e-4d93-a212-faf4f1df0fd3",
+      "original": "རིགས་ལྔ",
+      "translation": "五方佛",
+      "sanskrit": "pañca tathāgata / pañca jina",
+      "category": "deity",
+      "notes": "指五佛：毗盧遮那等五方如來。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "9d9a5e93-f442-492a-93a3-698a3064b7cf",
+      "original": "ནོར་གྱི་དབང་ཕྱུག",
+      "translation": "財富之主",
+      "sanskrit": "Vaiśravaṇa / Kubera（義近）",
+      "category": "deity",
+      "notes": "此處指「財神之主」藏巴拉，與俱毗羅類似財主意涵。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "ce93e49d-5959-490f-85fb-d724b807770e",
+      "original": "གནོད་སྦྱིན",
+      "translation": "夜叉",
+      "sanskrit": "yakṣa",
+      "category": "deity",
+      "notes": "此處為護財夜叉眾。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "ddbc7647-d9b0-4143-9c69-f599a64353f6",
+      "original": "བྱང་ཕྱོགས་སྐྱོང་བ",
+      "translation": "北方守護（者）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "方位守護之意，於此特指北方財神藏巴拉。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "6ecf69bd-63b9-4854-9ca3-c77aa6a370ad",
+      "original": "འཇམ་དཔལ",
+      "translation": "文殊（師利）",
+      "sanskrit": "Mañjuśrī",
+      "category": "person",
+      "notes": "文殊菩薩，智德之表。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "16ccb095-b79d-4917-98a8-88f3b87e1813",
+      "original": "ཀུན་ཏུ་བཟང་པོ",
+      "translation": "普賢",
+      "sanskrit": "Samantabhadra",
+      "category": "person",
+      "notes": "普賢菩薩，行願圓滿之表。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "cd121cb3-bca3-4d33-a05a-dd354dbf1e64",
+      "original": "རཏྣ་ཏྲ་ཡ",
+      "translation": "三寶",
+      "sanskrit": "ratna-traya",
+      "category": "concept",
+      "notes": "佛、法、僧三寶。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "51870974-59ec-44af-b84f-8dd9421ee2da",
+      "original": "རྒྱལ་བ",
+      "translation": "如來 / 佛陀",
+      "sanskrit": "buddha / jina",
+      "category": "person",
+      "notes": "「勝者、覺者」，文中作「諸佛如來」。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "5a7563b1-ebd8-46ef-aaae-60472144b230",
+      "original": "དུས་གསུམ་གཤེགས་པ",
+      "translation": "三世如來",
+      "sanskrit": "trisamaya tathāgata / tryadhvabuddha",
+      "category": "person",
+      "notes": "過去、現在、未來三時諸佛。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "05e0e539-0761-4488-956f-3f51dd910a97",
+      "original": "བསོད་ནམས",
+      "translation": "福德",
+      "sanskrit": "puṇya",
+      "category": "concept",
+      "notes": "與「智慧」並稱二資糧。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "cc229e18-9bb0-445d-9d1c-42c897439877",
+      "original": "ཡེ་ཤེས་ཚོགས",
+      "translation": "智慧資糧",
+      "sanskrit": "jñāna-saṃbhāra",
+      "category": "concept",
+      "notes": "二資糧之一。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "f3675589-f849-4276-a0c3-d72ccdf877e8",
+      "original": "སྐུ་གཉིས",
+      "translation": "二身",
+      "sanskrit": "dvīkāya / dharmakāya–rūpakāya",
+      "category": "concept",
+      "notes": "指法身與色身（或法報二身）。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "4aa57467-0114-452f-a89e-70a71dbcae52",
+      "original": "དམ་པ་སྐུ་གཉིས",
+      "translation": "勝義二身",
+      "sanskrit": "paramārtha-dvīkāya",
+      "category": "concept",
+      "notes": "究竟法身、報身二佛身。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "d7063d5f-5d9d-4b42-b254-d03ed76103a6",
+      "original": "ཀུན་བཟང་སྤྱོད",
+      "translation": "普賢行",
+      "sanskrit": "Samantabhadra-caryā",
+      "category": "practice",
+      "notes": "依普賢十大願王之行持回向。",
+      "added_at": "2026-02-27T08:18:18.437Z",
+      "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
     }
   ]
 }
