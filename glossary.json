@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T05:51:24.482Z",
+  "updated_at": "2026-02-27T05:58:05.013Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -670,6 +670,96 @@
       "category": "concept",
       "notes": "此處指隨同主尊之「瑪莫眾會」",
       "added_at": "2026-02-27T05:51:24.482Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "2415e2ae-bb6f-46a9-88b5-8a76543d03f6",
+      "original": "ཧཱུྂ (hūṃ)",
+      "translation": "吽",
+      "sanskrit": "hūṃ",
+      "category": "mantra",
+      "notes": "種子字（bīja），常為忿怒尊之心咒音節。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "2c31a7f0-8f3d-49ef-a986-5c60284e5b68",
+      "original": "ཀུན་ཏུ་བཟང་མོ (kuntuzangmo)",
+      "translation": "一切善妙母／普賢母（即：普賢佛母）",
+      "sanskrit": "Samantabhadrī",
+      "category": "deity",
+      "notes": "Samantabhadra 之佛母／本初佛之女性形，寧瑪傳承常尊為本初佛母。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "9941d5ec-57c9-4ad5-b083-ab1eae069395",
+      "original": "ཡེ་ཤེས (ye shes)",
+      "translation": "本初智慧／智慧",
+      "sanskrit": "jñāna",
+      "category": "concept",
+      "notes": "指超越分別之本覺智、覺性智。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "fb454c2d-97e1-49a1-8ff9-3c868a851ee4",
+      "original": "ཁྲོས་པ (khro ba)",
+      "translation": "忿怒（忿怒相）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "密教中示現為忿怒尊，以大悲力摧破煩惱與障礙之形相。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "a4ec16c4-e775-4823-8f9b-11244ab3ed92",
+      "original": "དབྱིངས (dbyings)",
+      "translation": "虛空界／法界",
+      "sanskrit": "dhātu",
+      "category": "concept",
+      "notes": "此處「虛空界之王母」即指法界空性之主。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "3095ae48-32f3-4a5e-88dc-e4ee6f4317ee",
+      "original": "རྒྱལ་མོ (rgyal mo)",
+      "translation": "王母",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "尊稱女尊、女護法為『王母』，此處特指一髻佛母。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "fa2f1a17-c46d-4c8c-869c-1e7771f3dfa9",
+      "original": "ཨེ་ཀ་ཛ་ཊཱི་མ (ekadzati ma / Ekajaṭī)",
+      "translation": "一髻佛母",
+      "sanskrit": "Ekajaṭī",
+      "category": "deity",
+      "notes": "寧瑪大圓滿傳承主護法之一，亦稱一髻母、咧嘎扎底瑪。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "4a149105-3748-4b80-8f07-8e71a351ac54",
+      "original": "མ་མོ (ma mo)",
+      "translation": "瑪莫",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "藏傳密教中之忿怒女護法、女靈眾，與空行母關聯密切。",
+      "added_at": "2026-02-27T05:58:05.013Z",
+      "source_article": "普賢母與獨一母祈請偈多語對照"
+    },
+    {
+      "id": "9458803d-82fd-4477-b5da-158f38876683",
+      "original": "མ་མོའི་ཚོགས (ma mo’i tshogs)",
+      "translation": "瑪莫眾會",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "指一髻佛母所統攝之眾多瑪莫護法與眾會。",
+      "added_at": "2026-02-27T05:58:05.013Z",
       "source_article": "普賢母與獨一母祈請偈多語對照"
     }
   ]
