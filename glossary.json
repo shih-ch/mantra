@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T07:20:02.391Z",
+  "updated_at": "2026-02-27T07:26:00.219Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -1841,6 +1841,1256 @@
       "notes": "Great Bliss pure realm，與本尊淨土相應",
       "added_at": "2026-02-27T07:20:02.391Z",
       "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "bae1887b-25df-4e25-91b6-8c8340d8c1e8",
+      "original": "དགེ་སློང",
+      "translation": "比丘",
+      "sanskrit": "bhikṣu",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "43ee51d5-b367-4396-ab61-7f70ed238057",
+      "original": "ནམ་མཁའི་སྙིང་པོ",
+      "translation": "南開寧波",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Namkhé Nyingpo，蓮師二十五弟子之一",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "6e412067-4776-4ec3-abc4-4f2f3528afe2",
+      "original": "བླ་མ",
+      "translation": "上師",
+      "sanskrit": "guru",
+      "category": "person",
+      "notes": "此處多指傳承上師總稱",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "10db6820-2425-47c1-9ea9-19a2752ef816",
+      "original": "ལྷ",
+      "translation": "本尊、天",
+      "sanskrit": "deva",
+      "category": "deity",
+      "notes": "語境中指修觀所緣諸尊",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "06661907-3996-4e24-af44-1435ea984936",
+      "original": "ཡི་དམ་ལྷ",
+      "translation": "本尊（意生尊）",
+      "sanskrit": "yidam-deva",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "411c0c84-603a-4bdb-a331-5e3c3e7ab3b2",
+      "original": "ཆོས་ཉིད",
+      "translation": "法性",
+      "sanskrit": "dharmatā",
+      "category": "concept",
+      "notes": "諸法實相",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "6ea9af16-45cb-4bd3-99bc-c0d8c88e15e1",
+      "original": "ཨེ་མ་ཧོ",
+      "translation": "欸瑪吙（稀有讚嘆語）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "漢譯多作「希有哉」",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "3e2cbcb1-c4a4-4a63-8286-f5460d447d18",
+      "original": "སྤྲོས་བྲལ",
+      "translation": "離戲論",
+      "sanskrit": "niṣprapañca",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "17adc283-0e4a-4ba2-aadf-08bc5cbce5ac",
+      "original": "བདེ་ཆེན",
+      "translation": "大樂",
+      "sanskrit": "mahāsukha",
+      "category": "concept",
+      "notes": "密續義之勝樂",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "f27825ea-b562-483b-801f-9a283ebde238",
+      "original": "རྒྱལ་བ",
+      "translation": "勝者",
+      "sanskrit": "jina / buddha",
+      "category": "person",
+      "notes": "常指佛陀",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "33765e95-a999-4fb0-8718-2c7fe45b4de0",
+      "original": "ཀུན་ཏུ་བཟང",
+      "translation": "普賢王如來",
+      "sanskrit": "Samantabhadra",
+      "category": "deity",
+      "notes": "大圓滿中本初佛",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "e30ce774-ac95-4e5f-bd05-ec4da4c8e78d",
+      "original": "རིགས་ལྔ",
+      "translation": "五佛部、五家族",
+      "sanskrit": "pañcakula / pañca-buddha-kula",
+      "category": "concept",
+      "notes": "五佛家族",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "66827c15-f831-49de-bf27-f94e8ffdb742",
+      "original": "རྡོ་རྗེ་འཆང",
+      "translation": "金剛持",
+      "sanskrit": "Vajradhāra",
+      "category": "deity",
+      "notes": "此處稱「第六佛」",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "dce5f80f-852d-4cba-9590-272b5d9c0d3e",
+      "original": "འགྲོ་དྲུག",
+      "translation": "六道眾生",
+      "sanskrit": "ṣaḍ-gati",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1dacb434-fe2e-4d35-9336-0ade1af7783e",
+      "original": "བྱང་ཆུབ་སེམས་དཔའ",
+      "translation": "菩薩",
+      "sanskrit": "bodhisattva",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "cfc45121-2e32-4f8a-a2d3-1af3ee2c5520",
+      "original": "ཆོས་སྐུ",
+      "translation": "法身",
+      "sanskrit": "dharmakāya",
+      "category": "concept",
+      "notes": "三身之一",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "e489272f-6af8-4ac6-a574-efaec59cc6d8",
+      "original": "ལོངས་སྐུ",
+      "translation": "報身",
+      "sanskrit": "saṃbhogakāya",
+      "category": "concept",
+      "notes": "三身之一",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "97f5bcf4-8355-4c84-8bc7-f89b9b58b964",
+      "original": "སྤྲུལ་སྐུ",
+      "translation": "化身",
+      "sanskrit": "nirmāṇakāya",
+      "category": "concept",
+      "notes": "三身之一",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "e66c9f89-7e32-4084-95ca-c5759bf4b494",
+      "original": "དགོངས་པའི་བརྒྱུད་པ",
+      "translation": "智慧意傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "意傳、心傳",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "85607f3d-36cd-4d7d-8061-5cf02189b711",
+      "original": "ཨོ་རྒྱན",
+      "translation": "烏金、烏仗那",
+      "sanskrit": "Oḍḍiyāna",
+      "category": "place",
+      "notes": "密乘聖地",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "23f6447a-fc67-4688-822f-8f433c05e3ab",
+      "original": "པདྨ་འབྱུང་གནས",
+      "translation": "蓮花生大師",
+      "sanskrit": "Padmasambhava / Padmākara",
+      "category": "person",
+      "notes": "又稱 Guru Rinpoche",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "716de9dc-c318-4bcd-ac21-698c74e67f65",
+      "original": "གྲགས་ལྡན",
+      "translation": "耶捨婆（名聞赫赫）",
+      "sanskrit": "Yaśasvin",
+      "category": "person",
+      "notes": "與英譯 Yaśasvi 對應",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "925ccd87-e87c-43bf-b57b-318b53627c45",
+      "original": "མཆོག་སྐྱོང",
+      "translation": "勝護",
+      "sanskrit": "Varapāla",
+      "category": "deity",
+      "notes": "天神名",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b73e02ad-6c60-4026-bfae-d9ff610874fe",
+      "original": "གནོད་སྦྱིན་སྐར་མདའ་གདོང",
+      "translation": "夜叉烏迦目佉",
+      "sanskrit": "yakṣa Ulkāmukha",
+      "category": "deity",
+      "notes": "護法夜叉",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "fc0b3b47-d862-4bd2-914d-6bf6b9cc9067",
+      "original": "བློ་གྲོས་ཐབས་ལྡན",
+      "translation": "具慧方便者",
+      "sanskrit": "Matyaupāyika",
+      "category": "person",
+      "notes": "此處作羅剎名",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "93e9e022-7334-4ea3-b78e-e7bdff218ef3",
+      "original": "ཀླུ་རྒྱལ་འཇོག་པོ",
+      "translation": "龍王久波",
+      "sanskrit": "Takṣaka",
+      "category": "deity",
+      "notes": "那伽王",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "e1348264-49a5-467c-8a86-c88c0c0a46fd",
+      "original": "དྲི་མེད",
+      "translation": "無垢",
+      "sanskrit": "Vimala",
+      "category": "person",
+      "notes": "與維摩詰名 Vimalakīrti 相關",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "f1e42913-cb06-48c8-b3b8-a5fdba98d9cb",
+      "original": "ལས་ཅན་རྒྱལ་པོ་ཛ",
+      "translation": "具福王札",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "King Ja，Licchavi 王",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "36b65ba9-ca25-4e4d-8c8e-ce4980bfa4e4",
+      "original": "བི་མ་ལ་ཀཱིརྟི",
+      "translation": "維摩詰",
+      "sanskrit": "Vimalakīrti",
+      "category": "person",
+      "notes": "英譯中作 Vimalakīrti the Licchavi，原文略稱",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "5bc7e507-928a-47ae-af0b-393894120c1f",
+      "original": "རིག་འཛིན",
+      "translation": "持明者",
+      "sanskrit": "vidyādhara",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "bda2632d-7986-4ddb-8f25-191beba63fe3",
+      "original": "ལྷ་དབང་བརྒྱ་བྱིན",
+      "translation": "天王因陀羅",
+      "sanskrit": "Indra / Śakra Devānām Indraḥ",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "78ad85f2-5490-416d-997a-8295f3eac8a4",
+      "original": "རིག་འཛིན་རིག་པའི་བརྒྱུད་པ",
+      "translation": "持明本覺傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "rigpa awareness lineage",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b9dd7f23-4f7f-4a02-9c45-de7c61369991",
+      "original": "ཆོས་སྐུ་ཀུན་ཏུ་བཟང་པོ",
+      "translation": "法身普賢王如來",
+      "sanskrit": "Samantabhadra (dharmakāya)",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "4834bdba-b2fb-43c3-b73a-d0d496d0c345",
+      "original": "རྡོ་རྗེ་སེམས་དཔའ",
+      "translation": "金剛薩埵",
+      "sanskrit": "Vajrasattva",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "639830d4-01c4-49ff-8157-6f3a5458418d",
+      "original": "དགའ་རབ་རྡོ་རྗེ",
+      "translation": "嘉饒多傑",
+      "sanskrit": "Garab Dorje",
+      "category": "person",
+      "notes": "大圓滿初祖，梵名 Prahevajra 或 Garab Dorje",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "dbdef171-cd5e-4c87-be55-ad42bc8e45fa",
+      "original": "ཤྲཱི་སིཾ་ཧ",
+      "translation": "室利僧訶",
+      "sanskrit": "Śrī Siṃha",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "6059128c-8fc4-4cda-8ee6-d58849ee3258",
+      "original": "རྫོགས་ཆེན",
+      "translation": "大圓滿",
+      "sanskrit": "Dzogchen / Atiyoga",
+      "category": "concept",
+      "notes": "此處作法門與傳承名",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "0e3a6ab7-b5e7-4a16-9cf1-0e09aa58c08f",
+      "original": "རྒྱལ་བ་ཆོས་ཀྱི་སྐུ",
+      "translation": "法身佛",
+      "sanskrit": "dharmakāya-buddha",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "56ef8a25-5d48-4744-98e0-c0173aa7556f",
+      "original": "བདེ་གཤེགས",
+      "translation": "善逝",
+      "sanskrit": "sugata",
+      "category": "deity",
+      "notes": "佛之異名",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "f8c1c60d-7a0a-4330-9d57-998f603b0b2a",
+      "original": "རིགས་ལྔ",
+      "translation": "五佛家族",
+      "sanskrit": "pañca-buddha-kula",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "048845d7-504a-435b-a9b5-2d7fd434986c",
+      "original": "རིགས་གསུམ་མགོན་པོ",
+      "translation": "三族主",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "即文殊師利、觀世音、金剛手",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "cd773898-fd29-41f7-b425-ffd3938640fd",
+      "original": "འཇམ་དཔལ",
+      "translation": "文殊師利",
+      "sanskrit": "Mañjuśrī",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "336c4066-788b-417d-a012-d6bf49d2ed9f",
+      "original": "སྤྱན་རས་གཟིགས",
+      "translation": "觀世音",
+      "sanskrit": "Avalokiteśvara",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b8cd380e-c6e8-4797-a5d6-5e105ddbf45b",
+      "original": "རྡོ་རྗེ་པཎྜི",
+      "translation": "金剛手",
+      "sanskrit": "Vajrapāṇi",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "47e04b96-a7d9-4dd6-9c82-ae764e0ba3b4",
+      "original": "སངས་རྒྱས་གསང་བ",
+      "translation": "佛護",
+      "sanskrit": "Buddhaguhya",
+      "category": "person",
+      "notes": "密續大阿闍梨",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "d5d62884-b41c-41a4-a606-1d5573b9e391",
+      "original": "སྒྱུ་འཕྲུལ་བརྒྱུད་པ",
+      "translation": "幻化網傳承",
+      "sanskrit": "Māyājāla / Guhyagarbha lineage",
+      "category": "practice",
+      "notes": "即《秘密藏續》網曼系",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "d2e60cdc-c920-43ef-8aab-1f62d2a07fdb",
+      "original": "འཇམ་དཔལ་ཡ་མཱནྟ་ཀ",
+      "translation": "文殊閻曼德迦",
+      "sanskrit": "Mañjuśrī Yamāntaka",
+      "category": "deity",
+      "notes": "忿怒文殊",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "ef6b0ece-bb51-4970-a962-558a7f9f750d",
+      "original": "འཇམ་དཔལ་བཤེས་གཉེན",
+      "translation": "文殊師利友",
+      "sanskrit": "Mañjuśrīmitra",
+      "category": "person",
+      "notes": "大圓滿祖師之一",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "d494bba8-772f-4dac-8d9f-4674799d92be",
+      "original": "རོ་ལངས་བདེ་བ",
+      "translation": "屍鬼樂",
+      "sanskrit": "Vetālasukha",
+      "category": "person",
+      "notes": "大圓滿傳承者",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "ad115cf1-7342-43f8-ae62-87a416954f3c",
+      "original": "སྐུ་ཡི་བརྒྱུད་པ",
+      "translation": "身之智慧傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "skukyi brgyud pa",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "d3236b17-dc79-40ef-9e63-ea5994a132a5",
+      "original": "པདྨ་ཧེ་རུ་ཀ",
+      "translation": "蓮華赫魯迦",
+      "sanskrit": "Padma Heruka",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9b8f1297-1207-4e97-a738-5367da1ab8d0",
+      "original": "དབང་གི་ལྷ་མོ",
+      "translation": "帝釋天女",
+      "sanskrit": "Indradevī",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "99d8f04e-f570-4a3c-9fa3-c6d5e29e422b",
+      "original": "ནཱ་གཱརྫུ་ན",
+      "translation": "龍樹",
+      "sanskrit": "Nāgārjuna",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "93ef4bc0-35f5-4827-8a1a-cf2edaee0a3e",
+      "original": "གསུང་གི་བརྒྱུད་པ",
+      "translation": "語之智慧傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "18baea27-89df-42a0-987a-77e42cda2ab9",
+      "original": "བཛྲ་ཧེ་རུ་ཀ",
+      "translation": "金剛赫魯迦",
+      "sanskrit": "Vajra Heruka",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "c676d688-1ded-4702-9783-5cbaa9f3cacc",
+      "original": "ཧཱུྃ་ཆེན་ཀཱ་ར",
+      "translation": "吽缽伽羅",
+      "sanskrit": "Hūṃchenkara",
+      "category": "person",
+      "notes": "意傳承祖師",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9996acd0-e6c0-465f-916c-5759dac5cfe1",
+      "original": "ཐུགས་ཀྱི་བརྒྱུད་པ",
+      "translation": "意之智慧傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "心意傳承",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1c6bafad-f7ad-4f39-9c05-85dd44602e74",
+      "original": "ཆེ་མཆོག་ཧེ་རུ་ཀ",
+      "translation": "大上赫魯迦（卻姆卻赫魯迦）",
+      "sanskrit": "Chemchok Heruka",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "76b6d7ae-fd52-4afc-bb9f-54d998263239",
+      "original": "མཁའ་འགྲོ",
+      "translation": "空行母",
+      "sanskrit": "ḍākinī",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "3a56b997-811d-4930-8862-3affabf18178",
+      "original": "མི་འགྱུར་ནམ་མཁའ",
+      "translation": "明就南開",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Mingyur Namkha，大圓滿傳承師",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9ca4f101-0c6a-4619-b5c0-21da2775b062",
+      "original": "ཡོན་ཏན་བརྒྱུད་པ",
+      "translation": "功德傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "善德相續之傳承",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "2d6c7b86-f6aa-42f6-af0d-2e87cea0bce8",
+      "original": "རྡོ་རྗེ་གཞོན་ནུ",
+      "translation": "金剛童子",
+      "sanskrit": "Vajrakumāra",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.994Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "30f46f03-833e-49e4-b300-37aaa2820da4",
+      "original": "ལྷུན་གྲུབ",
+      "translation": "自成、自性成就",
+      "sanskrit": "lhun-grub (svayaṃsiddha)",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "f9ce0f26-51a9-4fdc-b50b-c12ff0b5e65c",
+      "original": "ཕྱག་རྒྱ་ཆེན་པོ",
+      "translation": "大手印",
+      "sanskrit": "mahāmudrā",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "0baec11e-0823-4368-b53d-7869616d94e5",
+      "original": "རྡོ་རྗེ་ཐོད་ཕྲེང་རྩལ",
+      "translation": "多傑托炯策",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Dorjé Tötreng Tsal，蓮師三身之一",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "97fa0db2-24c1-4ff2-a386-b8bc3f808870",
+      "original": "ཕྲིན་ལས་བརྒྱུད་པ",
+      "translation": "事業傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "利他事業之傳承",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "d0730555-ed4a-4291-a1e2-ca435ca88472",
+      "original": "མངོན་རྫོགས་རྒྱལ་པོ་ཆེ་མཆོག་ཧེ་རུ་ཀ",
+      "translation": "顯現圓滿王大上赫魯迦",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "King of Manifest Perfection",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "524063be-8c3c-412f-916c-ecb7aa8e1233",
+      "original": "མ་རྒྱུད",
+      "translation": "母續",
+      "sanskrit": "",
+      "category": "text",
+      "notes": "母續系密續總稱",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "27759390-68a3-4eac-929b-de193fb12d42",
+      "original": "ཡོངས་འཁྱུད་བདེ་མ",
+      "translation": "擁摯德瑪（總攝大樂母）",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "Yongkhyu Déma，母續天女",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b497ca88-7e2d-454b-bb59-82d46d9fde9e",
+      "original": "དྷ་ན་སཾ་སྐྲི",
+      "translation": "達那三斯克利多",
+      "sanskrit": "Dhanasaṃskṛta",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "83903b3c-4a65-438a-b2c5-d8633b4e82a4",
+      "original": "སྲིད་པ་མ་རྒྱུད",
+      "translation": "生死（輪迴）母續",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "主宰有情輪迴之瑪莫傳承",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "e4faa836-5d1e-4fda-b60b-58787faac78a",
+      "original": "བཅོམ་ལྡན",
+      "translation": "薄伽梵（世尊）",
+      "sanskrit": "Bhagavān",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b89c34de-cd18-4baf-9bd3-2be5b05e4a41",
+      "original": "དྲེགས་པ་ཀུན་འདུལ",
+      "translation": "調伏一切我慢者",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "一尊忿怒佛或本尊稱號",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "0273e76c-5a3d-4bf8-b31a-3fa95a23293a",
+      "original": "རོམྦུ་གུ་ཧྱ་ཙནྡྲ",
+      "translation": "Rombuguhya Candra",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "傳承祖師，梵藏對勘未明",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "86a35498-ac5c-41e1-ac71-9fc8d91becbc",
+      "original": "ཤཱཀྱ་སེངྒེ",
+      "translation": "釋迦獅子",
+      "sanskrit": "Śākya Siṃha / Shakya Sengé",
+      "category": "person",
+      "notes": "釋迦族大師名",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "193ded55-d119-4509-87d8-48beac1d3cf7",
+      "original": "མཆོད་བསྟོད་བརྒྱུད་པ",
+      "translation": "供養讚頌傳承",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b25c768f-1a97-42fd-baba-abb12ab5217d",
+      "original": "དཔལ་ཆེན་སྟོབས་ལྡན་ནག་པོ",
+      "translation": "大威德黑大力尊",
+      "sanskrit": "Mahābala (black form)",
+      "category": "deity",
+      "notes": "Mahābala忿怒尊",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "82792d98-9850-4a3d-bda1-e9f59119b369",
+      "original": "ཤནྟིཾ་གརྦྷ",
+      "translation": "寂護藏",
+      "sanskrit": "Śāntigarbha",
+      "category": "person",
+      "notes": "Shantigarbha",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "0b134f6b-4a5f-473c-8591-4eea3079a8c8",
+      "original": "རྡོ་རྗེ་གྲོ་ལོད་རྩལ",
+      "translation": "多傑卓羅策",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Dorjé Drolö Tsal，蓮師八化身之一",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "5cebd962-8126-46cc-abab-0820bbfb6088",
+      "original": "དྲག་སྔགས་བརྒྱུད་པ",
+      "translation": "猛咒傳承",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "wrathful mantra lineage",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "33213719-d2ce-47af-a147-0ddb1bfcab64",
+      "original": "མགོན་པོ་ཚེ་དཔག་མེད",
+      "translation": "無量壽尊",
+      "sanskrit": "Amitāyus",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "a9504fa6-50a5-4695-9fc0-f79a9b29f868",
+      "original": "ཙཎྜ་ལཱི",
+      "translation": "瞻拏梨（炙身女）",
+      "sanskrit": "Caṇḍālī",
+      "category": "deity",
+      "notes": "拙火女尊",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9d1b79f5-d2b7-43a6-8118-9cf408b5e5ac",
+      "original": "འཆི་མེད་པདྨ་འབྱུང་གནས",
+      "translation": "不死蓮花生",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "具長壽持明相之蓮師",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "bec26a27-4e3b-41ae-8262-29cae0fb2679",
+      "original": "ཚེ་ཡི་རིག་འཛིན",
+      "translation": "長壽持明",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "Mastery over life line of vidyādharas",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "2c8c0cbd-ed6a-4fa0-9768-d4e56f42fd90",
+      "original": "རྡོ་རྗེ་ཕག་མོ",
+      "translation": "金剛亥母",
+      "sanskrit": "Vajravārāhī",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9587fd36-117a-4314-a71b-3957d309b1eb",
+      "original": "སེང་གེའི་གདོང་ཅན",
+      "translation": "獅面空行母",
+      "sanskrit": "Siṃhamukhā",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "b6a637b5-4170-4667-9bc5-f5b1f1aec738",
+      "original": "རྡོ་རྗེ་དྲག་པོ་རྩལ",
+      "translation": "多傑忿怒策",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "Dorjé Drakpo Tsal，忿怒蓮師形",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "2870679b-a23f-4f27-baba-635753aa0432",
+      "original": "གསང་སྔགས་མ་བརྒྱུད",
+      "translation": "秘密咒母系傳承",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "女性持明傳承",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "487034de-5ae9-4e3a-8f87-264da00bd8de",
+      "original": "རྡོ་རྗེ་ཁྲག་འཐུང",
+      "translation": "金剛飲血赫魯迦",
+      "sanskrit": "",
+      "category": "deity",
+      "notes": "一種忿怒赫魯迦",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1a28f506-5b7c-448f-8312-1f91749a9cbd",
+      "original": "སྤྲུལ་སྐུ",
+      "translation": "化身",
+      "sanskrit": "nirmāṇakāya",
+      "category": "concept",
+      "notes": "此處指化身蓮師",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "5e333805-6b0f-4770-b8bf-950fc52e3ee8",
+      "original": "འཛམ་གླིང",
+      "translation": "贍部洲",
+      "sanskrit": "Jambudvīpa",
+      "category": "place",
+      "notes": "人類居住洲",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "9ccb2186-92ea-4814-8840-69c966c9dea8",
+      "original": "བོད",
+      "translation": "西藏",
+      "sanskrit": "Bod",
+      "category": "place",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "dd5e2273-0974-4135-83b0-07612e93664a",
+      "original": "གསང་སྔགས",
+      "translation": "秘密咒",
+      "sanskrit": "guhyamantra / Mantrayāna",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "bdfc9fa3-0e81-48fe-bf85-d61289b5302f",
+      "original": "གསང་སྔགས་འདུས་རྒྱུད",
+      "translation": "秘密咒匯集續",
+      "sanskrit": "",
+      "category": "text",
+      "notes": "「匯集整個密咒乘之續」之義",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "8ef7fe03-68d8-4bd1-a0d9-afa121f84405",
+      "original": "སངས་རྒྱས",
+      "translation": "佛陀",
+      "sanskrit": "buddha",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1eda5388-2e30-489d-9814-9f13809a54c2",
+      "original": "སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ",
+      "translation": "釋迦牟尼佛",
+      "sanskrit": "Śākyamuni",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "deb7b7bd-1d48-49a3-8e47-41a6407bbf40",
+      "original": "བོ་དྷི་སཏྭ",
+      "translation": "菩提薩埵（堪布菩薩）",
+      "sanskrit": "Bodhisattva",
+      "category": "person",
+      "notes": "此處為具名大德，英譯 Khenpo Bodhisattva",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "171d933f-cc3f-49da-8ce9-757157aa1782",
+      "original": "རྒྱུ་འབྲས",
+      "translation": "因果",
+      "sanskrit": "hetu-phala / karma-vipāka",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "4bd2b1f0-efc0-4f32-af4c-39d5024ee079",
+      "original": "རིག་པ",
+      "translation": "本覺、覺知",
+      "sanskrit": "vidyā / jñāna",
+      "category": "concept",
+      "notes": "大圓滿義之 rigpa",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "f7f447e8-7539-4eaa-9527-f1ce954bccc1",
+      "original": "རིག་འཛིན་བྱང་ཆུབ་སེམས་དཔའ",
+      "translation": "持明菩薩",
+      "sanskrit": "vidyādhara-bodhisattva",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "2ccc08c9-1630-4998-8314-4b69b5d2b318",
+      "original": "གསང་སྔགས་བཀའ་བཞིན་བསྒྲུབ་པའི་དམ་ཚིག",
+      "translation": "依教修持秘密咒之三昧耶",
+      "sanskrit": "samaya",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "2c58e946-7967-4239-be5c-b01ad106cd51",
+      "original": "སྙན་ཁུང་བརྒྱུད་པ",
+      "translation": "耳傳、聞持傳承",
+      "sanskrit": "śruti-lineage",
+      "category": "concept",
+      "notes": "hearing transmission",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "02277312-5299-4a63-8339-65bd08c483ad",
+      "original": "འོད་གསལ",
+      "translation": "光明",
+      "sanskrit": "prabhāsvara",
+      "category": "concept",
+      "notes": "心性本淨之光明面",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1cb77226-ac9a-4a02-ac9a-bba758182230",
+      "original": "དུས་གསུམ",
+      "translation": "三世",
+      "sanskrit": "tryadhvan / trikāla",
+      "category": "concept",
+      "notes": "過去、現在、未來",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "175f9f88-a5f5-44c0-8b3e-8f6bb01bccb1",
+      "original": "བདེ་གཤེགས",
+      "translation": "善逝",
+      "sanskrit": "sugata",
+      "category": "deity",
+      "notes": "佛之異名，與前條重複語境不同",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "748a79c0-5d70-4bf1-ae58-2792b0abef56",
+      "original": "ཐུགས་རྗེ",
+      "translation": "大悲",
+      "sanskrit": "karuṇā",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "60d7650a-a20a-478f-bda6-a8f91d67d427",
+      "original": "རིག་པའི་བཙན་ས",
+      "translation": "本覺之堅固要塞",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "rigpa stronghold，譬喻語",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "7510d31c-45a3-45c1-a5b2-131a755b47d0",
+      "original": "བདེ་ཆེན་གནས",
+      "translation": "大樂淨土",
+      "sanskrit": "",
+      "category": "place",
+      "notes": "Great Bliss pure realm，與本尊淨土相應",
+      "added_at": "2026-02-27T07:20:03.995Z",
+      "source_article": "南開寧波請問祈請文與上師開示偈頌"
+    },
+    {
+      "id": "1323172d-80c3-4395-b0cb-7f856d87b3e1",
+      "original": "བླ་མ",
+      "translation": "上師 / 喇嘛",
+      "sanskrit": "guru (गुरु)",
+      "category": "person",
+      "notes": "特指具證悟的大師，在本偈中亦等同本覺上師。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "e6d8e77f-34b5-43d2-8312-a7703baa582a",
+      "original": "ལྷ",
+      "translation": "本尊（神祇）",
+      "sanskrit": "deva / iṣṭadevatā (इष्टदेवता)",
+      "category": "deity",
+      "notes": "此處指觀修所緣之本尊形相，『光明而空之本尊身』。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "a8581899-1fdd-445a-9555-5c5d4c44f197",
+      "original": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས",
+      "translation": "烏金蓮花生大師（烏金蓮花生）",
+      "sanskrit": "Oḍḍiyāna Padma­saṃbhava (ओड्डियान पद्मसम्भव)",
+      "category": "person",
+      "notes": "O rgyan = 烏金（烏ḍḍiyāna），padma = 蓮花，’byung gnas = 出生、湧出之處；即蓮花生大士 Guru Rinpoche。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "f15448f8-516a-4781-82c9-8f0b2ee7c1eb",
+      "original": "རྒྱལ་བ",
+      "translation": "勝者",
+      "sanskrit": "jina (जिन) / buddha (बुद्ध)",
+      "category": "person",
+      "notes": "此處作總稱，指一切成就正覺的諸佛。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "cfeaa8d2-ba42-4dfa-b9d3-fe66191b984d",
+      "original": "རིག་པ",
+      "translation": "本覺 / 覺性（rigpa）",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "大圓滿術語，指對自心本性的直接明覺，屬藏傳寧瑪派特有用語，無固定梵文對應。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "5fb97715-2b0b-474a-b3ab-a338026fdfbe",
+      "original": "ཆོས་སྐུ",
+      "translation": "法身",
+      "sanskrit": "dharmakāya (धर्मकाय)",
+      "category": "concept",
+      "notes": "佛三身之首，指諸佛之真如法性身。文中作『於法身中解脫』。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "0082ab0c-3867-41d0-b62f-85d5204fea50",
+      "original": "འོད་གསལ",
+      "translation": "光明 / 明光",
+      "sanskrit": "prabhāsvara-citta (प्रभास्वरचित्त)（光明心，意涵對應）",
+      "category": "concept",
+      "notes": "密續與大圓滿中常說之心之光明面，與空性不二。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "33cc4cd7-c9a7-4d48-ba64-86c35de5ee5a",
+      "original": "ཉོན་མོངས་དུག་ལྔ",
+      "translation": "五毒煩惱",
+      "sanskrit": "pañca kleśa (पञ्च क्लेश)",
+      "category": "concept",
+      "notes": "貪、嗔、癡、慢、疑五根本煩惱。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "853ba9df-076f-480d-aa0b-5436b04bd0ca",
+      "original": "བདེ་ཆེན་གནས",
+      "translation": "大樂淨土 / 大樂境",
+      "sanskrit": "Mahāsukhāvatī / Mahāsukha-dhāma (महासुखावतī / महासुखधाम)",
+      "category": "place",
+      "notes": "此處指蓮花生等密乘傳統所說大樂淨土，名號在各續中略有異譯。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "dd58c08d-9d4c-4665-a446-cafa6eb4b968",
+      "original": "བདེ་གཤེགས",
+      "translation": "善逝",
+      "sanskrit": "sugata (सुगत)",
+      "category": "person",
+      "notes": "佛的一種聖號，意為『善去』『善逝』。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "e5711314-a35c-4b57-92a9-f81d39ceffe5",
+      "original": "ཐུགས་རྗེ",
+      "translation": "大悲 / 慈悲心",
+      "sanskrit": "karuṇā (करुणा)",
+      "category": "concept",
+      "notes": "此處指諸佛善逝之大悲心。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "ef72b9eb-f731-46a4-a2ad-ae3e041266db",
+      "original": "བྱིན་གྱིས་རློབས",
+      "translation": "加持",
+      "sanskrit": "adhiṣṭhāna (अधिष्ठान)",
+      "category": "concept",
+      "notes": "密乘常用語，指諸佛菩薩、上師所賜之福德力與相續轉變力。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "094d4507-bc98-4b3d-8bdc-24821357f348",
+      "original": "ནམ་མཁའི་སྙིང་པོ",
+      "translation": "南開寧波",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "蓮花生大師弟子之一，寧瑪派傳承祖師。藏名意為『虛空之精髓』。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "eb86c355-190d-4923-ae55-5e5e247d4396",
+      "original": "རིག་པའི་བཙན་ས",
+      "translation": "本覺之堅固要塞",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "密續比喻語，指安住於本覺（rigpa）不動搖之境界。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "d0dafe72-749a-413b-8f6f-14939aab720c",
+      "original": "དག་པ",
+      "translation": "清淨",
+      "sanskrit": "śuddhi / pariśuddhi (शुद्धि / परिशुद्धि)",
+      "category": "concept",
+      "notes": "此處特指能取所取二執清淨。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "156b1423-529b-4456-83c1-65f828df9b77",
+      "original": "གཟུང་འཛིན",
+      "translation": "能取所取（二取）",
+      "sanskrit": "grāhya-grāhaka-dvaya (ग्राह्यग्राहकद्वय)",
+      "category": "concept",
+      "notes": "主客二元對立的執取系統，在中觀與大圓滿中特別強調。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
+    },
+    {
+      "id": "443fc03c-b64d-462b-bc04-a0d394fc9463",
+      "original": "བདག་འཛིན",
+      "translation": "我執",
+      "sanskrit": "ātmagrāha (आत्मग्रह)",
+      "category": "concept",
+      "notes": "執有實在自我之見解。文中作『不執為我與我所』。",
+      "added_at": "2026-02-27T07:26:00.219Z",
+      "source_article": "一切見聞與念自性解脫祈請偈"
     }
   ]
 }
