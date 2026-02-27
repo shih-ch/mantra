@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T16:23:25.432Z",
+  "updated_at": "2026-02-27T16:27:57.979Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -4747,6 +4747,314 @@
       "notes": "作者自署名號，「法日」之意",
       "added_at": "2026-02-27T16:23:25.432Z",
       "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "93e40396-ca95-412e-bc69-c1bd5ddbc674",
+      "original": "ཁྱུང་",
+      "translation": "大鵬鳥 / 迦樓羅",
+      "sanskrit": "garuḍa",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "在佛教與密教中多作神鳥、護法本尊，非普通禽鳥。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "87f99ddc-fa6a-416e-ab80-6bba366f15b6",
+      "original": "བསྙེན་པ།  ཨོཾ་ཤྲཱི་བཛྲ་ག་རུ་ཊ་ཧཱུྃ་ཕཊ༔",
+      "translation": "親近咒：嗡 師利 金剛迦樓羅 吽 呸",
+      "sanskrit": "oṃ śrī vajra garuḍa hūṃ phaṭ",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "大鵬金剛迦樓羅心咒，用於祈請本尊、息災降伏等。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "edc85675-c5c7-4902-a77f-12a18bf25646",
+      "original": "བསྙེན་པ",
+      "translation": "親近咒",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "指親近本尊、結緣之咒語或儀軌。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "fafa3e75-9855-4392-bb01-b5442679c128",
+      "original": "བཛྲ་ག་རུ་ཊ",
+      "translation": "金剛迦樓羅",
+      "sanskrit": "vajra garuḍa",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "密教中大鵬金剛鳥本尊。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "ad52dd00-cc3f-4e74-bd06-d243ab193345",
+      "original": "འཇིག་རྟེན་པའི་ཁྱུང་",
+      "translation": "世間大鵬鳥",
+      "sanskrit": "laukika garuḍa",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "對應非本尊之普通迦樓羅眾。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "a7fd17a9-3b5c-4fc7-b9c6-1eb6443bbde4",
+      "original": "སྤྲུལ་པའི་ཁྱུང་",
+      "translation": "化身大鵬鳥",
+      "sanskrit": "nirmāṇa-garuḍa",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "佛菩薩化現之迦樓羅形身。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "824caf75-7704-4b63-bc00-37bc1b5b9820",
+      "original": "ཡེ་ཤེས་པའི་ཁྱུང་",
+      "translation": "本初智慧大鵬鳥 / 智慧大鵬鳥",
+      "sanskrit": "jñāna-garuḍa",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "由佛菩薩本初智所顯現之迦樓羅本尊。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "423543b3-7fac-48a9-a91a-93b928f6471c",
+      "original": "སངས་རྒྱས",
+      "translation": "佛",
+      "sanskrit": "buddha",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "此處為泛稱諸佛。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "e4d93cdb-0db2-464c-8bba-626960120339",
+      "original": "བྱང་སེམས",
+      "translation": "菩薩",
+      "sanskrit": "bodhisattva",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "勇於求覺者。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "f648f34b-dd71-4194-b849-5e06a4276cdc",
+      "original": "ཀླུ",
+      "translation": "龍 / 龍王",
+      "sanskrit": "nāga",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "此處指大力惡龍一類眾生。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "e969ca0d-3bfe-4c0d-896d-aff0aee0d365",
+      "original": "གདོན",
+      "translation": "鬼神 / 障礙鬼神",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "障礙性鬼類，類近餓鬼、惡鬼等。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "084ed5e5-497f-4af7-adb4-9d79fc7691b7",
+      "original": "ཁྱུང་གི་ཏིང་ངེ་འཛིན",
+      "translation": "大鵬鳥三摩地",
+      "sanskrit": "garuḍa-samādhi",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "安住於迦樓羅觀行之等持。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "83fc79b9-779e-4dbb-af64-a3ee6eed3122",
+      "original": "ཏིང་ངེ་འཛིན",
+      "translation": "三摩地 / 等持",
+      "sanskrit": "samādhi",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "ecb72dc1-2d7d-4790-b321-57433901582b",
+      "original": "དཔག་ཏུ་མེད་པའི་བསྐལ་པ",
+      "translation": "不可思議劫",
+      "sanskrit": "asaṃkhya-kalpa",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "原文作「དཔག་ཏུ་མེད་པའི་གོང་རོལ་དུ」，為阿僧祇劫之意。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "2d916e09-11de-4e4a-a1a7-194799913b6f",
+      "original": "འཁོར་ལོ་བསྒྱུར་བའི་རྒྱལ་པོ",
+      "translation": "轉輪王",
+      "sanskrit": "cakravartin-rāja",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "具足七寶、轉法輪之聖王。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "03fd7f9f-e5a8-46c4-a67b-307b7e2511ce",
+      "original": "བྱང་ཆུབ",
+      "translation": "菩提",
+      "sanskrit": "bodhi",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "覺悟、正等覺。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "b47c11ba-9534-4c4f-b380-422875fe93e2",
+      "original": "བྱང་ཆུབ་མཆོག",
+      "translation": "究竟菩提",
+      "sanskrit": "anuttarā bodhi",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "無上正等覺。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "5e994382-e122-4392-9149-bcf040d46a28",
+      "original": "སངས་རྒྱས་སྟོང",
+      "translation": "千佛",
+      "sanskrit": "sahasra-buddha",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "此處語境為賢劫千佛。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "6f9268c1-36dc-4c39-bc50-12e53c51e254",
+      "original": "སངས་རྒྱས་སྟོང་གི་ཞིང་ཁམས",
+      "translation": "千佛剎土",
+      "sanskrit": "sahasra-buddha-kṣetra",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "由千佛所成就之諸佛國土總稱。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "d6132231-efee-4236-b86b-c2c5e8ff8fa8",
+      "original": "སེམས་དཔའ",
+      "translation": "勇士 / 菩薩",
+      "sanskrit": "sattva / vīra",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "在大乘常以勇士指菩薩。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "50a845dc-9e47-4723-82cb-a3fff43bb991",
+      "original": "སེམས་དཔའ་སྟོང་གི་ཞིང་ཁམས",
+      "translation": "千佛剎土（疑作「千勇士之剎土」）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "疑為「千佛剎」之異寫，與譯文解釋相應。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "859899f9-f7f5-478f-a4f7-a746642ba064",
+      "original": "སར་གནས",
+      "translation": "登地菩薩",
+      "sanskrit": "bhūmi-prāpta bodhisattva",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "字面「住於地」，此處特指已登菩薩地者。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "e5214fcc-d67a-4a37-a1b2-edfa14441440",
+      "original": "སྨོན་ལམ",
+      "translation": "發願 / 祈願",
+      "sanskrit": "praṇidhāna / praṇidhāna-prārthanā",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "菩薩之大願。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "594d88a3-83c6-45fe-a757-2c6574b2a0f3",
+      "original": "བསྐལ་བ་བཟང་པོ",
+      "translation": "賢劫",
+      "sanskrit": "bhadra-kalpa",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "現有千佛出世之劫。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "2decf76c-0fc3-422e-a308-0c808c4605cd",
+      "original": "བསྟན་པ",
+      "translation": "教法",
+      "sanskrit": "śāsana / dharma",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "佛之教法住世。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "ccf6c526-fd3b-45de-a85c-6f2d6389ca79",
+      "original": "དེ་བཞིན་གཤེགས་པ",
+      "translation": "如來",
+      "sanskrit": "tathāgata",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "佛之十號之一。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "5895eae6-d7d5-4e29-a0f6-6254065780ce",
+      "original": "གཙུག་ཏོར",
+      "translation": "頂髻",
+      "sanskrit": "uṣṇīṣa / śikhā",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "佛相之一，此處入佛號構成語。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
+    },
+    {
+      "id": "3af02ca2-dba6-4223-b2ea-5b4fd29f6e25",
+      "original": "གཙུག་ཏོར་མི་ཟད་པ་ཡེ་ཤེས་འོད་ཟེར་འབྱུང་གནས",
+      "translation": "無盡頂髻本初智光源如來",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "佛號，具體對應梵名待勘。",
+      "added_at": "2026-02-27T16:27:57.979Z",
+      "source_article": "大鵬鳥的由來與智慧大鵬鳥的發願因緣"
     }
   ]
 }
