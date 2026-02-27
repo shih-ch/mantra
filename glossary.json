@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T16:20:32.664Z",
+  "updated_at": "2026-02-27T16:23:25.432Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -4593,6 +4593,160 @@
       "notes": "",
       "added_at": "2026-02-27T16:20:32.663Z",
       "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "cd6abc63-3316-4204-a26d-a26215383aca",
+      "original": "ЧОКИ НИМА РИНПОЧЕ",
+      "translation": "秋吉尼瑪仁波切（隱含於文中作為作者）",
+      "sanskrit": "ཆོས་ཀྱི་ཉི་མ་རིན་པོ་ཆེ་ (Chokyi Nyima Rinpoche)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "藏傳佛教上師名號，意為「法日仁波切」",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "9d06e1d0-769d-4d38-bb1c-f81aae19aad1",
+      "original": "будд, повелителей трех времен",
+      "translation": "三世諸佛",
+      "sanskrit": "त्रिकालबुद्ध (trikāla-buddha)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "指過去、現在、未來三世一切佛",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "96e070f0-d15b-4ba4-ad3b-801be1a315e3",
+      "original": "Дхармы решающего смысла",
+      "translation": "決定義之法 / 究竟義之法",
+      "sanskrit": "नितार्थ धर्म (nītārtha-dharma)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "指究竟無餘、決定義的正法或真諦",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "2682ebc9-64bf-47d1-a967-22c2bef7eeb7",
+      "original": "Сугатагарбха",
+      "translation": "如來藏",
+      "sanskrit": "सुगतगर्भ (sugatagarbha)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "又作佛性、如來藏，眾生本具之佛德",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "6da3ae3d-39b0-4b96-b47d-9575fa1467a9",
+      "original": "эго-цепляния",
+      "translation": "我執、我愛",
+      "sanskrit": "आत्मग्रह (ātma-graha) / अहंकार (ahaṃkāra)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "指對「我」與「我所」的執著",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "ee354dca-43ce-4441-ae74-4a990292feec",
+      "original": "Гуру",
+      "translation": "上師",
+      "sanskrit": "गुरु (guru)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "特指具證悟的傳法導師",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "65ca8119-2fcb-4f86-ae13-5129ea006e45",
+      "original": "медитирующего и объект его медитации",
+      "translation": "禪修之人與禪修對境",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "屬禪觀中能觀與所觀二執的對舉",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "06c83a27-aa93-4eb9-9a70-eac3a56668a5",
+      "original": "воззрение, медитацию и действие",
+      "translation": "見地、禪修與行為",
+      "sanskrit": "दृष्टि, ध्यान, आचार (dṛṣṭi, dhyāna, ācāra)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "藏傳常說「見、修、行」的三要",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "7d022aa7-d99a-4447-865a-5e5524b6462e",
+      "original": "Дхармакаи",
+      "translation": "法身",
+      "sanskrit": "धर्मकाय (dharmakāya)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "佛三身中的法身，究竟清淨之身",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "73b45480-a9c7-4a7e-a973-f80a5594c25d",
+      "original": "коренного гуру",
+      "translation": "根本上師",
+      "sanskrit": "मूलगुरु (mūlaguru)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "對自己最初或最主要傳法之師的稱呼",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "41a08c89-1c2e-4188-9f64-019111b79708",
+      "original": "Ступой Махабодхи",
+      "translation": "摩訶菩提大塔",
+      "sanskrit": "महाबोधि स्तूप (Mahābodhi stūpa)",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "指菩提伽耶之大菩提塔",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "3c3b7ba6-71b7-42c9-9ad8-6d15381e9467",
+      "original": "Ваджрного Трона",
+      "translation": "金剛座",
+      "sanskrit": "वज्रासन (vajrāsana)",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "佛於菩提伽耶成道之處，名金剛座",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "00712f46-e613-4437-aaa3-21eadecc76b9",
+      "original": "Учитель",
+      "translation": "導師（釋迦牟尼佛）",
+      "sanskrit": "शास्तृ / śास्ता (śāstā)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "此處特指釋迦牟尼佛，於彼處成就無上正等覺",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
+    },
+    {
+      "id": "f7bdfcce-9239-4b3e-9444-dffac8f25458",
+      "original": "Дхарма Сурья",
+      "translation": "達摩蘇利亞",
+      "sanskrit": "Dharma Sūrya",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "作者自署名號，「法日」之意",
+      "added_at": "2026-02-27T16:23:25.432Z",
+      "source_article": "自性本具覺悟之自發祈願頌"
     }
   ]
 }
