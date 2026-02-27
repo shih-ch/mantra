@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T08:27:15.822Z",
+  "updated_at": "2026-02-27T10:26:51.334Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -3711,6 +3711,326 @@
       "notes": "指佛果、成佛之究竟境界。",
       "added_at": "2026-02-27T08:27:15.822Z",
       "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "c0ceb267-3d90-42df-97ad-829e8d497807",
+      "original": "Гуру-йога",
+      "translation": "上師相應（法）",
+      "sanskrit": "guru‑yoga",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "c86ffe54-f237-4ad1-a1be-9b92857947a9",
+      "original": "Дзогчен",
+      "translation": "大圓滿",
+      "sanskrit": "rdzogs chen (Tib.)",
+      "category": "concept",
+      "notes": "亦作「究竟圓滿」「大圓滿乘」",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "bf93e26e-b667-457b-8e3d-1fb8ed095b56",
+      "original": "Песня Ваджры",
+      "translation": "《金剛歌》",
+      "sanskrit": "",
+      "category": "text",
+      "notes": "指大圓滿傳統中的金剛歌（rdo rje'i glu）",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "91ccb519-2974-4735-b5a6-efd7255257e3",
+      "original": "мандала",
+      "translation": "壇城",
+      "sanskrit": "maṇḍala",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "d464e0d4-93b2-4161-9905-a1a90d060f1d",
+      "original": "Гуру Падмасамбхава",
+      "translation": "上師蓮花生",
+      "sanskrit": "Padmasambhava",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "9a683c43-fe50-4bbb-a071-a9a067b92904",
+      "original": "Ваджракила",
+      "translation": "金剛橛",
+      "sanskrit": "Vajrakīla / Vajrakīlaya",
+      "category": "deity",
+      "notes": "忿怒本尊金剛橛",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "1323f4de-6a79-47e9-a21d-3e342635fe33",
+      "original": "Йеше Цогьял",
+      "translation": "益西措嘉",
+      "sanskrit": "Ye shes mtsho rgyal (Tib.)",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "ff286756-89f5-4f82-9122-ebfcfb9d92cc",
+      "original": "ретрит",
+      "translation": "閉關",
+      "sanskrit": "",
+      "category": "practice",
+      "notes": "佛教修行閉關之意",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "9deef104-8103-4baf-b20d-2852ad171e74",
+      "original": "Сутра",
+      "translation": "顯教經藏（修多羅）",
+      "sanskrit": "sūtra",
+      "category": "text",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "511c10c2-d24d-45c8-87af-bd0952ad50a0",
+      "original": "самайя",
+      "translation": "三昧耶",
+      "sanskrit": "samaya",
+      "category": "concept",
+      "notes": "密乘誓願",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "b01d1778-1e7f-4739-a000-8bc8fa27ab43",
+      "original": "сансара",
+      "translation": "輪迴",
+      "sanskrit": "saṃsāra",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "66b2d477-4056-4708-9b35-bb2c5c43920b",
+      "original": "Будда Шакьямуни",
+      "translation": "釋迦牟尼佛",
+      "sanskrit": "Śākyamuni Buddha",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "badc6770-28f1-4b13-b785-29d6316d9856",
+      "original": "бодхисаттвы",
+      "translation": "菩薩",
+      "sanskrit": "bodhisattva",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "3518d5a3-3a9a-4bd2-8f40-fe76a20d6080",
+      "original": "Махамудра",
+      "translation": "大手印",
+      "sanskrit": "mahāmudrā",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "cea55535-cc6d-4264-a284-f72faed8a5fd",
+      "original": "Дхарма",
+      "translation": "法、佛法",
+      "sanskrit": "dharma",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "1d15a966-6e23-41b2-b238-049ea2f7ecd7",
+      "original": "Дхармы Будды",
+      "translation": "佛陀之法、佛法",
+      "sanskrit": "buddha‑dharma",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "71ce9ea1-8dc0-478b-8c19-20509e722e20",
+      "original": "чиг ше кун дрол",
+      "translation": "chig shé kun dröl（知一解一切）",
+      "sanskrit": "gcig shes kun grol (Tib.)",
+      "category": "concept",
+      "notes": "大圓滿術語",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "d0f9456f-458c-4915-81c6-cffbfa37b85a",
+      "original": "Далай-лама",
+      "translation": "達賴喇嘛",
+      "sanskrit": "Dalai Lama (Tib.)",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "761ec373-95a0-45fe-ad3a-8d1fd8ff6190",
+      "original": "Сарнатх",
+      "translation": "鹿野苑",
+      "sanskrit": "Sārnāth",
+      "category": "place",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "f3cfce69-a635-4a86-96a8-49a9777df11f",
+      "original": "нингма",
+      "translation": "寧瑪派",
+      "sanskrit": "rnying ma (Tib.)",
+      "category": "concept",
+      "notes": "藏傳佛教四大教派之一",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "126b3d04-275d-4ee4-89d4-bf1a584378a0",
+      "original": "сакья",
+      "translation": "薩迦派",
+      "sanskrit": "sa skya (Tib.)",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "da8c0832-de19-44d9-b54c-de17d45fb00e",
+      "original": "кагью",
+      "translation": "噶舉派",
+      "sanskrit": "bka' brgyud (Tib.)",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "fca7a89f-06aa-42dc-b9bf-a9b0c5224a5b",
+      "original": "гелугпа",
+      "translation": "格魯派",
+      "sanskrit": "dge lugs pa (Tib.)",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "967e295b-4774-485f-8367-d0fabee24fe5",
+      "original": "Чиме Ринпоче",
+      "translation": "赤美仁波切",
+      "sanskrit": "Chime Rinpoche (Tib.)",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "07021acf-9d82-457d-84c1-af6cef5d9825",
+      "original": "тулку",
+      "translation": "轉世祖古（化身）",
+      "sanskrit": "sprul sku (Tib.)",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "883e11d8-ab09-4a9c-bd51-dec7620381d9",
+      "original": "белом А",
+      "translation": "白色的「阿」（ཨ）",
+      "sanskrit": "a (Tib. seed syllable)",
+      "category": "concept",
+      "notes": "大圓滿中象徵本初狀態之種子字",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "e4524e46-caf7-48b9-bf0a-a68699433e22",
+      "original": "кунту йижин норбу",
+      "translation": "昆都益津諾布（統攝一切、成就所願之寶）",
+      "sanskrit": "kun tu yid bzhin nor bu (Tib., tentative)",
+      "category": "concept",
+      "notes": "原文音寫，應為「一切如意寶」義",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "8683c9fa-006c-47ae-9c46-6d4c250b2c82",
+      "original": "Гараба Дордже",
+      "translation": "伽拉巴多傑",
+      "sanskrit": "Garab Dorje (Tib. dGa' rab rdo rje)",
+      "category": "person",
+      "notes": "大圓滿初祖",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "73b2a885-72b8-4cb2-ae91-7feb9863c533",
+      "original": "йидам",
+      "translation": "本尊",
+      "sanskrit": "iṣṭa‑deva / yi dam (Tib.)",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "ea533502-e027-4530-a0b8-4bb352a714d2",
+      "original": "херука",
+      "translation": "赫魯迦（忿怒本尊）",
+      "sanskrit": "heruka",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "5cc373b1-20d8-41fe-8e16-c472989a8863",
+      "original": "дакини",
+      "translation": "空行（女空行）",
+      "sanskrit": "ḍākinī",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "43ff67a2-d8e1-4fd2-aca2-b001d44601f1",
+      "original": "Ваджрапани",
+      "translation": "金剛手",
+      "sanskrit": "Vajrapāṇi",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-27T10:26:51.334Z",
+      "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
     }
   ]
 }
