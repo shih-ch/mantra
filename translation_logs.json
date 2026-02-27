@@ -259,5 +259,25 @@
         "instruction": "這只是歌詞不用用祈願文格式，直接給翻譯"
       }
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "article": "2026-02-27",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": true,
+      "fiveColumnScope": "僅偈頌與咒語",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "IAST",
+      "onlyVerseMantra": true,
+      "proofreadMode": "off",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
