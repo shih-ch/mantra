@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T08:18:18.437Z",
+  "updated_at": "2026-02-27T08:27:15.822Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -3611,6 +3611,106 @@
       "notes": "依普賢十大願王之行持回向。",
       "added_at": "2026-02-27T08:18:18.437Z",
       "source_article": "藏巴拉水供法之咒語音義與觀想節錄"
+    },
+    {
+      "id": "48f5ad83-86d0-4a52-a5f2-508d9120099c",
+      "original": "Абсолютно Чистой Сути",
+      "translation": "絕對清淨本質",
+      "sanskrit": "",
+      "category": "concept",
+      "notes": "指究竟、絕對之清淨實相，可對應般若中所說法性、實相等義；未見固定專名，故不強配梵文。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "405da29b-ceaa-45ce-8147-06675a2ed87a",
+      "original": "Гендюн Ринпоче",
+      "translation": "更敦仁波切",
+      "sanskrit": "",
+      "category": "person",
+      "notes": "藏傳噶舉派上師，一般轉寫為 Gendün Rinpoche 或 Gendun Rinpoche。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "f304abad-5ec6-45c8-840f-9b91c58d9267",
+      "original": "правильного воззрения",
+      "translation": "正確見地",
+      "sanskrit": "samyag-dṛṣṭi",
+      "category": "concept",
+      "notes": "即「正見」，八正道之一。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "15c13a8c-a92b-411a-9ae2-6ef2e334d981",
+      "original": "медитация / медитаций",
+      "translation": "禪修",
+      "sanskrit": "dhyāna / bhāvanā",
+      "category": "practice",
+      "notes": "此處泛指禪定、修心之實修。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "67d6f4a7-77f5-4abc-90a8-5e0403b0bf7b",
+      "original": "плод",
+      "translation": "果位",
+      "sanskrit": "phala",
+      "category": "concept",
+      "notes": "指修行圓滿後的證果、多為菩提或佛果。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "1189c92c-b8f3-43b7-9e62-9f3199ba3a79",
+      "original": "пустоте ума",
+      "translation": "心的空性",
+      "sanskrit": "citta-śūnyatā",
+      "category": "concept",
+      "notes": "指心之空性、本空之義。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "c28bfd7f-036f-4b1d-96b1-c02d292b457a",
+      "original": "природа ума",
+      "translation": "心之本性",
+      "sanskrit": "citta-svabhāva",
+      "category": "concept",
+      "notes": "藏傳多指「心性」「本覺」，與如來藏、法身等義相近。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "cb61d533-48cd-4246-9ea8-8505e00dc910",
+      "original": "уровни и пути",
+      "translation": "階位與諸道",
+      "sanskrit": "bhūmi-caryā / bhūmi-mārga",
+      "category": "concept",
+      "notes": "泛指諸修行階位與道次第，如聲聞、菩薩諸地與五道等。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "45bdf5d3-8a50-41dc-be43-2280820c9012",
+      "original": "путь Будды",
+      "translation": "佛陀之道",
+      "sanskrit": "buddha-mārga",
+      "category": "concept",
+      "notes": "指成佛之道、佛道。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
+    },
+    {
+      "id": "d8aca430-b211-42ab-bec6-7d877031ef5f",
+      "original": "состояние Будды",
+      "translation": "佛陀境界",
+      "sanskrit": "buddhatva / buddha-bhūmi",
+      "category": "concept",
+      "notes": "指佛果、成佛之究竟境界。",
+      "added_at": "2026-02-27T08:27:15.822Z",
+      "source_article": "絕對清淨本質之短歌"
     }
   ]
 }
