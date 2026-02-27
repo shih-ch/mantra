@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T10:26:54.139Z",
+  "updated_at": "2026-02-27T16:20:32.664Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -4351,6 +4351,248 @@
       "notes": "",
       "added_at": "2026-02-27T10:26:54.139Z",
       "source_article": "大圓滿中的上師相應：發現自性與護持傳承之鑰"
+    },
+    {
+      "id": "0d0f6e29-ace2-4a66-a958-81e9f5c5738f",
+      "original": "ГУРУ-ЙОГА",
+      "translation": "上師瑜伽",
+      "sanskrit": "guru-yoga (sa.)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "c756d2c9-ee4e-46b8-b32d-dd9507cd2a8a",
+      "original": "НАМКАЙ НОРБУ РИНПОЧЕ",
+      "translation": "南開諾布仁波切",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "藏傳佛教大圓滿導師 Namkhai Norbu Rinpoche",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "85437b3a-2b00-439f-9437-61613de88736",
+      "original": "белого А",
+      "translation": "白「阿」",
+      "sanskrit": "ཨ་ (tib. A)",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "此處為大圓滿中本尊種子字之觀修重點，亦可視作修法核心要素",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "06742cb5-7bdd-423b-bac1-5f5a1ac3cbae",
+      "original": "бардо дхарматы",
+      "translation": "法性中陰",
+      "sanskrit": "dharmatā-bardo (tib. chos nyid bar do)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "2b4b9444-4f50-40b8-bcca-7921bee4c162",
+      "original": "тигле",
+      "translation": "滴",
+      "sanskrit": "thig le (tib.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "亦譯「明點」「靈滴」",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "f994343c-cedc-4a66-9bb0-e7563effdba2",
+      "original": "тантрийского учения",
+      "translation": "金剛乘教法",
+      "sanskrit": "vajrayāna (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "c274ca8a-945c-4cd4-bb0e-0afd58b4b189",
+      "original": "«Тибетской книге мертвых»",
+      "translation": "《西藏度亡書》",
+      "sanskrit": "Bardo Thödol (tib. bar do thos grol)",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "5e3e9da4-ea9c-4721-a8ba-d987786a94a5",
+      "original": "самбхогакая",
+      "translation": "報身",
+      "sanskrit": "saṃbhogakāya (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "7983ec5c-e098-45bb-97c8-7fe9fda6cb02",
+      "original": "мандалы мирных и гневных божеств",
+      "translation": "寂靜與忿怒本尊曼荼羅",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "指寂靜尊與忿怒尊之曼荼羅總集；單獨「曼荼羅」為 maṇḍala",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "61924e8e-f4b1-412c-b079-04763693f44a",
+      "original": "бардо становления",
+      "translation": "有成中陰",
+      "sanskrit": "sidpa bardo (tib. srid pa bar do)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "亦譯「成有中陰」",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "1bad96ea-3ba2-4447-a614-c39a2fefb1ca",
+      "original": "Дзогчен",
+      "translation": "大圓滿",
+      "sanskrit": "Dzogchen (tib. rdzogs chen)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "亦譯「究竟圓滿乘」「大圓滿法」",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "a38b009f-b058-4326-87d3-01d8076b35d1",
+      "original": "Самантабхадры",
+      "translation": "普賢王如來",
+      "sanskrit": "Samantabhadra (sa.)",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "大圓滿本初佛",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "45955fb3-2a6f-46a3-a08b-2960a1475a02",
+      "original": "три кай",
+      "translation": "三身",
+      "sanskrit": "trikāya (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "a9566230-8de5-4602-ac4c-f78baa77f7c0",
+      "original": "дхармакаи",
+      "translation": "法身",
+      "sanskrit": "dharmakāya (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "c1c34d66-65d3-4214-b6d0-d8da170b65ce",
+      "original": "самбхогакаи",
+      "translation": "報身",
+      "sanskrit": "saṃbhogakāya (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "4a1f7291-487a-4479-9485-85dd822d8d9d",
+      "original": "нирманакаи",
+      "translation": "化身",
+      "sanskrit": "nirmāṇakāya (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "a56f4346-f0b9-4f1d-9da3-679ecac2a3ca",
+      "original": "состояния дхарматы",
+      "translation": "法性的狀態",
+      "sanskrit": "dharmatā (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "f11f5bbc-b997-470f-b413-3b1dd67c4b53",
+      "original": "Ати-йогу",
+      "translation": "阿底瑜伽",
+      "sanskrit": "Ati-yoga (tib. a ti yo ga)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "寧瑪派九乘中最高乘，與大圓滿關聯",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "35e91748-51f6-4674-b95e-5523c54667c2",
+      "original": "Гараб Дордже",
+      "translation": "伽拉巴多傑",
+      "sanskrit": "Garab Dorje (tib. dga' rab rdo rje)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "大圓滿第一位人間祖師",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "cc8932f5-fd57-46f5-a162-168af90da043",
+      "original": "коренной учитель Дзогчена",
+      "translation": "大圓滿根本上師",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "此處指伽拉巴多傑之身分稱謂",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "b2b675d9-b16a-4a46-a6f9-83643a3f964d",
+      "original": "клеша",
+      "translation": "煩惱",
+      "sanskrit": "kleśa (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
+    },
+    {
+      "id": "60246174-2d87-44c5-90a9-fbfcc412ace4",
+      "original": "нирваной",
+      "translation": "涅槃",
+      "sanskrit": "nirvāṇa (sa.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-02-27T16:20:32.663Z",
+      "source_article": "臨終安住白「阿」與上師瑜伽的實修開示"
     }
   ]
 }
