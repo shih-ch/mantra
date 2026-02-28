@@ -533,5 +533,34 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-02-28",
+    "article": "2026-02-28",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "IAST",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "咒語的轉寫改成wylie"
+      },
+      {
+        "type": "other",
+        "instruction": "完整版"
+      }
+    ]
   }
 ]
