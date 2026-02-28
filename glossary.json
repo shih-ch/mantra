@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-28T08:38:35.704Z",
+  "updated_at": "2026-02-28T09:01:14.819Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -6441,6 +6441,248 @@
       "notes": "Tib. nam mkha’i nor bu rin po che，寧瑪/大圓滿傳承上師",
       "added_at": "2026-02-28T08:38:35.703Z",
       "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "ab5f2b8d-9d69-46c1-8ff4-853f9bc609ff",
+      "original": "ཆགས་མེད་རི་ཆོས",
+      "translation": "無執著〈山中法〉（山中法）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "Горная Дхарма；Karma Chakme 所作修法總集，藏傳噶舉派重要著作。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "58c128b7-23da-4f26-979e-b9548fbd8bc6",
+      "original": "སྨན་བླ་ཟབ་ཆད་མ་ (Забчема)",
+      "translation": "藥師佛深密療癒（扎切瑪）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "出自《無執著〈山中法〉》的藥師佛專修法門。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "50f54fee-9f55-4ecd-a30d-48db00f4efac",
+      "original": "སྨན་བླ",
+      "translation": "藥師佛（療醫之主）",
+      "sanskrit": "Bhaiṣajya‑guru",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "亦譯作「療醫之尊、療醫之主」，即藥師如來、藥師佛。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "e8f4be1c-4b7d-4322-ae0d-a76784ee7d89",
+      "original": "Бхайшаджья‑Гуру, Владыки Лекарей",
+      "translation": "藥師佛——療醫之主",
+      "sanskrit": "Bhaiṣajya‑guru",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "俄文音寫與解說，指同一尊藥師佛。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "4950bfee-d656-4ebd-a974-d1d1ab103c1e",
+      "original": "སངས་རྒྱས་སྨན་གྱི་བླ",
+      "translation": "佛陀藥師王",
+      "sanskrit": "Bhaiṣajya‑guru",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "「佛陀藥師王」或「藥師佛」。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "709f0abc-892d-4a4e-b32e-2633f9604864",
+      "original": "བཻ་ཌཱུརྱ་སྣང་ཞིང་ཁམས",
+      "translation": "琉璃光明剎土（藥師琉璃淨土）",
+      "sanskrit": "Vaiḍūrya‑prabhā buddha‑kṣetra",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "藥師佛的琉璃光淨土，位於東方。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "aa356a60-233b-4697-8e5a-382dfcf85660",
+      "original": "བཻ་ཌཱུརྱ་འོད་ཀྱི་རྒྱལ་པོ",
+      "translation": "琉璃光照耀之王",
+      "sanskrit": "Vaiḍūrya‑prabhā‑rāja",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "藥師佛全名的一部分，強調其琉璃光王之德。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "e641acef-44e0-454f-bbc0-ca23d680c9c2",
+      "original": "Бхайшаджья‑гуру‑вайдурья‑прабха‑раджа",
+      "translation": "藥師佛——琉璃光照耀之王",
+      "sanskrit": "Bhaiṣajya‑guru‑Vaiḍūrya‑prabhā‑rāja",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "藥師佛之全名，意為「醫藥上師・琉璃光王」。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "56f65d42-ce95-4bc5-bc20-f7e37c4be07e",
+      "original": "བཅོམ་ལྡན",
+      "translation": "薄伽梵",
+      "sanskrit": "Bhagavat",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "佛陀聖號之一，意為「具足功德尊」。此處用於稱呼藥師佛。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "da56b2b1-b034-4600-9d23-1fa4ff72902e",
+      "original": "སངས་རྒྱས",
+      "translation": "佛陀",
+      "sanskrit": "Buddha",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "覺者，已徹底證悟者。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "bf4da723-daf7-4501-b4b5-5e49025868af",
+      "original": "སྨོན་ལམ",
+      "translation": "願、祈願",
+      "sanskrit": "praṇidhāna / praṇidhāna‑praṇāma",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "此處指藥師佛過去所發諸大願。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "9222a170-5bdd-4b9f-b434-f37496e135da",
+      "original": "སྔོན་སྨོན་ལམ་ཆེན་པོ་བཅུ་གཉིས",
+      "translation": "先所立十二大願",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "藥師琉璃光如來成佛前所發十二大願。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "8d65f213-1057-455f-a319-c6abdcf9a7c7",
+      "original": "ཏདྱ་ཐཱ། ཨོྃ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ་མ་ཧཱ་བྷཻ་ཥ་ཛྱེ་རཱ་ཛ་ས་མུདྒ་ཏེ་སྭ་ཧཱ།",
+      "translation": "爹雅他 嗡 貝夏傑 貝夏傑 瑪哈 貝夏傑 拉札 薩木達給 莎哈",
+      "sanskrit": "tadyathā oṃ bhaiṣajya bhaiṣajya mahā bhaiṣajya rāja samudgate svāhā",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "通行藥師佛心咒。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "e1236dea-3e12-4b8f-a7d3-7435750ad1ba",
+      "original": "ནད་སརྦ་ཤཱནྟིཾ་ཀུ་རུ་སྭ་ཧཱ།",
+      "translation": "願一切疾病安息，成辦吧，莎哈",
+      "sanskrit": "nad sarva śāntiṃ kuru svāhā",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "「息除諸病」祈請句，噶瑪恰美於心咒之後加說。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "1f0e9dbd-32c2-4603-a4df-196705f689e3",
+      "original": "nad",
+      "translation": "疾病（作為咒語成分）",
+      "sanskrit": "nad (tib.)",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "藏語「ནད」插入梵文咒語中，特指一切疾病。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "73f52db4-6360-45e2-8f1a-2bea15eca41e",
+      "original": "སྨན་མདོ་རྒྱས་བསྡུས",
+      "translation": "長、中《藥師經》（廣說、略說藥師經）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "總稱長、中兩部藥師佛經典。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "a6c68bd2-9539-4e40-8c9f-b3a76167b1df",
+      "original": "bai DUr+ya’i ’od kyi sngon gyi smon lam gyi khyad par rgyas pa’i mdo",
+      "translation": "《廣說藥師琉璃光如來先所發殊勝願經》",
+      "sanskrit": "Bhagavat‑Bhaiṣajya‑guru‑Vaiḍūrya‑prabhāsya pūrva‑praṇidhāna‑viśeṣa‑vistara",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "德格大藏 D 504，藥師佛主要根本經之一。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "33ec7090-0eb6-4ed0-8e28-e7f413b59be4",
+      "original": "bai DUr+ya’i ’od gyi gzungs",
+      "translation": "《琉璃光名如來力現三摩地陀羅尼》",
+      "sanskrit": "Tathāgata‑Vaiḍūrya‑prabhā‑nāma‑balādhāna‑samādhi‑dhāraṇī",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "德格大藏 D 505，與藥師佛相關之陀羅尼經。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "5b7fe752-31ab-4e7c-95fb-3ebd7f1b9fcb",
+      "original": "Горная Дхарма",
+      "translation": "《山中法》（山之法）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "Karma Chagme 之著作；藏名前段為「རི་ཆོས」一系。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "2e712eb8-6e9d-4fcf-b15a-93bc2b6ac632",
+      "original": "Карма Чагме (噶瑪恰美)",
+      "translation": "噶瑪恰美尊者",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "Karma Chagme Rinpoche，17 世紀噶舉派大德。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "d8f226c9-148b-4613-83cf-8271c7c09ec1",
+      "original": "Кхенпо Пема Намгьяла",
+      "translation": "堪布貝瑪南加",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "當代寧瑪派堪布，為本文題名作口傳解說。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
+    },
+    {
+      "id": "2e2f7bc0-c8e3-4106-b64b-2e650cc73b44",
+      "original": "Будда Медицины",
+      "translation": "藥師佛（醫藥佛）",
+      "sanskrit": "Bhaiṣajya‑guru (Bhaiṣajya‑rāja)",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "俄文通稱，對應藥師琉璃光如來。",
+      "added_at": "2026-02-28T09:01:14.819Z",
+      "source_article": "無執著《山中法》中藥師佛深密療癒實修偈頌"
     }
   ]
 }
