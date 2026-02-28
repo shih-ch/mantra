@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-27T16:34:34.879Z",
+  "updated_at": "2026-02-28T08:38:35.704Z",
   "terms": [
     {
       "id": "f5b6fc29-fd07-4502-939e-576d842ea6bf",
@@ -6265,6 +6265,182 @@
       "notes": "吉祥、勝利、順遂之義。",
       "added_at": "2026-02-27T16:34:34.879Z",
       "source_article": "藏巴拉水供法觀想與觀空咒逐句對照"
+    },
+    {
+      "id": "59841d01-d8ca-4336-a464-ff64465d0a1c",
+      "original": "йидам",
+      "translation": "本尊",
+      "sanskrit": "यिदम / iṣṭadevatā (Tib. yi dam)",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "9b173f6a-7de4-4d38-a82c-c74428a84371",
+      "original": "стадии зарождения",
+      "translation": "生起次第",
+      "sanskrit": "उत्पत्तिक्र्म / उत्पत्ति-क्रम (utpatti-krama)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "49d2759c-34bd-4fbc-96f4-019778fd1186",
+      "original": "махамудра",
+      "translation": "大手印",
+      "sanskrit": "महामुद्रा (mahāmudrā)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "ce34cbbb-089e-475f-a26b-c257e548d787",
+      "original": "посвящение",
+      "translation": "灌頂",
+      "sanskrit": "अभिषेक (abhiṣeka)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "efb19be6-caac-49b2-bbe8-265633e568d3",
+      "original": "Крия-тантры",
+      "translation": "事部密續",
+      "sanskrit": "क्रीयातन्त्र (kriyā-tantra)",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "此處泛指事部類密續傳統，可視為續部類別",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "7689c18f-a6b6-4c38-8178-5bc598684fad",
+      "original": "лама",
+      "translation": "喇嘛",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "Tib. bla ma，指上師",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "eb9cd9be-3b1a-42c1-b100-873955e9cf81",
+      "original": "традиции сакьяпа / сакьяпа",
+      "translation": "薩迦派",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "Tib. sa skya pa，藏傳佛教一大教派",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "72e5d9d7-83d6-4e73-9de7-d0a8cd1213e1",
+      "original": "мантру Хеваджры",
+      "translation": "赫瓦加拉本尊的心咒",
+      "sanskrit": "हेवज्र मन्त्र (Hevajra mantra)",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "d3117066-5ace-49e0-b695-4347674cdcd6",
+      "original": "Хеваджра",
+      "translation": "赫瓦加拉",
+      "sanskrit": "हेवज्र (Hevajra)",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "0a52ef49-da23-487e-af01-28c809475e31",
+      "original": "созерцание",
+      "translation": "正觀的禪修",
+      "sanskrit": "विपश्यना (vipaśyanā)",
+      "language": "sanskrit",
+      "category": "practice",
+      "notes": "此處語境指通達實相的觀修",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "4b62853f-0b10-424d-b633-a85fe3ba626e",
+      "original": "йогины",
+      "translation": "瑜伽士",
+      "sanskrit": "योगिन् (yogin)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "9e043952-9c5b-49b7-92aa-d43c5dabbbbb",
+      "original": "Дерге",
+      "translation": "德格",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "place",
+      "notes": "Tib. sde dge，康區重要藏傳佛教重鎮",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "61b35124-ee48-4cdc-8e81-199586c3e6ea",
+      "original": "Самтэн Лодро",
+      "translation": "桑滇羅卓",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "Tib. bsam gtan blo gros（推測），薩迦派喇嘛",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "f76101c2-6f09-4693-b37c-8c3a26823dae",
+      "original": "Ямантаки",
+      "translation": "閻曼德迦",
+      "sanskrit": "यमान्तक (Yamāntaka)",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "c3ebada2-cbe6-4d7d-b5cc-fa06c0ea397d",
+      "original": "тантра Хеваджры",
+      "translation": "赫瓦加拉密續",
+      "sanskrit": "हेवज्र तन्त्र (Hevajra-tantra)",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
+    },
+    {
+      "id": "eddbcc75-b194-4363-b1e7-e5de526cf2fb",
+      "original": "Намкай Норбу Ринпоче",
+      "translation": "南開諾布仁波切",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "Tib. nam mkha’i nor bu rin po che，寧瑪/大圓滿傳承上師",
+      "added_at": "2026-02-28T08:38:35.703Z",
+      "source_article": "本尊變化修持中的錯誤與大手印的真正意義"
     }
   ]
 }
