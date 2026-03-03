@@ -1051,5 +1051,25 @@
         "instruction": "直接翻譯"
       }
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "article": "2026-03-02",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": true,
+      "fiveColumnScope": "僅偈頌與咒語",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": true,
+      "proofreadMode": "off",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
