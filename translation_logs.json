@@ -916,5 +916,30 @@
         "instruction": "不要顯示原文"
       }
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "article": "2026-03-02",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "這個沒有祈願文，請重新整理"
+      }
+    ]
   }
 ]
