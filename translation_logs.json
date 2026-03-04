@@ -1091,5 +1091,34 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-04",
+    "article": "白度母禪修儀軌（依圖丹秋卓仁波切教法改編）",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "請重新翻譯以下段落：\n\n**禪修：白度母**\n\n「什麼是白度母？白度母是佛陀的另一種化現；她的特殊功德是長壽。她為白色，象徵清淨一切疾病，以及招感疾病的一切惡業。她以金剛跏趺坐安住。她的手勢與綠度母相同：右手置於右膝上，作賜予殊勝成就之印，左手在心間執持優鉢羅花之花莖。對白度母，我們可以誦持與綠度母相同的心咒：OM TARE TUTTARE TURE SOHA（唵 達咧 吒咧 度咧 瑟哈）。此外，亦有一條專為白度母而誦持的咒語：OM TARE TUTTARE TURE MAMA AYUR PUNYE JÑĀNA PUṢṬIM KURU SOHA（唵 達咧 吒咧 度咧 瑪瑪 阿瑜爾 邦也 迦那 補希帝 庫嚕 瑟哈）。」\n\n（依據尊貴的圖丹秋卓仁波切於 2006 年 10 月 28、29 日在新加坡佛教中心「台北」所傳之教法改編）"
+      },
+      {
+        "type": "other",
+        "instruction": "你有參考原文嗎"
+      }
+    ]
   }
 ]
