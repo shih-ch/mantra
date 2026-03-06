@@ -1274,5 +1274,25 @@
         "instruction": "加入\n\n【附註/名相對照】\nВаджрное повторение / ваджрное дыхание → 金剛持誦／金剛呼吸\nТри Ваджры → 三金剛（身、語、意）\nпрана → 氣、生命能量（prāṇa）\nгуру-йога → 上師相應／上師瑜伽\nсемдзин (semdzin) → Semdzin（心持）（待考：具體漢譯仍視傳承）\nрушен (rus chen / ru shan（待考）) → Rushen（區分／預修）（待考：常譯「前分」「預修」，此處保留音譯）\n【疑點/勘誤】\n句 16 原文換行：\n\n片段：「Если」獨立成一行，下一行起「вы объединяете...」。\n疑點：應為同一句話中間的換行，而非句讀。\n建議：閱讀時視為「Если вы объединяете их со своим дыханием, ...」一整句理解。\nSemdzин / рушены 的具體藏文拼寫與既定漢譯：\n\n疑點：未在原文標明藏文。\n建議：暫以「Semdzin（心持）」「Rushen（區分／預修）」作音譯附簡註，詳細譯名需依傳承文本再校勘。\n採用此版本\n複製"
       }
     ]
+  },
+  {
+    "date": "2026-03-06",
+    "article": "2026-03-06",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
