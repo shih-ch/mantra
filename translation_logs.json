@@ -1466,5 +1466,34 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-06",
+    "article": "初十功德滅除一切痛苦略釋",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "埃馬吙\n古時翻為\n奇異哉\n修正後並加入註解"
+      },
+      {
+        "type": "other",
+        "instruction": "整合進第一版"
+      }
+    ]
   }
 ]
