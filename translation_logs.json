@@ -1314,5 +1314,38 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-06",
+    "article": "2026-03-06",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": true,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 4,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "正文的部份改為一般翻譯，其餘不變"
+      },
+      {
+        "type": "other",
+        "instruction": "正文是文章，直接翻譯，其餘不變"
+      },
+      {
+        "type": "other",
+        "instruction": "【偈頌/祈願文】改成多語格式，其餘不變"
+      }
+    ]
   }
 ]
