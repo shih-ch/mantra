@@ -1347,5 +1347,34 @@
         "instruction": "【偈頌/祈願文】改成多語格式，其餘不變"
       }
     ]
+  },
+  {
+    "date": "2026-03-06",
+    "article": "2026-03-06",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "正文的部份直接翻譯就好，其餘不變"
+      },
+      {
+        "type": "other",
+        "instruction": "正文的部份原文拿掉，其餘不變"
+      }
+    ]
   }
 ]
