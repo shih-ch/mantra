@@ -1681,5 +1681,46 @@
         "instruction": "\n梵音：om svabhawa shuddha sarva dharma svabhawa shuddho ham\n\n\n梵音：om kiri kiri nuhri neye svaha\n\n\n梵音：om ye dharma hetuprabawa hetunatekhan tathagato hyawadhata tekhan tsayo nirodha ehbam badhi mahashamana om atsinta zvalaye svaha\n\n\n梵音：om hri payma tagtrida vazra trodha hayagriwa huluhulu hum phet\n\n\n梵音：vazra dhunjo trignen zaza samaya sattva samaya za samaya dhog samaya jo\nsamaya tub samaya jer samaya bey samaya bey bue phet ya jungpo maraya zaza"
       }
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "article": "佛教修法常用咒語彙編與梵文解析",
+    "function": "translation",
+    "provider": "anthropic",
+    "model": "claude-opus-4-6",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 6,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "幫我把原文漢音補充進去其餘不變\n\n唵 森巴華 淑打 沙華 達瑪 森巴華 淑多 杏\n唵 奇里 奇里 努啥 尼易 疏哈\n唵 易 達瑪 喜都怕巴華 喜度那地近他達加杜 喜也華達他 地近 渣唷 尼路達 伊崩 巴迪 瑪哈殺瑪那 唵 阿線她 渣拉易 疏哈\n唵 舍 啤瑪 打車利達 班渣固達 哈也基華 呼盧 呼盧 吽 呸\n班渣 頓育 戚寧 渣渣 三瑪也薩華 三瑪也渣 三瑪也度 三瑪也棗 三瑪也督 三瑪也摘\n三瑪也碑 三瑪也碑布 呸也 仲波 瑪那也 渣渣"
+      },
+      {
+        "type": "other",
+        "instruction": "在翻一次"
+      },
+      {
+        "type": "other",
+        "instruction": "在翻一次"
+      },
+      {
+        "type": "other",
+        "instruction": "在翻一次"
+      },
+      {
+        "type": "other",
+        "instruction": "\n梵音：om svabhawa shuddha sarva dharma svabhawa shuddho ham\n\n\n梵音：om kiri kiri nuhri neye svaha\n\n\n梵音：om ye dharma hetuprabawa hetunatekhan tathagato hyawadhata tekhan tsayo nirodha ehbam badhi mahashamana om atsinta zvalaye svaha\n\n\n梵音：om hri payma tagtrida vazra trodha hayagriwa huluhulu hum phet\n\n\n梵音：vazra dhunjo trignen zaza samaya sattva samaya za samaya dhog samaya jo\nsamaya tub samaya jer samaya bey samaya bey bue phet ya jungpo maraya zaza"
+      }
+    ]
   }
 ]
