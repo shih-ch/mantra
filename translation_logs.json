@@ -1722,5 +1722,25 @@
         "instruction": "\n梵音：om svabhawa shuddha sarva dharma svabhawa shuddho ham\n\n\n梵音：om kiri kiri nuhri neye svaha\n\n\n梵音：om ye dharma hetuprabawa hetunatekhan tathagato hyawadhata tekhan tsayo nirodha ehbam badhi mahashamana om atsinta zvalaye svaha\n\n\n梵音：om hri payma tagtrida vazra trodha hayagriwa huluhulu hum phet\n\n\n梵音：vazra dhunjo trignen zaza samaya sattva samaya za samaya dhog samaya jo\nsamaya tub samaya jer samaya bey samaya bey bue phet ya jungpo maraya zaza"
       }
     ]
+  },
+  {
+    "date": "2026-03-08",
+    "article": "2026-03-08",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
