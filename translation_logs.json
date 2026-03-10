@@ -1867,5 +1867,25 @@
         "instruction": "這篇是文章 直接以正文編排，其餘不變"
       }
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "article": "2026-03-08",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
