@@ -1927,5 +1927,38 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-15",
+    "article": "2026-03-12",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 4,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "這是文章，只留翻譯其餘不變"
+      },
+      {
+        "type": "other",
+        "instruction": "不是，是前一版的俄文拿掉"
+      },
+      {
+        "type": "other",
+        "instruction": "把以下補上\n【咒語】\nом курукулла хум хрих сваха\n轉寫：oṃ kurukullā hūṃ hrīḥ svāhā（IAST）\n漢音：唵 庫嚕庫拉 吽 赫哩 梭哈\n繁體中文翻譯：唵 庫魯庫拉 吽 赫哩 娑哈。\n句義：祈請庫魯庫拉現前，成辦支配、攝受與愛召事業的心咒。\n\nом курукулла хрих сваха\n轉寫：oṃ kurukullā hrīḥ svāhā（IAST）\n漢音：唵 庫嚕庫拉 赫哩 梭哈\n繁體中文翻譯：唵 庫魯庫拉 赫哩 娑哈。\n句義：略去「吽」字之庫魯庫拉心咒形態，同樣用於請召、攝受與成辦事業。\n\nом курукулла хрим сваха\n轉寫：oṃ kurukullā hrīṃ svāhā（IAST）\n漢音：唵 庫嚕庫拉 赫林 梭哈\n繁體中文翻譯：唵 庫魯庫拉 赫林 娑哈。\n句義：FPMT 修法中所用之咒形，帶有攝受、轉變他心與利他事業之意。\n\n【疑點/勘誤】\n「Трайлокьявашакарини」\n\n疑點：梵語原形可能為 Trailokyavaśaṅkarī、Trailokyavaśa­kāriṇī 等，俄文轉寫未明示鼻音或語尾。\n建議：標示為「Trailokyavaśaṅkarī（待考）」或「Trailokyavaśakāriṇī（待考）」並保留原文名號以待校勘。\n「Собрание всех садхан」\n\n疑點：可能對應藏文《Sgrub thabs kun btus》（一切成就法集），但本文未標明。\n建議：現譯作《一切儀軌集》，於內加（待考），避免確定性斷言。\n「Друбтхаб гьяца」\n\n疑點：應為藏文 Grub thabs brgya rtsa（一百成就法），常譯《成就法百種》或《一百成就法》，俄文音寫略有出入。\n建議：暫譯為《成就法一百》（待考），並保留俄文名稱以利比對。\n書名「Красная Тара. Женская форма будды силы и магнетизма」\n\n疑點：中文書名尚無通行譯法。\n建議：暫譯為《紅度母：佛力與攝受之女性佛形》（待考），並標明原文書名。"
+      }
+    ]
   }
 ]
