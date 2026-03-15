@@ -2000,5 +2000,30 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-15",
+    "article": "2026-03-12",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "正文部份，原文拿掉，其餘不變"
+      }
+    ]
   }
 ]
