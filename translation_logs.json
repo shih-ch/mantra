@@ -2195,5 +2195,30 @@
         "instruction": "只留下中文翻譯其餘不變"
       }
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "article": "顯示佛法本質之教誡偈頌",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "只留下中文翻譯其餘不變"
+      }
+    ]
   }
 ]
