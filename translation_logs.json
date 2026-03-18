@@ -2130,5 +2130,25 @@
         "instruction": "這是文章，請重新翻譯"
       }
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "article": "2026-03-16",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
