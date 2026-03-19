@@ -83,6 +83,11 @@ Sitsen Dogpa——秋吉林巴（Chokgyur Lingpa）所傳
 
 ---
 
+![650838593_1401834111988273_2050278609304619131_n.jpg](https://raw.githubusercontent.com/shih-ch/mantra/main/images/2026/03/650838593_1401834111988273_2050278609304619131_n_1773938138810.jpg)
+
+
+---
+
 <details>
 <summary>原文 (Original)</summary>
 
