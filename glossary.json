@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-19T16:23:58.838Z",
+  "updated_at": "2026-03-19T16:23:59.400Z",
   "terms": [
     {
       "id": "12160fa3-b1eb-4209-a406-7e4af559f4f4",
@@ -18041,6 +18041,36 @@
       "category": "text",
       "notes": "瑪吉拉仲著作或相關教言之題名，原藏文題名未確定。",
       "added_at": "2026-03-19T16:23:58.838Z",
+      "source_article": "瑪吉拉尊關於觀修的教言：如龍繞柱而坐",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "8944a34c-c202-4855-8544-5ab650f52968",
+      "original": "Мачиг Лабдрон",
+      "translation": "瑪吉拉仲",
+      "sanskrit": "ma gcig lab sgron (藏)",
+      "language": "sanskrit",
+      "category": "person",
+      "notes": "藏傳佛教大成就女行者，噶舉派大德，『切』法（Chöd）傳承祖師。",
+      "added_at": "2026-03-19T16:23:59.400Z",
+      "source_article": "瑪吉拉尊關於觀修的教言：如龍繞柱而坐",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "33b52bd0-ed0f-4232-9986-af3ba7e46e7c",
+      "original": "Кацом Ченмо",
+      "translation": "《卡宗卻莫》（待考）",
+      "sanskrit": "",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "瑪吉拉仲著作或相關教言之題名，原藏文題名未確定。",
+      "added_at": "2026-03-19T16:23:59.400Z",
       "source_article": "瑪吉拉尊關於觀修的教言：如龍繞柱而坐",
       "tibetan": "",
       "wylie": "",
