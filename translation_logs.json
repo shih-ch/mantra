@@ -2380,5 +2380,34 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-03-19",
+    "article": "2026-03-19",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "試試看轉梵文再轉繁中"
+      },
+      {
+        "type": "other",
+        "instruction": "前面加上\n【正文】\nGuru Dorje Drakpo Tsal（gu ru rdo rje drag po rtsal）\n\nDorje Drakpo Tsal 是蓮師十二大化身之中，以忿怒形相示現的一尊。\n\n在「遣除障礙」曼荼羅中，蓮花生大師（蓮師）安住於中央，其四周環繞十二大化身（藏語：རྣམ་འཕྲུལ་བཅུ་གཉིས་，namtrul chunyi，Wyl. rnam 'phrul bcu gnyis），每一位皆有其獨特而深奧的教法與修持。這十二尊為："
+      }
+    ]
   }
 ]
