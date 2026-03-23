@@ -2719,5 +2719,38 @@
         "instruction": "這句不用翻譯，其餘不變"
       }
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "article": "貢波札夏護法與其大黑天咒語考釋",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 4,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "這句不用翻譯，其餘不變"
+      },
+      {
+        "type": "other",
+        "instruction": "原文：OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA\n轉寫：oṃ śrī mahākāla trakṣaṭ mahākāla siddhi dri yaṃ tun ja ja（待考）\n漢音：唵 失哩 瑪哈嘎拉 扎夏 嘛哈嘎拉 悉地 直 央 頓 扎 扎（待考）\n繁體中文翻譯：\n唵 吉祥大黑天 扎夏 大黑天 成就 悉地 直 央 頓 扎 扎（意譯待考）\n句義：總持大黑天貢波札夏威力，速疾成辦護持與悉地之咒語（整體義，細部詞義待考）。\n這段只要保留原文拼音OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA的部份"
+      },
+      {
+        "type": "other",
+        "instruction": "原文：OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA\n轉寫：—\n漢音：—\n繁體中文翻譯：—\n句義：—\n改成 原文拼音：OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA"
+      }
+    ]
   }
 ]
