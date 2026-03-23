@@ -2752,5 +2752,30 @@
         "instruction": "原文：OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA\n轉寫：—\n漢音：—\n繁體中文翻譯：—\n句義：—\n改成 原文拼音：OṂ ŚRĪ MAHĀKĀLA TRAKSHAT MAHĀKĀLA SIDDHI DRI YAṂ TUN JA JA"
       }
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "article": "2026-03-19",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "補上英文的部份，其餘不變\n\n標題\n\nLong Mantra Of Tara\n\n內文英文\n\nHomage to the Three Jewels\n\nHomage to Noble Avalokiteśvara\n\nTo the Bodhisattva, the Great Being, the Great Compassionate One\n\nThus: May all suffering be removed for me\n\nMay all obstacles be bound and dispelled\n\nMay all suffering be shattered—Tārā, Svāhā!\n\nThese verses of aspiration from the noble heirs, like the Ganges river\n\nGathered within the aspirations of those who uphold the sacred Dharma\n\nSpoken for the sake of gathering vast roots of virtue\n\nMay all be dedicated for the expansion of the Buddha’s teachings."
+      }
+    ]
   }
 ]
