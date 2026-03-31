@@ -2867,5 +2867,50 @@
         "instruction": "把英語 以及圖上拉丁轉寫加入  其餘不變"
       }
     ]
+  },
+  {
+    "date": "2026-03-31",
+    "article": "2026-03-31",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 7,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "Mantra of Hayagrīva\n馬頭明王心咒\n一、主咒\n1\n\n藏文\nཨོཾཿ པདྨ་ཏཀྲིཏ་བེནྫ་ཀྲོ་དྷ་ཧ་ཡ་གྲཱི་ཝ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ།\n\n音讀轉寫\nOṃ hrīḥ padma takrit benza krodha haya grīva hulu hulu hūṃ phaṭ\n\n漢音\n嗡　赫哩　巴瑪　達格哩　邊雜　咕嚕達　哈雅　吉哩瓦　呼嚕　呼嚕　吽　呸\n\n句義\n皈敬並召請蓮華部金剛忿怒尊——馬頭明王；以威猛咒力摧伏障難，成就守護、降伏與破障之力。\n\n二、護持與降伏句\n2\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཛཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya jaḥ\n\n漢音\n康　拉剎　薩瑪雅　雜呵\n\n句義\n以三昧耶誓句守護、繫縛、立印。\n\n3\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བྷྱོཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya bhyoḥ\n\n漢音\n康　拉剎　薩瑪雅　彪呵\n\n句義\n以誓句之力震攝、驅散、發動威勢。\n\n4\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་དོག།\n\n音讀轉寫\nKhaṃ rakṣa samaya dog\n\n漢音\n康　拉剎　薩瑪雅　多格\n\n句義\n遣返、退散一切障礙與違緣。\n\n5\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཏིབ།\n\n音讀轉寫\nKhaṃ rakṣa samaya tib\n\n漢音\n康　拉剎　薩瑪雅　提布\n\n句義\n封固、隱覆、密護不令侵擾。\n\n6\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཛྱེར།\n\n音讀轉寫\nKhaṃ rakṣa samaya jyer\n\n漢音\n康　拉剎　薩瑪雅　傑耶爾\n\n句義\n擊中並制伏，令諸障失勢。\n\n7\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བེ།\n\n音讀轉寫\nKhaṃ rakṣa samaya be\n\n漢音\n康　拉剎　薩瑪雅　貝\n\n句義\n全然壓伏、勝伏一切違逆之力。\n\n8\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བུད།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud\n\n漢音\n康　拉剎　薩瑪雅　布德\n\n句義\n摧碎、破滅、毀壞障礙。\n\n9\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བུད་བུད་ཕཊ།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud bud phaṭ\n\n漢音\n康　拉剎　薩瑪雅　布德　布德　呸\n\n句義\n徹底摧碎、猛利斷除，以「呸」字作忿怒決斷之印。\n\n三、降伏魔障句\n10\n\n藏文\nཡ་བྱུང་པོ་མ་ར་ཡ་ཛཿ་ཛཿ\n\n音讀轉寫\nYa byungpo māra ya jaḥ jaḥ\n\n漢音\n雅　炯波　瑪拉　雅　雜呵　雜呵\n\n句義\n將現起之魔障、魔類、惱害之力悉皆降伏。\n\n11\n\n藏文\nཨོཾ་བེནྫ་དུན་བྷྱོ་ཏིག་ནན་ཛཿ་ཛཿ་ས་མ་ཡ་སྟཾ།\n\n音讀轉寫\nOṃ benza dun bhyo tig nan ja ja samaya staṃ\n\n漢音\n嗡　邊雜　敦　彪　地格　南　雜　雜　薩瑪雅　當\n\n句義\n以金剛護力繫縛、封定、壓制諸障，使其受誓句與本質印明所攝持。\n\n四、迴向文\n12\n\n藏文\nདགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག\n\n音讀轉寫\nDge ba 'di yis myur du bdag\n\n漢音\n給瓦　地伊　於爾都　達格\n\n句義\n願我以此善德、迅速成就。\n\n13\n\n藏文\nཏ་མཆོག་རོལ་པ་དྲུབ་གྱུར་ནས།\n\n音讀轉寫\nTa mchog rol pa grub gyur nas\n\n漢音\n達秋　柔巴　竹久涅\n\n句義\n成就最勝馬頭明王之威德妙用。\n\n14\n\n藏文\nའགྲོ་བ་ཀུན་ཀྱང་རྟ་མགྲིན་གྱི།\n\n音讀轉寫\n'Gro ba kun kyang rta mgrin gyi\n\n漢音\n卓瓦　昆將　達津吉\n\n句義\n願一切眾生皆蒙馬頭明王之力所攝受。\n\n15\n\n藏文\nདེ་ཡི་ས་ལ་གོད་པར་ཤོག།\n\n音讀轉寫\nDe yi sa la god par shog\n\n漢音\n得伊　薩拉　果巴秀\n\n句義\n願一切有情皆安立於彼境界、彼成就之地。"
+      },
+      {
+        "type": "other",
+        "instruction": "Mantra of Hayagrīva\n馬頭明王心咒\n一、主咒\n1\n\n藏文\nཨོཾ་ཧྲཱིཿ པདྨ་ཏཀྲིཏ་བེནྫ་ཀྲོ་དྷ་ཧ་ཡ་གྲཱི་ཝ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ།\n\n音讀轉寫\nOṃ hrīḥ padma takrit benza krodha haya grīva hulu hulu hūṃ phaṭ\n\n漢音\n嗡　赫哩　巴瑪　達格哩　邊雜　咕嚕達　哈雅　吉哩瓦　呼嚕　呼嚕　吽　呸\n\n句義\n皈敬並召請蓮華部金剛忿怒尊——馬頭明王；以威猛咒力摧伏障難，成就守護、降伏與破障之力。\n\n二、護持與降伏句\n2\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཛཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya jaḥ\n\n漢音\n康　拉剎　薩瑪雅　雜呵\n\n句義\n以三昧耶誓句守護、繫縛、立印。\n\n3\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བྷྱོཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya bhyoḥ\n\n漢音\n康　拉剎　薩瑪雅　彪呵\n\n句義\n以誓句之力震攝、驅散、發動威勢。\n\n4\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་དོག།\n\n音讀轉寫\nKhaṃ rakṣa samaya dog\n\n漢音\n康　拉剎　薩瑪雅　多格\n\n句義\n遣返、退散一切障礙與違緣。\n\n5\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཏིབ།\n\n音讀轉寫\nKhaṃ rakṣa samaya tib\n\n漢音\n康　拉剎　薩瑪雅　提布\n\n句義\n封固、隱覆、密護不令侵擾。\n\n6\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་ཛྱེར།\n\n音讀轉寫\nKhaṃ rakṣa samaya jyer\n\n漢音\n康　拉剎　薩瑪雅　傑耶爾\n\n句義\n擊中並制伏，令諸障失勢。\n\n7\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བེ།\n\n音讀轉寫\nKhaṃ rakṣa samaya be\n\n漢音\n康　拉剎　薩瑪雅　貝\n\n句義\n全然壓伏、勝伏一切違逆之力。\n\n8\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བུད།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud\n\n漢音\n康　拉剎　薩瑪雅　布德\n\n句義\n摧碎、破滅、毀壞障礙。\n\n9\n\n藏文\nཁཾ་རཀྵ་ས་མ་ཡ་བུད་བུད་ཕཊ།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud bud phaṭ\n\n漢音\n康　拉剎　薩瑪雅　布德　布德　呸\n\n句義\n徹底摧碎、猛利斷除，以「呸」字作忿怒決斷之印。\n\n三、降伏魔障句\n10\n\n藏文\nཡ་བྱུང་པོ་མ་ར་ཡ་ཛཿ་ཛཿ\n\n音讀轉寫\nYa byungpo māra ya jaḥ jaḥ\n\n漢音\n雅　炯波　瑪拉　雅　雜呵　雜呵\n\n句義\n將現起之魔障、魔類、惱害之力悉皆降伏。\n\n11\n\n藏文\nཨོཾ་བེནྫ་དུན་བྷྱོ་ཏིག་ནན་ཛཿ་ཛཿ་ས་མ་ཡ་སྟཾ།\n\n音讀轉寫\nOṃ benza dun bhyo tig nan ja ja samaya staṃ\n\n漢音\n嗡　邊雜　敦　彪　地格　南　雜　雜　薩瑪雅　當\n\n句義\n以金剛護力繫縛、封定、壓制諸障，使其受誓句與本質印明所攝持。\n\n四、迴向文\n12\n\n藏文\nདགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག\n\n音讀轉寫\nDge ba 'di yis myur du bdag\n\n漢音\n給瓦　地伊　於爾都　達格\n\n句義\n願我以此善德、迅速成就。\n\n13\n\n藏文\nཏ་མཆོག་རོལ་པ་དྲུབ་གྱུར་ནས།\n\n音讀轉寫\nTa mchog rol pa grub gyur nas\n\n漢音\n達秋　柔巴　竹久涅\n\n句義\n成就最勝馬頭明王之威德妙用。\n\n14\n\n藏文\nའགྲོ་བ་ཀུན་ཀྱང་རྟ་མགྲིན་གྱི།\n\n音讀轉寫\n'Gro ba kun kyang rta mgrin gyi\n\n漢音\n卓瓦　昆將　達津吉\n\n句義\n願一切眾生皆蒙馬頭明王之力所攝受。\n\n15\n\n藏文\nདེ་ཡི་ས་ལ་གོད་པར་ཤོག།\n\n音讀轉寫\nDe yi sa la god par shog\n\n漢音\n得伊　薩拉　果巴秀\n\n句義\n願一切有情皆安立於彼境界、彼成就之地。"
+      },
+      {
+        "type": "other",
+        "instruction": "加上翻譯"
+      },
+      {
+        "type": "other",
+        "instruction": "補上疑點/勘誤標註"
+      },
+      {
+        "type": "other",
+        "instruction": "\nMantra of Hayagrīva\n馬頭明王心咒\n1. 主咒\n\n藏文修正版\nཨོཾ་ཧྲཱིཿ པདྨ་ཏ་ཀྲིཏ་བེནྫ་ཀྲོ་དྷ་ཧ་ཡ་གྲཱི་ཝ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ།\n\n音讀轉寫\nOṃ hrīḥ padma ta krit benza krodha haya grīva hulu hulu hūṃ phaṭ\n\n圖片拉丁轉寫\nOM HRĪḤ Padma Takrit Benza Krodha Haya Gīva Hulu Hulu HŪṂ PHAT\n\n圖片下方英譯\n無\n\n句義\n皈敬並召請馬頭明王，以忿怒金剛之力摧伏障難、破除違緣。\n\n2\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་ཛཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya jaḥ\n\n圖片拉丁轉寫\nKham rakṣa samāya ja\n\n圖片下方英譯\nProtect and bind by sacred samaya.\n\n句義\n以三昧耶誓句守護、繫縛、攝持。\n\n3\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་བྷྱོཿ\n\n音讀轉寫\nKhaṃ rakṣa samaya bhyoḥ\n\n圖片拉丁轉寫\nKham rakṣa samāya bhyo\n\n圖片下方英譯\nGuard and dispel with power.\n\n句義\n以誓句威勢震攝、驅散、遣除障礙。\n\n4\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་དོག།\n\n音讀轉寫\nKhaṃ rakṣa samaya dog\n\n圖片拉丁轉寫\nKham rakṣa samāya Dok\n\n圖片下方英譯\nRepel and turn back obstacles.\n\n句義\n遣返、退散一切障難與違緣。\n\n5\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་ཏིབ།\n\n音讀轉寫\nKhaṃ rakṣa samaya tib\n\n圖片拉丁轉寫\nKham rakṣa samāya tib\n\n圖片下方英譯\nSeal and conceal with samaya.\n\n句義\n封固、隱覆、密護，不令侵擾。\n\n6\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་བྱེར།\n\n音讀轉寫\nKhaṃ rakṣa samaya byer\n\n圖片拉丁轉寫\nKham rakṣa samāya jyer\n\n圖片下方英譯\nStrike and subdue.\n\n句義\n擊中、壓制、降伏諸障。\n\n7\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་བེ།\n\n音讀轉寫\nKhaṃ rakṣa samaya be\n\n圖片拉丁轉寫\nKham rakṣa samāya be\n\n圖片下方英譯\nOverpower completely.\n\n句義\n全然壓伏、勝伏一切違逆之力。\n\n8\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་བུད།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud\n\n圖片拉丁轉寫\nKham rakṣa samāya bui\n\n圖片下方英譯\nCrush and destroy.\n\n句義\n摧碎、毀壞、滅除障礙。\n\n9\n\n藏文修正版\nཁཾ་རཀྵ་ས་མ་ཡ་བུད་བུད་ཕཊ།\n\n音讀轉寫\nKhaṃ rakṣa samaya bud bud phaṭ\n\n圖片拉丁轉寫\nKham rakṣa samāya bui bui PHAT\n\n圖片下方英譯\nOverpower and destroy—PHAT!\n\n句義\n徹底擊碎、猛利斷除，以「PHAT」作忿怒決斷之印。\n\n10\n\n藏文修正版\nཡ་བྱུང་པོ་མ་ར་ཡ་ཛཿ་ཛཿ\n\n音讀轉寫\nYa byungpo māra ya jaḥ jaḥ\n\n圖片拉丁轉寫\nYa byungpo Māra ya ja ja\n\n圖片下方英譯\nSubdue the arising Māras, ja ja.\n\n句義\n降伏現起之魔障、魔類與惱害之力。\n\n11\n\n藏文修正版\nཨོཾ་བེནྫ་དུན་བྷྱོ་ཏིག་ནན་ཛཿ་ཛཿ་ས་མ་ཡ་སྟཾ།\n\n音讀轉寫\nOṃ benza dun bhyo tig nan jaḥ jaḥ samaya staṃ\n\n圖片拉丁轉寫\nOM Benza Dun Bhyo Tig Nan Ja Ja Samaya Stam\n\n圖片下方英譯\nOM Vajra protector, bind with samaya, seal with the essence.\n\n句義\n以金剛護印與誓句封定、攝持、壓制諸障。\n\n迴向文\n12\n\n藏文修正版\nདགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག\n\n音讀轉寫\nDge ba 'di yis myur du bdag\n\n圖片拉丁轉寫\nGewé di yi nyur du dak\n\n圖片下方英譯\nBy this virtue, may I swiftly\n\n句義\n願我以此善德，迅速成就。\n\n13\n\n藏文修正版\nཏ་མཆོག་རོལ་པ་དྲུབ་གྱུར་ནས།\n\n音讀轉寫\nTa mchog rol pa grub gyur nas\n\n圖片拉丁轉寫\nTachok rolwa drub gyur né\n\n圖片下方英譯\nAccomplish the supreme play of Horse-Necked Hayagrīva.\n\n句義\n成就最勝馬頭明王之威德妙用。\n\n14\n\n藏文修正版\nའགྲོ་བ་ཀུན་ཀྱང་རྟ་མགྲིན་གྱི།\n\n音讀轉寫\n'Gro ba kun kyang rta mgrin gyi\n\n圖片拉丁轉寫\nDrowa kün kyang Tamdrin gyi\n\n圖片下方英譯\nMay all beings be embraced by Tamdrin’s compassion.\n\n句義\n願一切眾生皆蒙馬頭明王所攝受。\n\n15\n\n藏文修正版\nདེ་ཡི་ས་ལ་གོད་པར་ཤོག།\n\n音讀轉寫\nDe yi sa la god par shog\n\n圖片拉丁轉寫\nDé yi sa la göpar shok\n\n圖片下方英譯\nMay all be established in that state.\n\n句義\n願一切眾生皆安立於彼境界、彼成就之地。"
+      },
+      {
+        "type": "other",
+        "instruction": "轉寫（藏文 Wylie） 拿掉  補回 圖片拉丁轉寫。 藏文修正版改成藏文"
+      }
+    ]
   }
 ]
