@@ -2977,5 +2977,50 @@
         "instruction": "藏文\n轉寫\n漢音\n英文\n翻譯\n句義"
       }
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "article": "普巴金剛讚與心咒祈願文",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": true,
+      "fiveColumnMode": true,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 7,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "藏文\n轉寫\n漢音\n英文\n翻譯\n句義"
+      },
+      {
+        "type": "other",
+        "instruction": "每一句都要有漢音"
+      },
+      {
+        "type": "other",
+        "instruction": "補上原文的音譯"
+      },
+      {
+        "type": "other",
+        "instruction": "英文用你翻譯的"
+      },
+      {
+        "type": "other",
+        "instruction": "發音轉寫用原文"
+      },
+      {
+        "type": "other",
+        "instruction": "轉寫（Wylie）拿掉"
+      }
+    ]
   }
 ]
