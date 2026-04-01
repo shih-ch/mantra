@@ -2952,5 +2952,30 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-04-01",
+    "article": "2026-03-31",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": true,
+      "fiveColumnMode": true,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "藏文\n轉寫\n漢音\n英文\n翻譯\n句義"
+      }
+    ]
   }
 ]
