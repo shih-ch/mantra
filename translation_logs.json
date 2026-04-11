@@ -3354,5 +3354,34 @@
         "instruction": "不是，是用   英文：Hrīḥ. From the all-pervading space of pure, natural luminosity"
       }
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "article": "2026-04-11",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 3,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "漢音：— 請補上"
+      },
+      {
+        "type": "other",
+        "instruction": "【疑點/勘誤】\n句 2 中「ཧ་རི་ཧ་རི་ཧ་རི」：\n\n疑點：是否對應梵音「ha ri ha ri ha ri」或其他變體，需依更完整傳承音軌確認。（待考）\n句 4「嗡哲母舍哈吽索哈」：\n\n疑點：此漢字音寫與「ཨོཾ་བྷྲཱུྃ་ཧྲཱིཿ ཧ་ཧཱུྃ་སྭཱ་ཧཱ」的音節對應關係未明，可能為他傳口誦音形或另一路線之上方乘獅咒。（待考）\n補上"
+      }
+    ]
   }
 ]
