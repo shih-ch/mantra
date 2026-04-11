@@ -3309,5 +3309,50 @@
         "instruction": "原文是一句藏文 一句英文翻譯，所以都是同一句"
       }
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "article": "2026-04-11",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 7,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "原文是一句藏文依據英文，都是同一句"
+      },
+      {
+        "type": "other",
+        "instruction": "原文是一句藏文一句音譯一句英文，都是同一句"
+      },
+      {
+        "type": "other",
+        "instruction": "轉寫請用原文"
+      },
+      {
+        "type": "other",
+        "instruction": "英文的部份獨立一條"
+      },
+      {
+        "type": "other",
+        "instruction": "英文的部份要有英文：做開頭"
+      },
+      {
+        "type": "other",
+        "instruction": "不是，是用   英文：Hrīḥ. From the all-pervading space of pure, natural luminosity"
+      }
+    ]
   }
 ]
