@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-22T15:55:32.951Z",
+  "updated_at": "2026-04-22T15:57:31.374Z",
   "terms": [
     {
       "id": "12160fa3-b1eb-4209-a406-7e4af559f4f4",
@@ -36282,6 +36282,36 @@
       "notes": "獅子吼心咒，含多種子字 oṃ, āḥ, hrīḥ, hūṃ, phaṭ 與『獅子吼』音節 siṃhanāda",
       "added_at": "2026-04-22T15:55:32.951Z",
       "source_article": "獅子吼心咒讚頌與祈願文",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "b0c2cc96-9dee-401a-b5dc-1eb30cdf267f",
+      "original": "ར་ཧུ་ལ་རྒྱལ་པོ",
+      "translation": "羅睺羅王",
+      "sanskrit": "Rāhula (Rahula) / Tib. gza’ ra hu la",
+      "language": "sanskrit",
+      "category": "deity",
+      "notes": "藏傳佛教中之護法尊，常稱『羅睺羅王』或『羅睺羅尊』，與佛弟子羅睺羅（Rāhula）不同。",
+      "added_at": "2026-04-22T15:57:31.374Z",
+      "source_article": "羅睺羅王唐卡與心咒",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "0eb30885-4662-4959-b096-b3ad7e0b3c63",
+      "original": "ཨོཾ་ར་ཧུ་ལ་ཧཱུྃ་ཕཊ།།",
+      "translation": "嗡 羅睺羅 吽 吒",
+      "sanskrit": "oṃ rahula hūṃ phaṭ",
+      "language": "sanskrit",
+      "category": "mantra",
+      "notes": "羅睺羅尊之短咒，用於祈請護持、摧破違緣。",
+      "added_at": "2026-04-22T15:57:31.374Z",
+      "source_article": "羅睺羅王唐卡與心咒",
       "tibetan": "",
       "wylie": "",
       "definition": "",
