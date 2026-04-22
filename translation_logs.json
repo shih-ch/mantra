@@ -3488,5 +3488,25 @@
         "instruction": "這段解說請加入\n\n- **原文**：圖中原樣（含訛字）\n- **漢音**：能對應 T.1076 不空譯本的用該譯本漢字，其餘以不空/地婆訶羅風格補擬（標示 *）\n- **翻譯**：逐字還原標準梵文並直譯\n- **意譯**：法義脈絡下的通順翻譯\n\n訛字復原原則見之前，此處直接以括注 `[→ 校訂]` 呈現。"
       }
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "article": "2026-04-22",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
