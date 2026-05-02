@@ -3613,5 +3613,30 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-05-02",
+    "article": "2026-05-02",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-5.1",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "阿閦如來念誦供養法懺悔眞言\n悉曇文（黑色，第一行）\noṃ sarva pāpasphoṭa dahana vajrāya svāhā\n（依悉曇字形辨讀；圖中字形為標準悉曇 oṃ / sa rva / pā pa spho ṭa / da ha na / va jrā ya / svā hā）\n漢字音譯（紅色）\n唵　薩嚩　播(引)跛娑普吒(二合)　娜訶曩　嚩日囉(二合引)野　娑嚩(二合引)訶\n羅馬轉寫（藍色）\nOṃ sarva pāpaṃsphuṭa dahānā Vajraya svāhā\n漢字音譯（黑色，底行 — 元明系/蒙漢系轉寫風格）\n唵　薩斡　巴鉢月思普吒　達賀囉　斡資囉耶　娑婆訶"
+      }
+    ]
   }
 ]
