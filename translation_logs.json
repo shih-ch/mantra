@@ -3756,5 +3756,30 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-09-29",
+    "article": "https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-6-sol",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "རྒྱལ་པོ་ལ་གདམས་པའི་མདོ་ལས། དུས་ཀྱི་ཉེན་ཏེ་རྒྱལ་པོ་འགྲོ་འགྱུར་ན། །ལོངས་སྤྱོད་མཛའ་དང་བཤེས་རྣམས་རྗེས་མི་འབྲངས། །སྐྱེས་བུ་དག་ནི་གང་ནས་གར་འགྲོ་ཡང། །ལས་ནི་གྲིབ་མ་བཞིན་དུ་རྗེས་སུ་འབྲངས།"
+      }
+    ]
   }
 ]
