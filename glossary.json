@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-10T10:44:45.762Z",
+  "updated_at": "2026-09-29T23:50:17.208Z",
   "terms": [
     {
       "id": "12160fa3-b1eb-4209-a406-7e4af559f4f4",
@@ -39822,6 +39822,36 @@
       "notes": "一尊特定佛名，漢譯尚待校勘；直譯近於『頂髻無盡智慧光明生源如來』",
       "added_at": "2026-08-10T10:44:45.762Z",
       "source_article": "大鵬鳥的由來",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "528ca00a-2a09-4bc3-a2ec-6cec6fd88c13",
+      "original": "རྒྱལ་པོ་ལ་གདམས་པའི་མདོ",
+      "translation": "《教誡國王經》",
+      "sanskrit": "Rājāvavādaka-sūtra",
+      "language": "sanskrit",
+      "category": "text",
+      "notes": "經名；梵文對應為推定。",
+      "added_at": "2026-09-29T23:50:17.208Z",
+      "source_article": "https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#",
+      "tibetan": "",
+      "wylie": "",
+      "definition": "",
+      "link": ""
+    },
+    {
+      "id": "d725ab84-2d24-4e38-b910-9ed3f9ce7f5b",
+      "original": "ལས",
+      "translation": "業",
+      "sanskrit": "karma",
+      "language": "sanskrit",
+      "category": "concept",
+      "notes": "",
+      "added_at": "2026-09-29T23:50:17.208Z",
+      "source_article": "https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#",
       "tibetan": "",
       "wylie": "",
       "definition": "",
