@@ -1,10 +1,14 @@
 # 佛學文章翻譯與研究集
 
-共 148 篇翻譯文章 ｜ 14 份研究資料
+共 149 篇翻譯文章 ｜ 14 份研究資料
 
 ## 翻譯文章
 
 ### 2026
+
+#### 九月
+
+- [https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#](./translations/2026/09/2026-09-29-https-www-facebook-com-story-php-story_fbid-1004284339343150-id-100092847805691-.md) — , 2026-09-29
 
 #### 八月
 
