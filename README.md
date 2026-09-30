@@ -8,7 +8,7 @@
 
 #### 九月
 
-- [https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#](./translations/2026/09/2026-09-29-https-www-facebook-com-story-php-story_fbid-1004284339343150-id-100092847805691-.md) — , 2026-09-29
+- [教誡國王經](./translations/2026/09/2026-09-29-https-www-facebook-com-story-php-story_fbid-1004284339343150-id-100092847805691-.md) — , 2026-09-29
 
 #### 八月
 
