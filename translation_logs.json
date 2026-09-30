@@ -3830,5 +3830,25 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-09-30",
+    "article": "https://www.facebook.com/story.php?story_fbid=1004284339343150&id=100092847805691&post_id=100092847805691_1004284339343150&rdid=BzraE6VqjPY5sGE5#",
+    "function": "translation",
+    "provider": "anthropic",
+    "model": "claude-opus-5-5",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 1,
+    "corrections": []
   }
 ]
