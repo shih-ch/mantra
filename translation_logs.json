@@ -3899,5 +3899,30 @@
     },
     "rounds": 1,
     "corrections": []
+  },
+  {
+    "date": "2026-10-10",
+    "article": "2026-10-10",
+    "function": "translation",
+    "provider": "openai",
+    "model": "gpt-6-sol",
+    "params": {
+      "keepOriginalPerLine": true,
+      "narrativePerLine": false,
+      "fiveColumnMode": false,
+      "fiveColumnScope": "全文",
+      "tibetanTranslitMode": "A1",
+      "mantraTranslit": "wylie",
+      "onlyVerseMantra": false,
+      "proofreadMode": "annotate_only",
+      "relayLanguage": "none"
+    },
+    "rounds": 2,
+    "corrections": [
+      {
+        "type": "other",
+        "instruction": "གདངས། མདངས།\nSometimes it is not easy to keep the meanings of gdangs and mdangs apart. But perhaps we can live with this distinction: dgangs is vocal or audial impulse or dynamism and hence it could mean “tune, melody, lyrics, etc.” whereas mdangs is optical or visual impulse and hence is connected with “colour, shimmer, glow, etc.” But then what do we do with terms such as rig gdangs or rig pa’i gdangs? Perhaps gdangs in this context is to be understood in the sense of “impulse, pulse, dynamism, impetus.”\n"
+      }
+    ]
   }
 ]
